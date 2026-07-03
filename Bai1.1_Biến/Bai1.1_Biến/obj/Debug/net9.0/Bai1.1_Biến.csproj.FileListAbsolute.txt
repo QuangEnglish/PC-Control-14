@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\bin\Debug\net9.0\Bai1.1_Biến.exe
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\bin\Debug\net9.0\Bai1.1_Biến.deps.json
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\bin\Debug\net9.0\Bai1.1_Biến.runtimeconfig.json
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\bin\Debug\net9.0\Bai1.1_Biến.dll
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\bin\Debug\net9.0\Bai1.1_Biến.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.dll
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\refint\Bai1.1_Biến.dll
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\Bai1.1_Biến.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai1.1_Biến\Bai1.1_Biến\obj\Debug\net9.0\ref\Bai1.1_Biến.dll
