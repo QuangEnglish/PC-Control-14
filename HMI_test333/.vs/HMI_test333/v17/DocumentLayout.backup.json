@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hoc WINFORM C#\\HMI_test333\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6820A881-48AB-4F54-A2D3-10E229466E82}|HMI_test333\\HMI_test333.csproj|c:\\users\\admin\\desktop\\hoc winform c#\\hmi_test333\\hmi_test333\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6820A881-48AB-4F54-A2D3-10E229466E82}|HMI_test333\\HMI_test333.csproj|solutionrelative:hmi_test333\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6820A881-48AB-4F54-A2D3-10E229466E82}|HMI_test333\\HMI_test333.csproj|C:\\Users\\Admin\\Desktop\\Hoc WINFORM C#\\HMI_test333\\hmi_test333\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6820A881-48AB-4F54-A2D3-10E229466E82}|HMI_test333\\HMI_test333.csproj|solutionrelative:hmi_test333\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hoc WINFORM C#\\HMI_test333\\HMI_test333\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HMI_test333\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hoc WINFORM C#\\HMI_test333\\HMI_test333\\MainWindow.xaml*",
+              "RelativeToolTip": "HMI_test333\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-20T07:58:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hoc WINFORM C#\\HMI_test333\\HMI_test333\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HMI_test333\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hoc WINFORM C#\\HMI_test333\\HMI_test333\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HMI_test333\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:50:06.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

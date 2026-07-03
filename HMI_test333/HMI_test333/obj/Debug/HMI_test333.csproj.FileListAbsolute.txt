@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333_MarkupCompile.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.g.resources
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\bin\Debug\HMI_test333.exe.config
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\bin\Debug\HMI_test333.exe
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\bin\Debug\HMI_test333.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.exe
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\HMI_test333\HMI_test333\obj\Debug\HMI_test333.exe.config
