@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAV\\BTVN\\01\\HoSoNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018275E1-DC26-425C-8153-320996EF3D04}|HoSoNhanVien\\HoSoNhanVien.csproj|d:\\mav\\btvn\\01\\hosonhanvien\\hosonhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018275E1-DC26-425C-8153-320996EF3D04}|HoSoNhanVien\\HoSoNhanVien.csproj|solutionrelative:hosonhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAV\\BTVN\\01\\HoSoNhanVien\\HoSoNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "HoSoNhanVien\\Program.cs",
+              "ToolTip": "D:\\MAV\\BTVN\\01\\HoSoNhanVien\\HoSoNhanVien\\Program.cs",
+              "RelativeToolTip": "HoSoNhanVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:37:59.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

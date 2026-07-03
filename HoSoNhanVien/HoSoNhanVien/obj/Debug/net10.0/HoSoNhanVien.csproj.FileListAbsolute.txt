@@ -1,0 +1,14 @@
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\bin\Debug\net10.0\HoSoNhanVien.exe
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\bin\Debug\net10.0\HoSoNhanVien.deps.json
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\bin\Debug\net10.0\HoSoNhanVien.runtimeconfig.json
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\bin\Debug\net10.0\HoSoNhanVien.dll
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\bin\Debug\net10.0\HoSoNhanVien.pdb
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.AssemblyInfoInputs.cache
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.AssemblyInfo.cs
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.csproj.CoreCompileInputs.cache
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.dll
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\refint\HoSoNhanVien.dll
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.pdb
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\HoSoNhanVien.genruntimeconfig.cache
+D:\MAV\BTVN\01\HoSoNhanVien\HoSoNhanVien\obj\Debug\net10.0\ref\HoSoNhanVien.dll
