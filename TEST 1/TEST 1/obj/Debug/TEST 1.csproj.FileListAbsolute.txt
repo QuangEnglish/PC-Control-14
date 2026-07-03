@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\bin\Debug\TEST 1.exe.config
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\bin\Debug\TEST 1.exe
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\bin\Debug\TEST 1.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST_1.Form1.resources
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST 1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST 1.exe
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST 1.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\TEST 1\TEST 1\obj\Debug\TEST 1.exe.config
