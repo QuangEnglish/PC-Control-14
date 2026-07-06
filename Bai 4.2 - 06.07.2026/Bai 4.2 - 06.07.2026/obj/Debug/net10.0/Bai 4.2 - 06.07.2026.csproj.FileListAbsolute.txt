@@ -1,0 +1,15 @@
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.sourcelink.json
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\bin\Debug\net10.0\Bai 4.2 - 06.07.2026.exe
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\bin\Debug\net10.0\Bai 4.2 - 06.07.2026.deps.json
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\bin\Debug\net10.0\Bai 4.2 - 06.07.2026.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\bin\Debug\net10.0\Bai 4.2 - 06.07.2026.dll
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\bin\Debug\net10.0\Bai 4.2 - 06.07.2026.pdb
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.dll
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\refint\Bai 4.2 - 06.07.2026.dll
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.pdb
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\Bai 4.2 - 06.07.2026.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\Bai 4.2 - 06.07.2026\Bai 4.2 - 06.07.2026\obj\Debug\net10.0\ref\Bai 4.2 - 06.07.2026.dll

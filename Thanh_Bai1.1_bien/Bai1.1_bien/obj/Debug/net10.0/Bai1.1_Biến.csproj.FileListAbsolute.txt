@@ -1,0 +1,15 @@
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\bin\Release\net9.0\Bai1.1_Biến.exe
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\bin\Release\net9.0\Bai1.1_Biến.deps.json
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\bin\Release\net9.0\Bai1.1_Biến.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\bin\Release\net9.0\Bai1.1_Biến.dll
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\bin\Release\net9.0\Bai1.1_Biến.pdb
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.sourcelink.json
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.dll
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\refint\Bai1.1_Biến.dll
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.pdb
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\Bai1.1_Biến.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\obj\Release\net9.0\ref\Bai1.1_Biến.dll

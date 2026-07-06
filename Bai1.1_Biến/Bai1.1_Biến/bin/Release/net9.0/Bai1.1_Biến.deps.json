@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai1.1_Biến/1.0.0": {
+        "runtime": {
+          "Bai1.1_Biến.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai1.1_Biến/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

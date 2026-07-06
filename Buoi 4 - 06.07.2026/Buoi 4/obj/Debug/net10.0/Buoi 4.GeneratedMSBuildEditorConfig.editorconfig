@@ -10,13 +10,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-<<<<<<< Updated upstream:Thanh_Bai1.1_bien/Bai1.1_bien/obj/Debug/net10.0/Bai1.1_bien.GeneratedMSBuildEditorConfig.editorconfig
-build_property.RootNamespace = Bai1._1_bien
-build_property.ProjectDir = D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\
-=======
-build_property.RootNamespace = Bai1._1_Biến
-build_property.ProjectDir = D:\Hoc_C#\PC-Control-14\Bai1.1_Biến\Bai1.1_Biến\
->>>>>>> Stashed changes:Bai1.1_Biến/Bai1.1_Biến/obj/Release/net9.0/Bai1.1_Biến.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = Buoi_4
+build_property.ProjectDir = D:\Hoc_C#\Buoi 4\Buoi 4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
