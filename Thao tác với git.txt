@@ -13,3 +13,10 @@
 - git commit -m "thich commit gì thì commit": 
 - git push: đẩy toàn bộ file lên nhánh remote
 
+- git merge: gộp toàn bộ commit từ nhánh này sang nhánh khác
+- git cherry-pick <hash-commit>:  nhặt commit từ nhánh này sang nhánh khác
+
+- git log --oneline: xem log lịch sử các commit tại nhánh đang đứng hiện tại (để lấy được hash-commit)
+
+- git stash: cất tạm code mình mới code hoặc mới sửa đổi vào bộ nhớ ảo để chuyển được nhánh sang nhánh khác 
+- git stash pop: lôi code mk vừa cất trong bộ nhớ ảo ra, sau khi đã chuyển được sang nhánh khác rồi
