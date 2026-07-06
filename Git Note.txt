@@ -1,0 +1,20 @@
+funnythanh-glitchhttps://github.com/funnythanh-glitch/Thanh_PC-Control-14.git
+git init
+git add .
+git commit -m "lan dau commit"
+git push (push tử lần 2)
+git clone https://github.com/QuangEnglish/PC-Control-14.git (copy nhanh main ve PC)
+git checkout main
+git pull origin main
+git checkout -b feature/ten-nhanh-moi  //tao nhanh moi tu maingit remote add origin https://github.com/anhvision/VisionDemo.gitgit pull origin feature/nguyen_xuan_thanhgit fetch
+
+
+//up bai len Git
+git branch (xem mình đang ở nhánh nào)0
+git stash (luu Bài đặt nhầm ở nhánh kenh-giai-tri lên bộ nhớ ảo)
+git checkout feature/nguyen_xuan_thanh (chuyển về nhánh nguyen_xuan_thanh)
+git stash pop (đẩy bài trên bộ nhớ ảo lên nhánh nguyen_xuan_thanh)
+
+git add .
+git commit -m "Thanh commit lan 6"
+git push
