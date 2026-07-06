@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai_tap2_Toan_tu/1.0.0": {
+        "runtime": {
+          "Bai_tap2_Toan_tu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_tap2_Toan_tu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

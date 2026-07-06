@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\bin\Debug\net9.0\Bai_tap2_Toan_tu.exe
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\bin\Debug\net9.0\Bai_tap2_Toan_tu.deps.json
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\bin\Debug\net9.0\Bai_tap2_Toan_tu.runtimeconfig.json
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\bin\Debug\net9.0\Bai_tap2_Toan_tu.dll
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\bin\Debug\net9.0\Bai_tap2_Toan_tu.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.dll
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\refint\Bai_tap2_Toan_tu.dll
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.pdb
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\Bai_tap2_Toan_tu.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hoc WINFORM C#\BAI_TAP\Bai_tap2_Toan_tu\Bai_tap2_Toan_tu\obj\Debug\net9.0\ref\Bai_tap2_Toan_tu.dll
