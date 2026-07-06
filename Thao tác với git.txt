@@ -8,3 +8,8 @@
 - git branch -r: để biết các nhánh đang tồn tại trên remote
 - git branch: để biết các nhánh đang tồn tại trên local
 - git checkout feature/khanhdn1111: câu lệnh chuyển sang nhánh feature/khanhdn1111
+
+- git add .  : để chọn tất cả các file đang có, bao gồm cả file mới
+- git commit -m "thich commit gì thì commit": 
+- git push: đẩy toàn bộ file lên nhánh remote
+
