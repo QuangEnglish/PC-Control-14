@@ -1,0 +1,10 @@
+
+
+- Lần đầu chưa có kho: git clone https://github.com/QuangEnglish/PC-Control-14.git
+
+- git pull origin main: = (git fetch + git merge):  kéo code từ remote xuống local 
+- git fetch: là để reload lại dữ liệu từ reload về máy (chỉ reload, chưa cập nhật lại code mới)
+- git merge: là gộp code nhánh này sang nhánh khác
+- git branch -r: để biết các nhánh đang tồn tại trên remote
+- git branch: để biết các nhánh đang tồn tại trên local
+- git checkout feature/khanhdn1111: câu lệnh chuyển sang nhánh feature/khanhdn1111
