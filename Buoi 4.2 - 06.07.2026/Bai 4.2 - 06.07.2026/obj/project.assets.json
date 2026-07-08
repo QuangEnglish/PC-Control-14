@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hoc_C#\\PC-Control-14\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026.csproj",
+      "projectUniqueName": "D:\\Hoc_C#\\PC-Control-14\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026.csproj",
       "projectName": "Bai 4.2 - 06.07.2026",
-      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026.csproj",
+      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Hoc_C#\\PC-Control-14\\Bai 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\obj\\",
+      "outputPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
