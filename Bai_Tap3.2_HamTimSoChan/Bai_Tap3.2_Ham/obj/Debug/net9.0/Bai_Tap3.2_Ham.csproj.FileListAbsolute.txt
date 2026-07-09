@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\bin\Debug\net9.0\Bai_Tap3.2_Ham.exe
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\bin\Debug\net9.0\Bai_Tap3.2_Ham.deps.json
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\bin\Debug\net9.0\Bai_Tap3.2_Ham.runtimeconfig.json
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\bin\Debug\net9.0\Bai_Tap3.2_Ham.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\bin\Debug\net9.0\Bai_Tap3.2_Ham.pdb
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\refint\Bai_Tap3.2_Ham.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.pdb
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\Bai_Tap3.2_Ham.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.2_Ham\Bai_Tap3.2_Ham\obj\Debug\net9.0\ref\Bai_Tap3.2_Ham.dll
