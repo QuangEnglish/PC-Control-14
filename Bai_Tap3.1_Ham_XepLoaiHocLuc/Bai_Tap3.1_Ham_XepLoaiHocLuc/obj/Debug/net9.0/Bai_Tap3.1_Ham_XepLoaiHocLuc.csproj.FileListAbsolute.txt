@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\bin\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.exe
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\bin\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.deps.json
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\bin\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.runtimeconfig.json
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\bin\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\bin\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.pdb
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\refint\Bai_Tap3.1_Ham_XepLoaiHocLuc.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.pdb
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\Bai_Tap3.1_Ham_XepLoaiHocLuc.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.1_Ham_XepLoaiHocLuc\Bai_Tap3.1_Ham_XepLoaiHocLuc\obj\Debug\net9.0\ref\Bai_Tap3.1_Ham_XepLoaiHocLuc.dll
