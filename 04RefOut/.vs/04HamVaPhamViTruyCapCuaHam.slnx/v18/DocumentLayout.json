@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAV\\BTVN\\03\\04HamVaPhamViTruyCapCuaHam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D1DE5B-DD91-2C32-7EEC-43B12AB6BFDB}|04HamVaPhamViTruyCapCuaHam\\04HamVaPhamViTruyCapCuaHam.csproj|d:\\mav\\btvn\\03\\04hamvaphamvitruycapcuaham\\04hamvaphamvitruycapcuaham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D1DE5B-DD91-2C32-7EEC-43B12AB6BFDB}|04HamVaPhamViTruyCapCuaHam\\04HamVaPhamViTruyCapCuaHam.csproj|solutionrelative:04hamvaphamvitruycapcuaham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAV\\BTVN\\03\\04HamVaPhamViTruyCapCuaHam\\04HamVaPhamViTruyCapCuaHam\\Program.cs",
+              "RelativeDocumentMoniker": "04HamVaPhamViTruyCapCuaHam\\Program.cs",
+              "ToolTip": "D:\\MAV\\BTVN\\03\\04HamVaPhamViTruyCapCuaHam\\04HamVaPhamViTruyCapCuaHam\\Program.cs",
+              "RelativeToolTip": "04HamVaPhamViTruyCapCuaHam\\Program.cs",
+              "ViewState": "AgIAACcAAACA/f////8XwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T15:54:35.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

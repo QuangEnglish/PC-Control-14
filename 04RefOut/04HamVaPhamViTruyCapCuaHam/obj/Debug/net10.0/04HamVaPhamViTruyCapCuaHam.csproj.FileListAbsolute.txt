@@ -1,0 +1,15 @@
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\bin\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.exe
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\bin\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.deps.json
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\bin\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.runtimeconfig.json
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\bin\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.dll
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\bin\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.pdb
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.AssemblyInfoInputs.cache
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.AssemblyInfo.cs
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.csproj.CoreCompileInputs.cache
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.sourcelink.json
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.dll
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\refint\04HamVaPhamViTruyCapCuaHam.dll
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.pdb
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\04HamVaPhamViTruyCapCuaHam.genruntimeconfig.cache
+D:\MAV\BTVN\03\04HamVaPhamViTruyCapCuaHam\04HamVaPhamViTruyCapCuaHam\obj\Debug\net10.0\ref\04HamVaPhamViTruyCapCuaHam.dll
