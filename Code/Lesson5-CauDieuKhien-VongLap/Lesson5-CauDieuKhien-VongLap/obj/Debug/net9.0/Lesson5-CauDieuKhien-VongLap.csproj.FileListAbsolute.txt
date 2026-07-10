@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\bin\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\bin\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\bin\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\bin\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\bin\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\refint\Lesson5-CauDieuKhien-VongLap.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\Lesson5-CauDieuKhien-VongLap.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson5-CauDieuKhien-VongLap\Lesson5-CauDieuKhien-VongLap\obj\Debug\net9.0\ref\Lesson5-CauDieuKhien-VongLap.dll
