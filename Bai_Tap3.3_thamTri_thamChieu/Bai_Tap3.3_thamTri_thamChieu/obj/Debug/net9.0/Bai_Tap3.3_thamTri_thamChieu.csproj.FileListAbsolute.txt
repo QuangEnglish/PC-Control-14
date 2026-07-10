@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\bin\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.exe
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\bin\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.deps.json
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\bin\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.runtimeconfig.json
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\bin\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\bin\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.pdb
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\refint\Bai_Tap3.3_thamTri_thamChieu.dll
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.pdb
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\Bai_Tap3.3_thamTri_thamChieu.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\Bai_Tap3.3_thamTri_thamChieu\Bai_Tap3.3_thamTri_thamChieu\obj\Debug\net9.0\ref\Bai_Tap3.3_thamTri_thamChieu.dll

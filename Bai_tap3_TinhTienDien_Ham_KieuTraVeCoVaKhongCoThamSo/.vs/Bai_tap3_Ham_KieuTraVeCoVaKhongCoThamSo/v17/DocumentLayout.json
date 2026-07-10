@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HocC#\\BAI_TAP\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\",
+  "WorkspaceRootPath": "D:\\HocC#\\PC-Control-14\\Bai_tap3_TinhTienDien_Ham_KieuTraVeCoVaKhongCoThamSo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FE79AD6-1B43-4B07-9B71-45A1DA0A1EA2}|Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo.csproj|d:\\hocc#\\bai_tap\\bai_tap3_ham_kieutravecovakhongcothamso\\bai_tap3_ham_kieutravecovakhongcothamso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FE79AD6-1B43-4B07-9B71-45A1DA0A1EA2}|Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo.csproj|d:\\hocc#\\pc-control-14\\bai_tap3_tinhtiendien_ham_kieutravecovakhongcothamso\\bai_tap3_ham_kieutravecovakhongcothamso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FE79AD6-1B43-4B07-9B71-45A1DA0A1EA2}|Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo.csproj|solutionrelative:bai_tap3_ham_kieutravecovakhongcothamso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\PC-Control-14\\Bai_tap3_TinhTienDien_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Program.cs",
               "RelativeDocumentMoniker": "Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Program.cs",
-              "ToolTip": "D:\\HocC#\\BAI_TAP\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Program.cs",
+              "ToolTip": "D:\\HocC#\\PC-Control-14\\Bai_tap3_TinhTienDien_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Program.cs",
               "RelativeToolTip": "Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T08:33:18.458Z",
               "EditorCaption": ""

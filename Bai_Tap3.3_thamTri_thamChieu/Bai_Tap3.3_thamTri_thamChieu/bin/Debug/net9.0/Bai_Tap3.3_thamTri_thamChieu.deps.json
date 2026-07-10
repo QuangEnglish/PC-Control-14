@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai_Tap3.3_thamTri_thamChieu/1.0.0": {
+        "runtime": {
+          "Bai_Tap3.3_thamTri_thamChieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_Tap3.3_thamTri_thamChieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

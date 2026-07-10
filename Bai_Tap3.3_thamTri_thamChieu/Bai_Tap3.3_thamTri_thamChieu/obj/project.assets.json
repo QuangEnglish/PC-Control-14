@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocC#\\PC-Control-14\\Bai_tap3_TinhTienDien_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo.csproj",
-      "projectName": "Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo",
-      "projectPath": "D:\\HocC#\\PC-Control-14\\Bai_tap3_TinhTienDien_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo.csproj",
+      "projectUniqueName": "D:\\HocC#\\BAI_TAP\\Bai_Tap3.3_thamTri_thamChieu\\Bai_Tap3.3_thamTri_thamChieu\\Bai_Tap3.3_thamTri_thamChieu.csproj",
+      "projectName": "Bai_Tap3.3_thamTri_thamChieu",
+      "projectPath": "D:\\HocC#\\BAI_TAP\\Bai_Tap3.3_thamTri_thamChieu\\Bai_Tap3.3_thamTri_thamChieu\\Bai_Tap3.3_thamTri_thamChieu.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\HocC#\\PC-Control-14\\Bai_tap3_TinhTienDien_Ham_KieuTraVeCoVaKhongCoThamSo\\Bai_tap3_Ham_KieuTraVeCoVaKhongCoThamSo\\obj\\",
+      "outputPath": "D:\\HocC#\\BAI_TAP\\Bai_Tap3.3_thamTri_thamChieu\\Bai_Tap3.3_thamTri_thamChieu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
