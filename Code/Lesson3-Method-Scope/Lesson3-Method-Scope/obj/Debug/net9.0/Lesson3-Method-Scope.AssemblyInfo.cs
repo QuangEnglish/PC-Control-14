@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson3-Method-Scope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6be3515b762b63c029924ae50f1c42b5dec111")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+860bf9c1842b9787d656f45881a3fa50fe560025")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson3-Method-Scope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson3-Method-Scope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
