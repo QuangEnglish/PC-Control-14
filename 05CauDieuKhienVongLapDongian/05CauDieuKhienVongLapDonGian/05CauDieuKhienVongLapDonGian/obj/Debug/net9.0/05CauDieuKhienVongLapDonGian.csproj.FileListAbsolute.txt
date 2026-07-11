@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\bin\Debug\net9.0\05CauDieuKhienVongLapDonGian.exe
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\bin\Debug\net9.0\05CauDieuKhienVongLapDonGian.deps.json
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\bin\Debug\net9.0\05CauDieuKhienVongLapDonGian.runtimeconfig.json
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\bin\Debug\net9.0\05CauDieuKhienVongLapDonGian.dll
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\bin\Debug\net9.0\05CauDieuKhienVongLapDonGian.pdb
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.AssemblyInfo.cs
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.sourcelink.json
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.dll
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\refint\05CauDieuKhienVongLapDonGian.dll
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.pdb
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\05CauDieuKhienVongLapDonGian.genruntimeconfig.cache
+D:\MAV\PC-Control-14\05CauDieuKhienVongLapDongian\05CauDieuKhienVongLapDonGian\05CauDieuKhienVongLapDonGian\obj\Debug\net9.0\ref\05CauDieuKhienVongLapDonGian.dll
