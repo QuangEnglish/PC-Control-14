@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTap_4_CauDieuKien.exe
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTap_4_CauDieuKien.deps.json
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTap_4_CauDieuKien.runtimeconfig.json
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTap_4_CauDieuKien.dll
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTap_4_CauDieuKien.pdb
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.dll
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\refint\BaiTap_4_CauDieuKien.dll
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.pdb
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTap_4_CauDieuKien.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\BaiTap_4_CauDieuKien\BaiTap_4_CauDieuKien\obj\Debug\net9.0\ref\BaiTap_4_CauDieuKien.dll
