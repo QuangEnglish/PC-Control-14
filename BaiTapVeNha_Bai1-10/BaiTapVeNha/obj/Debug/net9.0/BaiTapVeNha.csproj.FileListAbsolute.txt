@@ -1,0 +1,15 @@
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTapVeNha.exe
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTapVeNha.deps.json
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTapVeNha.runtimeconfig.json
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTapVeNha.dll
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\bin\Debug\net9.0\BaiTapVeNha.pdb
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.AssemblyInfoInputs.cache
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.AssemblyInfo.cs
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.csproj.CoreCompileInputs.cache
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.sourcelink.json
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.dll
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\refint\BaiTapVeNha.dll
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.pdb
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\BaiTapVeNha.genruntimeconfig.cache
+D:\HocC#\PC-Control-14\BaiTapVeNha_Bai1-6\BaiTap_4_CauDieuKien\obj\Debug\net9.0\ref\BaiTapVeNha.dll
