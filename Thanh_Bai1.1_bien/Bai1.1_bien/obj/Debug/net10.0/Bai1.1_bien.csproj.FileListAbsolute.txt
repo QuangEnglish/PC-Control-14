@@ -1,0 +1,14 @@
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.AssemblyInfoInputs.cache
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.AssemblyInfo.cs
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\bin\Debug\net10.0\Bai1.1_bien.exe
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\bin\Debug\net10.0\Bai1.1_bien.deps.json
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\bin\Debug\net10.0\Bai1.1_bien.runtimeconfig.json
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\bin\Debug\net10.0\Bai1.1_bien.dll
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\bin\Debug\net10.0\Bai1.1_bien.pdb
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.dll
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\refint\Bai1.1_bien.dll
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.pdb
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\Bai1.1_bien.genruntimeconfig.cache
+D:\Hoc_C#\Bai1.1_bien\Bai1.1_bien\obj\Debug\net10.0\ref\Bai1.1_bien.dll
