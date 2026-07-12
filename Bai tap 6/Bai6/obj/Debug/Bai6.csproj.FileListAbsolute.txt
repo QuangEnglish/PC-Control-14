@@ -1,0 +1,7 @@
+C:\New folder\Bai tap 6\Bai6\bin\Debug\Bai6.exe.config
+C:\New folder\Bai tap 6\Bai6\bin\Debug\Bai6.exe
+C:\New folder\Bai tap 6\Bai6\bin\Debug\Bai6.pdb
+C:\New folder\Bai tap 6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+C:\New folder\Bai tap 6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+C:\New folder\Bai tap 6\Bai6\obj\Debug\Bai6.exe
+C:\New folder\Bai tap 6\Bai6\obj\Debug\Bai6.pdb
