@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C692AB7-8EF1-49DF-BFD6-F9BC05B132B9}|QuanLyTen\\QuanLyTen.csproj|d:\\baitapc#_mvva\\pc-control-14\\bai2\\quanlyten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C692AB7-8EF1-49DF-BFD6-F9BC05B132B9}|QuanLyTen\\QuanLyTen.csproj|solutionrelative:quanlyten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1F2345-BD67-409C-A057-44425E586CF1}|DanhSach\\DanhSach.csproj|d:\\baitapc#_mvva\\pc-control-14\\bai2\\danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1F2345-BD67-409C-A057-44425E586CF1}|DanhSach\\DanhSach.csproj|solutionrelative:danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F3DC9A-43E4-4707-B56C-6B8F06E9D8DF}|Mang\\Mang.csproj|d:\\baitapc#_mvva\\pc-control-14\\bai2\\mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F3DC9A-43E4-4707-B56C-6B8F06E9D8DF}|Mang\\Mang.csproj|solutionrelative:mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEBEFE-4D7E-48AE-977C-5B82499729FF}|Chuoi\\Chuoi.csproj|d:\\baitapc#_mvva\\pc-control-14\\bai2\\chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEBEFE-4D7E-48AE-977C-5B82499729FF}|Chuoi\\Chuoi.csproj|solutionrelative:chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C20C56F-C4C5-4955-9049-006EF5918F67}|Bai2\\Bai2.csproj|d:\\baitapc#_mvva\\pc-control-14\\bai2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C20C56F-C4C5-4955-9049-006EF5918F67}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\QuanLyTen\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyTen\\Program.cs",
+              "ToolTip": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\QuanLyTen\\Program.cs*",
+              "RelativeToolTip": "QuanLyTen\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T20:17:22.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\DanhSach\\Program.cs",
+              "RelativeDocumentMoniker": "DanhSach\\Program.cs",
+              "ToolTip": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\DanhSach\\Program.cs",
+              "RelativeToolTip": "DanhSach\\Program.cs",
+              "ViewState": "AgIAAAUAAAD4//////8twBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T19:19:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\Chuoi\\Program.cs",
+              "RelativeDocumentMoniker": "Chuoi\\Program.cs",
+              "ToolTip": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\Chuoi\\Program.cs",
+              "RelativeToolTip": "Chuoi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:01:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\Mang\\Program.cs",
+              "RelativeDocumentMoniker": "Mang\\Program.cs",
+              "ToolTip": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\Mang\\Program.cs",
+              "RelativeToolTip": "Mang\\Program.cs",
+              "ViewState": "AgIAABUAAAAANDMzMzPjvx4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T16:59:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "D:\\BaiTapC#_MVVA\\PC-Control-14\\Bai2\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T16:56:19.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

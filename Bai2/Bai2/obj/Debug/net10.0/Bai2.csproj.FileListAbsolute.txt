@@ -1,0 +1,15 @@
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\bin\Debug\net10.0\Bai2.exe
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\bin\Debug\net10.0\Bai2.deps.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\bin\Debug\net10.0\Bai2.runtimeconfig.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\bin\Debug\net10.0\Bai2.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\bin\Debug\net10.0\Bai2.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfoInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfo.cs
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.csproj.CoreCompileInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.sourcelink.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\refint\Bai2.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\Bai2.genruntimeconfig.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Bai2\obj\Debug\net10.0\ref\Bai2.dll

@@ -1,0 +1,15 @@
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\bin\Debug\net10.0\Chuoi.exe
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\bin\Debug\net10.0\Chuoi.deps.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\bin\Debug\net10.0\Chuoi.runtimeconfig.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\bin\Debug\net10.0\Chuoi.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\bin\Debug\net10.0\Chuoi.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.AssemblyInfoInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.AssemblyInfo.cs
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.csproj.CoreCompileInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.sourcelink.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\refint\Chuoi.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\Chuoi.genruntimeconfig.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\Chuoi\obj\Debug\net10.0\ref\Chuoi.dll

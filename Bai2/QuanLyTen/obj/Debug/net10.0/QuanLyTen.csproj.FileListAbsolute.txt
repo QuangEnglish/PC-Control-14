@@ -1,0 +1,15 @@
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\bin\Debug\net10.0\QuanLyTen.exe
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\bin\Debug\net10.0\QuanLyTen.deps.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\bin\Debug\net10.0\QuanLyTen.runtimeconfig.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\bin\Debug\net10.0\QuanLyTen.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\bin\Debug\net10.0\QuanLyTen.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.AssemblyInfoInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.AssemblyInfo.cs
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.csproj.CoreCompileInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.sourcelink.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\refint\QuanLyTen.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\QuanLyTen.genruntimeconfig.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\QuanLyTen\obj\Debug\net10.0\ref\QuanLyTen.dll

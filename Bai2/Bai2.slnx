@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bai2/Bai2.csproj" />
+  <Project Path="Chuoi/Chuoi.csproj" />
+  <Project Path="DanhSach/DanhSach.csproj" />
+  <Project Path="Mang/Mang.csproj" />
+  <Project Path="QuanLyTen/QuanLyTen.csproj" />
+</Solution>

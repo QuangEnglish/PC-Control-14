@@ -1,0 +1,15 @@
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.exe
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.deps.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.runtimeconfig.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.AssemblyInfoInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.AssemblyInfo.cs
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.csproj.CoreCompileInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.sourcelink.json
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\refint\DanhSach.dll
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.genruntimeconfig.cache
+D:\BaiTapC#_MVVA\PC-Control-14\Bai2\DanhSach\obj\Debug\net10.0\ref\DanhSach.dll
