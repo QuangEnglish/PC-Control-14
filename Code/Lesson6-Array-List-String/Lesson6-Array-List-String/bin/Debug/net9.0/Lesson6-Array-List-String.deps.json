@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson6-Array-List-String/1.0.0": {
+        "runtime": {
+          "Lesson6-Array-List-String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson6-Array-List-String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
