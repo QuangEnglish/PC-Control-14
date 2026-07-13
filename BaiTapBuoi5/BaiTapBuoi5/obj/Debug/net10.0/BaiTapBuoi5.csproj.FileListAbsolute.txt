@@ -1,0 +1,14 @@
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\bin\Debug\net10.0\BaiTapBuoi5.exe
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\bin\Debug\net10.0\BaiTapBuoi5.deps.json
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\bin\Debug\net10.0\BaiTapBuoi5.runtimeconfig.json
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\bin\Debug\net10.0\BaiTapBuoi5.dll
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\bin\Debug\net10.0\BaiTapBuoi5.pdb
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.AssemblyInfoInputs.cache
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.AssemblyInfo.cs
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.csproj.CoreCompileInputs.cache
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.dll
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\refint\BaiTapBuoi5.dll
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.pdb
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\BaiTapBuoi5.genruntimeconfig.cache
+D:\BaiTapC#_MVVA\BaiTapBuoi5\BaiTapBuoi5\obj\Debug\net10.0\ref\BaiTapBuoi5.dll
