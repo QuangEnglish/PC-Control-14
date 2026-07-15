@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-6\\BaiTap_4_CauDieuKien\\BaiTapVeNha.csproj",
+      "projectUniqueName": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-10\\BaiTapVeNha\\BaiTapVeNha.csproj",
       "projectName": "BaiTapVeNha",
-      "projectPath": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-6\\BaiTap_4_CauDieuKien\\BaiTapVeNha.csproj",
+      "projectPath": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-10\\BaiTapVeNha\\BaiTapVeNha.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-6\\BaiTap_4_CauDieuKien\\obj\\",
+      "outputPath": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-10\\BaiTapVeNha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

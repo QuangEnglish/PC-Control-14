@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzIIBtanUVs=",
+  "dgSpecHash": "N6LlXQV75P0=",
   "success": true,
-  "projectFilePath": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-6\\BaiTap_4_CauDieuKien\\BaiTapVeNha.csproj",
+  "projectFilePath": "D:\\HocC#\\PC-Control-14\\BaiTapVeNha_Bai1-10\\BaiTapVeNha\\BaiTapVeNha.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",

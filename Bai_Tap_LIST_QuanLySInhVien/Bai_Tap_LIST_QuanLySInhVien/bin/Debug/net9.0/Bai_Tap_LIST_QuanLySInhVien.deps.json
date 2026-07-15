@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai_Tap_LIST_QuanLySInhVien/1.0.0": {
+        "runtime": {
+          "Bai_Tap_LIST_QuanLySInhVien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_Tap_LIST_QuanLySInhVien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

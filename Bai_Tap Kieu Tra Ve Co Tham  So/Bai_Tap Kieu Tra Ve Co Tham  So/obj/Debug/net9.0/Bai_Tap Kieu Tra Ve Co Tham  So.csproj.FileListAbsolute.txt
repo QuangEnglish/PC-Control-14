@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\bin\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.exe
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\bin\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.deps.json
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\bin\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.runtimeconfig.json
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\bin\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.dll
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\bin\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.pdb
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.dll
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\refint\Bai_Tap Kieu Tra Ve Co Tham  So.dll
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.pdb
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\Bai_Tap Kieu Tra Ve Co Tham  So.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\Bai_Tap Kieu Tra Ve Co Tham  So\Bai_Tap Kieu Tra Ve Co Tham  So\obj\Debug\net9.0\ref\Bai_Tap Kieu Tra Ve Co Tham  So.dll
