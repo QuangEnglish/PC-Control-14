@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "btvn16-7/1.0.0": {
+        "runtime": {
+          "btvn16-7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "btvn16-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

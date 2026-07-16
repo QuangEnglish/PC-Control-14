@@ -1,0 +1,15 @@
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\bin\Debug\net10.0\btvn16-7.exe
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\bin\Debug\net10.0\btvn16-7.deps.json
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\bin\Debug\net10.0\btvn16-7.runtimeconfig.json
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\bin\Debug\net10.0\btvn16-7.dll
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\bin\Debug\net10.0\btvn16-7.pdb
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.AssemblyInfo.cs
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.sourcelink.json
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.dll
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\refint\btvn16-7.dll
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.pdb
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\btvn16-7.genruntimeconfig.cache
+C:\Users\THIS PC\Desktop\mvalab\btvn16-7\btvn16-7\obj\Debug\net10.0\ref\btvn16-7.dll
