@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Mang.exe
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Mang.deps.json
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Mang.runtimeconfig.json
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Mang.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Mang.pdb
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.AssemblyInfo.cs
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.sourcelink.json
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\Mang.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.pdb
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Mang.genruntimeconfig.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai1\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\Mang.dll

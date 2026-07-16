@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\bin\Debug\net9.0\Quan_li_danh_sach.exe
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\bin\Debug\net9.0\Quan_li_danh_sach.deps.json
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\bin\Debug\net9.0\Quan_li_danh_sach.runtimeconfig.json
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\bin\Debug\net9.0\Quan_li_danh_sach.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\bin\Debug\net9.0\Quan_li_danh_sach.pdb
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.AssemblyInfo.cs
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.sourcelink.json
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\refint\Quan_li_danh_sach.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.pdb
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\Quan_li_danh_sach.genruntimeconfig.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai4\Quan_li_danh_sach\Quan_li_danh_sach\obj\Debug\net9.0\ref\Quan_li_danh_sach.dll

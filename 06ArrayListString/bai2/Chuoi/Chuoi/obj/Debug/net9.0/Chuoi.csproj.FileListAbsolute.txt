@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\bin\Debug\net9.0\Chuoi.exe
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\bin\Debug\net9.0\Chuoi.deps.json
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\bin\Debug\net9.0\Chuoi.runtimeconfig.json
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\bin\Debug\net9.0\Chuoi.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\bin\Debug\net9.0\Chuoi.pdb
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.AssemblyInfo.cs
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.sourcelink.json
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\refint\Chuoi.dll
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.pdb
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\Chuoi.genruntimeconfig.cache
+D:\MAV\PC-Control-14\06ArrayListString\bai2\Chuoi\Chuoi\obj\Debug\net9.0\ref\Chuoi.dll
