@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5FD0D49-A7CD-4EB7-B543-E2D7066E8985}|Mang\\Mang.csproj|d:\\hoc_c#\\pc-control-14\\bai2\\mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FD0D49-A7CD-4EB7-B543-E2D7066E8985}|Mang\\Mang.csproj|solutionrelative:mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9EE47F3-1BF6-EBD7-351B-E9F147B634AF}|Chuoi\\Chuoi.csproj|d:\\hoc_c#\\pc-control-14\\bai2\\chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EE47F3-1BF6-EBD7-351B-E9F147B634AF}|Chuoi\\Chuoi.csproj|solutionrelative:chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23589B-2901-EA50-F889-A38164348E95}|Mang\\Mang.csproj|d:\\hoc_c#\\pc-control-14\\bai2\\mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23589B-2901-EA50-F889-A38164348E95}|Mang\\Mang.csproj|solutionrelative:mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Chuoi\\Program.cs",
+              "RelativeDocumentMoniker": "Chuoi\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Chuoi\\Program.cs*",
+              "RelativeToolTip": "Chuoi\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T13:14:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Mang\\Program.cs",
               "RelativeDocumentMoniker": "Mang\\Program.cs",
-              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Mang\\Program.cs*",
-              "RelativeToolTip": "Mang\\Program.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwC4AAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Mang\\Program.cs",
+              "RelativeToolTip": "Mang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T12:40:14.322Z",
               "EditorCaption": ""
