@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace BTVN_Bai_2
+namespace Chuoi
 {
     internal class Program
     {
@@ -11,7 +11,7 @@ namespace BTVN_Bai_2
             // a) cho phép nhập chuỗi và in ra ký tự
             Console.WriteLine("Nhập vào chuỗi ký tự :");
             string chuoiKyTuA = Console.ReadLine();
- 
+
             foreach (char kyTu in chuoiKyTuA)
             {
                 Console.WriteLine(kyTu);
@@ -29,14 +29,16 @@ namespace BTVN_Bai_2
             }
 
             // c) nhập chuỗi và hiển thị số lần xuất hiện của mỗi ký tự trong chuỗi
+
+            // Cách 1
             Console.WriteLine("Nhập vào chuỗi ký tự :");
             string chuoiKyTuC = Console.ReadLine();
 
-            for(int i =0; i < chuoiKyTuC.Length; i++)
+            for (int i = 0; i < chuoiKyTuC.Length; i++)
             {
                 bool daDem = false;
 
-                for(int j = 0; j < i; j++)
+                for (int j = 0; j < i; j++)
                 {
                     if (chuoiKyTuC[j] == chuoiKyTuC[i])
                     {
@@ -49,20 +51,44 @@ namespace BTVN_Bai_2
                 {
                     int dem = 0;
 
-                    for(int j = i; j < chuoiKyTuC.Length; j++)
+                    for (int j = i; j < chuoiKyTuC.Length; j++)
                     {
                         if (chuoiKyTuC[i] == chuoiKyTuC[j])
                         {
                             dem++;
                         }
-                    
+
                     }
                     Console.WriteLine($"Ký tự {chuoiKyTuC[i]} xuất hiện : {dem} lần");
                 }
             }
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
 
+            // Cách 2
+            List<char> charList = new List<char>();
+            List<int> countList = new List<int>();
 
-            // Console.WriteLine("Hello, World!");
+            foreach (var i in chuoiKyTuC)
+            {
+                int index = charList.IndexOf(i);
+
+                if (index == -1)
+                {
+                    charList.Add(i);
+                    countList.Add(1);
+                }
+                else
+                {
+                    countList[index]++;
+                }
+               
+            }
+            for (int i = 0; i < charList.Count; i++)
+            {
+                Console.WriteLine($"Ký tự {charList[i]} xuất hiện {countList[i]} lần");
+            }
+
         }
     }
 }
