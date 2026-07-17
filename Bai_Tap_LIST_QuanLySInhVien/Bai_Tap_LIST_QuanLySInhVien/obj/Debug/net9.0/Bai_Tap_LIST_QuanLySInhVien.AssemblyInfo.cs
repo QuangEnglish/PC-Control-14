@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai_Tap_LIST_QuanLySInhVien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a98b0b6beb25df74fed9d28c0c541d309beb3822")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai_Tap_LIST_QuanLySInhVien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai_Tap_LIST_QuanLySInhVien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

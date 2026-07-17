@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\bin\Debug\net9.0\Chuoi.exe
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\bin\Debug\net9.0\Chuoi.deps.json
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\bin\Debug\net9.0\Chuoi.runtimeconfig.json
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\bin\Debug\net9.0\Chuoi.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\bin\Debug\net9.0\Chuoi.pdb
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\refint\Chuoi.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.pdb
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\Chuoi.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Bai_2\obj\Debug\net9.0\ref\Chuoi.dll

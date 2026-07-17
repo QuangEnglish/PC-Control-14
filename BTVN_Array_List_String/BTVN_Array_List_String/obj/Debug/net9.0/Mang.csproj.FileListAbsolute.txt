@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\bin\Debug\net9.0\Mang.exe
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\bin\Debug\net9.0\Mang.deps.json
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\bin\Debug\net9.0\Mang.runtimeconfig.json
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\bin\Debug\net9.0\Mang.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\bin\Debug\net9.0\Mang.pdb
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\refint\Mang.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.pdb
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\Mang.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\BTVN_Array_List_String\obj\Debug\net9.0\ref\Mang.dll

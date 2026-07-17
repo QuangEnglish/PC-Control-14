@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G1F6FUftlTg=",
+  "dgSpecHash": "gjPjCZoRaQ4=",
   "success": true,
-  "projectFilePath": "D:\\HocC#\\BAI_TAP\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj",
+  "projectFilePath": "D:\\HocC#\\PC-Control-14\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",

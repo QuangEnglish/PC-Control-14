@@ -9,7 +9,7 @@ namespace Bai_Tap_LIST_QuanLySInhVien
             Console.OutputEncoding = Encoding.UTF8;
             while (true)
             {
-                Console.WriteLine($"Nhập MENU hoặc Thoát:");
+                Console.WriteLine($"Nhập 1 để vào MENU hoặc 2 để Thoát:");
                 int menu = Convert.ToInt32(Console.ReadLine());
                 List<string> danhSachSinhVien = new List<string>();
                 switch (menu)
@@ -21,11 +21,26 @@ namespace Bai_Tap_LIST_QuanLySInhVien
                         int soSV = Convert.ToInt32(Console.ReadLine());
                         for (int i = 0; i < soSV; i++)
                         {
-                            Console.WriteLine($"Nhập tên sinh viên {i} :");
-                            string tenSV = Console.ReadLine();
-                            danhSachSinhVien.Add(tenSV);
-                            Console.WriteLine("Đã thêm tên SV thành công");
-                            Console.WriteLine("Sinh viên số 1 : "+string.Join(" ",danhSachSinhVien));
+
+                            while (true)
+                            {
+                                Console.WriteLine($"Nhập tên sinh viên {i + 1} :");
+                                string tenSV = Console.ReadLine();
+                                if (danhSachSinhVien.Contains(tenSV))
+                                {
+                                    Console.WriteLine("Tên sinh viên đã tồn tại");
+                                   // break;
+                                    continue;
+                                }
+                                else
+                                {
+                                    danhSachSinhVien.Add(tenSV);
+                                    Console.WriteLine("Đã thêm tên SV thành công");
+                                    Console.WriteLine($"Sinh viên số {i + 1} : " + danhSachSinhVien[i]);
+                                    break;
+                                }
+                            }    
+
                         }
                         break;
                     case 2:
@@ -36,7 +51,7 @@ namespace Bai_Tap_LIST_QuanLySInhVien
                 }
             }
 
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
         }
     }
 }

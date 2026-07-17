@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocC#\\BAI_TAP\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj": {}
+    "D:\\HocC#\\PC-Control-14\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj": {}
   },
   "projects": {
-    "D:\\HocC#\\BAI_TAP\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj": {
+    "D:\\HocC#\\PC-Control-14\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocC#\\BAI_TAP\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj",
+        "projectUniqueName": "D:\\HocC#\\PC-Control-14\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj",
         "projectName": "Bai_Tap_LIST_QuanLySInhVien",
-        "projectPath": "D:\\HocC#\\BAI_TAP\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj",
+        "projectPath": "D:\\HocC#\\PC-Control-14\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\HocC#\\BAI_TAP\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\obj\\",
+        "outputPath": "D:\\HocC#\\PC-Control-14\\Bai_Tap_LIST_QuanLySInhVien\\Bai_Tap_LIST_QuanLySInhVien\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

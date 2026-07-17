@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BTVN_Quan_ly_danh_sach_ten/1.0.0": {
+        "runtime": {
+          "BTVN_Quan_ly_danh_sach_ten.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTVN_Quan_ly_danh_sach_ten/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

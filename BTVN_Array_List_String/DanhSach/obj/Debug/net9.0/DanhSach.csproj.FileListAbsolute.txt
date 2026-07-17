@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\bin\Debug\net9.0\DanhSach.exe
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\bin\Debug\net9.0\DanhSach.deps.json
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\bin\Debug\net9.0\DanhSach.runtimeconfig.json
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\bin\Debug\net9.0\DanhSach.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\bin\Debug\net9.0\DanhSach.pdb
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\refint\DanhSach.dll
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.pdb
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\DanhSach.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\BTVN_Array_List_String\DanhSach\obj\Debug\net9.0\ref\DanhSach.dll

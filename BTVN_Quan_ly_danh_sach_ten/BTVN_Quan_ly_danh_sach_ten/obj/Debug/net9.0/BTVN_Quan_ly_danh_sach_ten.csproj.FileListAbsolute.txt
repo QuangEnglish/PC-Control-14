@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\bin\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.exe
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\bin\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.deps.json
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\bin\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.runtimeconfig.json
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\bin\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.dll
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\bin\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.pdb
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.dll
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\refint\BTVN_Quan_ly_danh_sach_ten.dll
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.pdb
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\BTVN_Quan_ly_danh_sach_ten.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\BTVN_Quan_ly_danh_sach_ten\BTVN_Quan_ly_danh_sach_ten\obj\Debug\net9.0\ref\BTVN_Quan_ly_danh_sach_ten.dll
