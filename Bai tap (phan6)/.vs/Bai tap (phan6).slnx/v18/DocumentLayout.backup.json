@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "D:\\Hoc_C#\\PC-Control-14\\Bai tap (phan6)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65C772DE-C6DC-468D-B270-2147F85E4B22}|Bai tap (phan6)\\Bai tap (phan6).csproj|d:\\hoc_c#\\pc-control-14\\bai tap (phan6)\\bai tap (phan6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65C772DE-C6DC-468D-B270-2147F85E4B22}|Bai tap (phan6)\\Bai tap (phan6).csproj|solutionrelative:bai tap (phan6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCFFBA20-79B2-34D4-0277-B8669D0D277E}|Bai tap (phan6)\\Bai tap (phan6).csproj|d:\\hoc_c#\\pc-control-14\\bai tap (phan6)\\bai tap (phan6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFFBA20-79B2-34D4-0277-B8669D0D277E}|Bai tap (phan6)\\Bai tap (phan6).csproj|solutionrelative:bai tap (phan6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hoc_C#\\PC-Control-14\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hoc_C#\\PC-Control-14\\Buoi_6\\Buoi_6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Buoi_6\\Buoi_6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Buoi_6\\Buoi_6\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Buoi_6\\Buoi_6\\Program.cs",
+              "RelativeToolTip": "..\\Buoi_6\\Buoi_6\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T13:37:50.471Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +43,22 @@
               "RelativeDocumentMoniker": "Bai tap (phan6)\\Program.cs",
               "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Bai tap (phan6)\\Bai tap (phan6)\\Program.cs*",
               "RelativeToolTip": "Bai tap (phan6)\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-13T13:24:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Program.cs",
+              "RelativeToolTip": "..\\Buoi 4.2 - 06.07.2026\\Bai 4.2 - 06.07.2026\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T14:08:58.23Z",
               "EditorCaption": ""
             }
           ]

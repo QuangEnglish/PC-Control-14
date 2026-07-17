@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD0D49-A7CD-4EB7-B543-E2D7066E8985}|Mang\\Mang.csproj|d:\\hoc_c#\\pc-control-14\\bai2\\mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD0D49-A7CD-4EB7-B543-E2D7066E8985}|Mang\\Mang.csproj|solutionrelative:mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Mang\\Program.cs",
+              "RelativeDocumentMoniker": "Mang\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Bai2\\Mang\\Program.cs*",
+              "RelativeToolTip": "Mang\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T12:40:14.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Chuoi/Chuoi.csproj" />
+  <Project Path="Mang/Mang.csproj" />
+</Solution>

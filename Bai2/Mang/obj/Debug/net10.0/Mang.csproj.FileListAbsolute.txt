@@ -1,0 +1,15 @@
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\bin\Debug\net10.0\Mang.exe
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\bin\Debug\net10.0\Mang.deps.json
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\bin\Debug\net10.0\Mang.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\bin\Debug\net10.0\Mang.dll
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\bin\Debug\net10.0\Mang.pdb
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.sourcelink.json
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.dll
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\refint\Mang.dll
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.pdb
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\Mang.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\Bai2\Mang\obj\Debug\net10.0\ref\Mang.dll
