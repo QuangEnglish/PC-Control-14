@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAV\\PC-Control-14\\09StackQueue\\MoPhongDayChuyen\\UndoRedo\\UndoRedo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED43EE41-837F-4B94-80BA-6CEC7852D482}|UndoRedo\\UndoRedo.csproj|d:\\mav\\pc-control-14\\09stackqueue\\mophongdaychuyen\\undoredo\\undoredo\\undoredo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED43EE41-837F-4B94-80BA-6CEC7852D482}|UndoRedo\\UndoRedo.csproj|solutionrelative:undoredo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAV\\PC-Control-14\\09StackQueue\\MoPhongDayChuyen\\UndoRedo\\UndoRedo\\UndoRedo\\Program.cs",
+              "RelativeDocumentMoniker": "UndoRedo\\Program.cs",
+              "ToolTip": "D:\\MAV\\PC-Control-14\\09StackQueue\\MoPhongDayChuyen\\UndoRedo\\UndoRedo\\UndoRedo\\Program.cs*",
+              "RelativeToolTip": "UndoRedo\\Program.cs*",
+              "ViewState": "AgIAAAQAAACAmZmZmZk7wBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T12:19:42.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

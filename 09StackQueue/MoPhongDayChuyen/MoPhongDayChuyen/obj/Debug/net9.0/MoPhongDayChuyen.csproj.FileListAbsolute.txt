@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\bin\Debug\net9.0\MoPhongDayChuyen.exe
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\bin\Debug\net9.0\MoPhongDayChuyen.deps.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\bin\Debug\net9.0\MoPhongDayChuyen.runtimeconfig.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\bin\Debug\net9.0\MoPhongDayChuyen.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\bin\Debug\net9.0\MoPhongDayChuyen.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.AssemblyInfo.cs
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.sourcelink.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\refint\MoPhongDayChuyen.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\MoPhongDayChuyen.genruntimeconfig.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\MoPhongDayChuyen\MoPhongDayChuyen\obj\Debug\net9.0\ref\MoPhongDayChuyen.dll

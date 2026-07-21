@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\bin\Debug\net9.0\KiemTraCapDauNgoac.exe
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\bin\Debug\net9.0\KiemTraCapDauNgoac.deps.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\bin\Debug\net9.0\KiemTraCapDauNgoac.runtimeconfig.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\bin\Debug\net9.0\KiemTraCapDauNgoac.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\bin\Debug\net9.0\KiemTraCapDauNgoac.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.AssemblyInfo.cs
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.sourcelink.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\refint\KiemTraCapDauNgoac.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\KiemTraCapDauNgoac.genruntimeconfig.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\KiemTraCapDauBieuThuc\KiemTraCapDauNgoac\KiemTraCapDauNgoac\obj\Debug\net9.0\ref\KiemTraCapDauNgoac.dll

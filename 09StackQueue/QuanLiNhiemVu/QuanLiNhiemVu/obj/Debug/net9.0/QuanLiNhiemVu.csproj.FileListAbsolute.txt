@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\bin\Debug\net9.0\QuanLiNhiemVu.exe
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\bin\Debug\net9.0\QuanLiNhiemVu.deps.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\bin\Debug\net9.0\QuanLiNhiemVu.runtimeconfig.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\bin\Debug\net9.0\QuanLiNhiemVu.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\bin\Debug\net9.0\QuanLiNhiemVu.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.AssemblyInfo.cs
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.sourcelink.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\refint\QuanLiNhiemVu.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\QuanLiNhiemVu.genruntimeconfig.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\QuanLiNhiemVu\QuanLiNhiemVu\obj\Debug\net9.0\ref\QuanLiNhiemVu.dll

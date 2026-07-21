@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\bin\Debug\net9.0\UndoRedo.exe
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\bin\Debug\net9.0\UndoRedo.deps.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\bin\Debug\net9.0\UndoRedo.runtimeconfig.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\bin\Debug\net9.0\UndoRedo.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\bin\Debug\net9.0\UndoRedo.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.AssemblyInfo.cs
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.sourcelink.json
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\refint\UndoRedo.dll
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.pdb
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\UndoRedo.genruntimeconfig.cache
+D:\MAV\PC-Control-14\09StackQueue\MoPhongDayChuyen\UndoRedo\UndoRedo\UndoRedo\obj\Debug\net9.0\ref\UndoRedo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MoPhongDayChuyen/1.0.0": {
+        "runtime": {
+          "MoPhongDayChuyen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoPhongDayChuyen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
