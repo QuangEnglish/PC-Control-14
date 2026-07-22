@@ -1,0 +1,14 @@
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\bin\Debug\net9.0\btvn20.7.exe
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\bin\Debug\net9.0\btvn20.7.deps.json
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\bin\Debug\net9.0\btvn20.7.runtimeconfig.json
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\bin\Debug\net9.0\btvn20.7.dll
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\bin\Debug\net9.0\btvn20.7.pdb
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.AssemblyInfoInputs.cache
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.AssemblyInfo.cs
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.csproj.CoreCompileInputs.cache
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.dll
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\refint\btvn20.7.dll
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.pdb
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\btvn20.7.genruntimeconfig.cache
+D:\PC Control\New folder\btvn20.7.câu2\btvn20.7\obj\Debug\net9.0\ref\btvn20.7.dll

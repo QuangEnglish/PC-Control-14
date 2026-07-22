@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson8-VariableScope-String-Collection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154d633bc3817ab040afdec8bde491a9160aaff2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af1606562ef65b3ca107098a844aad8662dcf64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson8-VariableScope-String-Collection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson8-VariableScope-String-Collection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson9-Collection-Stack-Queue-Dictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af1606562ef65b3ca107098a844aad8662dcf64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61cd7521178b4374ee2a8b57b365d4cada7ae579")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson9-Collection-Stack-Queue-Dictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson9-Collection-Stack-Queue-Dictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

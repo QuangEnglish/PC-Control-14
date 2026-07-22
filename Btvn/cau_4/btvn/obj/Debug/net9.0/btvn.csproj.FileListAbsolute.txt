@@ -1,0 +1,14 @@
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.AssemblyInfoInputs.cache
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.AssemblyInfo.cs
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.csproj.CoreCompileInputs.cache
+D:\PC Control\New folder\cau_4\btvn\bin\Debug\net9.0\btvn.exe
+D:\PC Control\New folder\cau_4\btvn\bin\Debug\net9.0\btvn.deps.json
+D:\PC Control\New folder\cau_4\btvn\bin\Debug\net9.0\btvn.runtimeconfig.json
+D:\PC Control\New folder\cau_4\btvn\bin\Debug\net9.0\btvn.dll
+D:\PC Control\New folder\cau_4\btvn\bin\Debug\net9.0\btvn.pdb
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.dll
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\refint\btvn.dll
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.pdb
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\btvn.genruntimeconfig.cache
+D:\PC Control\New folder\cau_4\btvn\obj\Debug\net9.0\ref\btvn.dll

@@ -1,0 +1,14 @@
+D:\PC Control\New folder\cau_2\baitvn\bin\Debug\net9.0\baitvn.exe
+D:\PC Control\New folder\cau_2\baitvn\bin\Debug\net9.0\baitvn.deps.json
+D:\PC Control\New folder\cau_2\baitvn\bin\Debug\net9.0\baitvn.runtimeconfig.json
+D:\PC Control\New folder\cau_2\baitvn\bin\Debug\net9.0\baitvn.dll
+D:\PC Control\New folder\cau_2\baitvn\bin\Debug\net9.0\baitvn.pdb
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.AssemblyInfoInputs.cache
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.AssemblyInfo.cs
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.csproj.CoreCompileInputs.cache
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.dll
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\refint\baitvn.dll
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.pdb
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\baitvn.genruntimeconfig.cache
+D:\PC Control\New folder\cau_2\baitvn\obj\Debug\net9.0\ref\baitvn.dll

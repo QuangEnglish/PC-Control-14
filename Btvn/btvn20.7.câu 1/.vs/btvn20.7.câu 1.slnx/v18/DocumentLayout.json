@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC Control\\New folder\\btvn20.7.c\u00E2u 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4821B5B8-272A-4CF5-94FD-BA59EBFBB70D}|btvn20.7\\btvn20.7.csproj|d:\\pc control\\new folder\\btvn20.7.c\u00E2u 1\\btvn20.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4821B5B8-272A-4CF5-94FD-BA59EBFBB70D}|btvn20.7\\btvn20.7.csproj|solutionrelative:btvn20.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control\\New folder\\btvn20.7.c\u00E2u 1\\btvn20.7\\Program.cs",
+              "RelativeDocumentMoniker": "btvn20.7\\Program.cs",
+              "ToolTip": "D:\\PC Control\\New folder\\btvn20.7.c\u00E2u 1\\btvn20.7\\Program.cs",
+              "RelativeToolTip": "btvn20.7\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T13:52:31.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

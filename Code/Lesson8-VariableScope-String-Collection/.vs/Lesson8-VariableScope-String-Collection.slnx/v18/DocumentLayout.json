@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson8-VariableScope-String-Collection\\",
+  "WorkspaceRootPath": "D:\\PC Control\\C#\\PC Control  14\\PC-Control-14\\Code\\Lesson8-VariableScope-String-Collection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D881335-249C-461F-A40D-7FC90B36DD83}|Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson8-variablescope-string-collection\\lesson8-variablescope-string-collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D881335-249C-461F-A40D-7FC90B36DD83}|Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection.csproj|solutionrelative:lesson8-variablescope-string-collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450439FC-FA21-48BF-782E-B71DE3A1846C}|Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection.csproj|d:\\pc control\\c#\\pc control  14\\pc-control-14\\code\\lesson8-variablescope-string-collection\\lesson8-variablescope-string-collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450439FC-FA21-48BF-782E-B71DE3A1846C}|Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection.csproj|solutionrelative:lesson8-variablescope-string-collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection\\Program.cs",
+              "DocumentMoniker": "D:\\PC Control\\C#\\PC Control  14\\PC-Control-14\\Code\\Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection\\Program.cs",
               "RelativeDocumentMoniker": "Lesson8-VariableScope-String-Collection\\Program.cs",
-              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection\\Program.cs",
+              "ToolTip": "D:\\PC Control\\C#\\PC Control  14\\PC-Control-14\\Code\\Lesson8-VariableScope-String-Collection\\Lesson8-VariableScope-String-Collection\\Program.cs",
               "RelativeToolTip": "Lesson8-VariableScope-String-Collection\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowBsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T14:11:55.872Z",
               "EditorCaption": ""

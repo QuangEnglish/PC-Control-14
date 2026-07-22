@@ -1,0 +1,14 @@
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.AssemblyInfoInputs.cache
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.AssemblyInfo.cs
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.csproj.CoreCompileInputs.cache
+D:\PC Control\New folder\cau_7\btvn7\bin\Debug\net9.0\btvn7.exe
+D:\PC Control\New folder\cau_7\btvn7\bin\Debug\net9.0\btvn7.deps.json
+D:\PC Control\New folder\cau_7\btvn7\bin\Debug\net9.0\btvn7.runtimeconfig.json
+D:\PC Control\New folder\cau_7\btvn7\bin\Debug\net9.0\btvn7.dll
+D:\PC Control\New folder\cau_7\btvn7\bin\Debug\net9.0\btvn7.pdb
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.dll
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\refint\btvn7.dll
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.pdb
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\btvn7.genruntimeconfig.cache
+D:\PC Control\New folder\cau_7\btvn7\obj\Debug\net9.0\ref\btvn7.dll

@@ -58,6 +58,7 @@ namespace Lesson9_Collection_Stack_Queue_Dictionary
             while (imageQueue.Count > 0)
             {
                 string image = imageQueue.Dequeue();
+              
                 Console.WriteLine("Đang xử lý: "+image);  // -> bước 3 -> bước 2 -> bước 1 
             }
 

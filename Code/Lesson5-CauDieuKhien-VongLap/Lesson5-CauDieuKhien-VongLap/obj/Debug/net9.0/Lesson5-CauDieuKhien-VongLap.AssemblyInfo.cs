@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson5-CauDieuKhien-VongLap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd45a8da230cbf7c8f5ef81d981c013ad57826c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154d633bc3817ab040afdec8bde491a9160aaff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson5-CauDieuKhien-VongLap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson5-CauDieuKhien-VongLap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
