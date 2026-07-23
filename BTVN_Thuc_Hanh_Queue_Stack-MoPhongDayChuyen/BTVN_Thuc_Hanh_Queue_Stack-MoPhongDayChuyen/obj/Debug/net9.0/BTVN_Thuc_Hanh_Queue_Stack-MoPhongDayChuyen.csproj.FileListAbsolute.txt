@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\bin\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.exe
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\bin\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.deps.json
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\bin\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.runtimeconfig.json
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\bin\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.dll
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\bin\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.pdb
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.dll
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\refint\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.dll
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.pdb
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\obj\Debug\net9.0\ref\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.dll

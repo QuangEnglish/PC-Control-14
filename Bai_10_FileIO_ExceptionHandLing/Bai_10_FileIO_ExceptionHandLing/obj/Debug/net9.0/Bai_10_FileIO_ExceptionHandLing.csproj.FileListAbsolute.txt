@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\bin\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.exe
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\bin\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.deps.json
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\bin\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.runtimeconfig.json
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\bin\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.dll
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\bin\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.pdb
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.dll
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\refint\Bai_10_FileIO_ExceptionHandLing.dll
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.pdb
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\Bai_10_FileIO_ExceptionHandLing.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\Bai_10_FileIO_ExceptionHandLing\Bai_10_FileIO_ExceptionHandLing\obj\Debug\net9.0\ref\Bai_10_FileIO_ExceptionHandLing.dll

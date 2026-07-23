@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocC#\\BAI_TAP\\Bai_10_FileIO_ExceptionHandLing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACA37F3-F960-46AE-B8F8-4261937B01C8}|Bai_10_FileIO_ExceptionHandLing\\Bai_10_FileIO_ExceptionHandLing.csproj|d:\\hocc#\\bai_tap\\bai_10_fileio_exceptionhandling\\bai_10_fileio_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACA37F3-F960-46AE-B8F8-4261937B01C8}|Bai_10_FileIO_ExceptionHandLing\\Bai_10_FileIO_ExceptionHandLing.csproj|solutionrelative:bai_10_fileio_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0C31A1-D1B7-45DB-850A-54CDF0BA3E68}|Demo_File_text\\Demo_File_text.csproj|d:\\hocc#\\bai_tap\\bai_10_fileio_exceptionhandling\\demo_file_text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0C31A1-D1B7-45DB-850A-54CDF0BA3E68}|Demo_File_text\\Demo_File_text.csproj|solutionrelative:demo_file_text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Bai_10_FileIO_ExceptionHandLing\\Demo_File_text\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_File_text\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\Bai_10_FileIO_ExceptionHandLing\\Demo_File_text\\Program.cs",
+              "RelativeToolTip": "Demo_File_text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:27:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Bai_10_FileIO_ExceptionHandLing\\Bai_10_FileIO_ExceptionHandLing\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_10_FileIO_ExceptionHandLing\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\Bai_10_FileIO_ExceptionHandLing\\Bai_10_FileIO_ExceptionHandLing\\Program.cs",
+              "RelativeToolTip": "Bai_10_FileIO_ExceptionHandLing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:12:22.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocC#\\BAI_TAP\\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230FD0EA-F39D-4EEC-82BA-6F8E7E9CE068}|..\\BTVN___Stack-1\\BTVN--Thuc_Hanh---Stack\\BTVN--Thuc_Hanh---Stack.csproj|d:\\hocc#\\bai_tap\\btvn___stack-1\\btvn--thuc_hanh---stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A03A0-79E8-4E82-A282-8E74A7ED0A64}|..\\BTVN_Queue--N\u00E2ngCao\\BTVN_Queue--N\u00E2ngCao\\BTVN_Queue--N\u00E2ngCao.csproj|d:\\hocc#\\bai_tap\\btvn_queue--n\u00E2ngcao\\btvn_queue--n\u00E2ngcao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\BTVN___Stack-1\\BTVN--Thuc_Hanh---Stack\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BTVN___Stack-1\\BTVN--Thuc_Hanh---Stack\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\BTVN___Stack-1\\BTVN--Thuc_Hanh---Stack\\Program.cs*",
+              "RelativeToolTip": "..\\BTVN___Stack-1\\BTVN--Thuc_Hanh---Stack\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T22:07:10.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\BTVN_Queue--N\u00E2ngCao\\BTVN_Queue--N\u00E2ngCao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BTVN_Queue--N\u00E2ngCao\\BTVN_Queue--N\u00E2ngCao\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\BTVN_Queue--N\u00E2ngCao\\BTVN_Queue--N\u00E2ngCao\\Program.cs",
+              "RelativeToolTip": "..\\BTVN_Queue--N\u00E2ngCao\\BTVN_Queue--N\u00E2ngCao\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:35:46.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

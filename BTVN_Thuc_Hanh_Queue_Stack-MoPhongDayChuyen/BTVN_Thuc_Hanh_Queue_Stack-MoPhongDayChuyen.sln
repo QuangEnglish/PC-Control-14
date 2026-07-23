@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen", "BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen\BTVN_Thuc_Hanh_Queue_Stack-MoPhongDayChuyen.csproj", "{103897D8-AE47-4F1B-BB3A-B4BD6051BFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Thuc_Hanh_Queue", "..\BTVN_2_QuanLyNhiemVuVaDaLuong\BTVN_Thuc_Hanh_Queue\BTVN_Thuc_Hanh_Queue.csproj", "{267A0F51-A098-4848-AF08-2D24EA830BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Thuc_Hanh_Queue_Stack--KiemTraPalindrome", "..\BTVN_KiemTraPalindrome\BTVN_Thuc_Hanh_Queue_Stack--KiemTraPalindrome\BTVN_Thuc_Hanh_Queue_Stack--KiemTraPalindrome.csproj", "{CC7BB05E-7377-4644-91BF-D052AB6FC464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_Queue--NângCao", "..\BTVN_Queue--NângCao\BTVN_Queue--NângCao\BTVN_Queue--NângCao.csproj", "{A46A03A0-79E8-4E82-A282-8E74A7ED0A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN--Thuc_Hanh---Stack", "..\BTVN___Stack-1\BTVN--Thuc_Hanh---Stack\BTVN--Thuc_Hanh---Stack.csproj", "{230FD0EA-F39D-4EEC-82BA-6F8E7E9CE068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103897D8-AE47-4F1B-BB3A-B4BD6051BFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103897D8-AE47-4F1B-BB3A-B4BD6051BFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103897D8-AE47-4F1B-BB3A-B4BD6051BFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103897D8-AE47-4F1B-BB3A-B4BD6051BFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267A0F51-A098-4848-AF08-2D24EA830BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267A0F51-A098-4848-AF08-2D24EA830BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267A0F51-A098-4848-AF08-2D24EA830BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267A0F51-A098-4848-AF08-2D24EA830BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7BB05E-7377-4644-91BF-D052AB6FC464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7BB05E-7377-4644-91BF-D052AB6FC464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7BB05E-7377-4644-91BF-D052AB6FC464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7BB05E-7377-4644-91BF-D052AB6FC464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46A03A0-79E8-4E82-A282-8E74A7ED0A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46A03A0-79E8-4E82-A282-8E74A7ED0A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46A03A0-79E8-4E82-A282-8E74A7ED0A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46A03A0-79E8-4E82-A282-8E74A7ED0A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230FD0EA-F39D-4EEC-82BA-6F8E7E9CE068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230FD0EA-F39D-4EEC-82BA-6F8E7E9CE068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230FD0EA-F39D-4EEC-82BA-6F8E7E9CE068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230FD0EA-F39D-4EEC-82BA-6F8E7E9CE068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4154C32-EDC0-4C2D-86F6-2210DA98D310}
+	EndGlobalSection
+EndGlobal

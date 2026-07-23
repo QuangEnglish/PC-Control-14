@@ -1,0 +1,3 @@
+[2026-07-22 22:29:57.441] Request #1 - Trạng thái: OK
+[2026-07-22 22:29:57.443] Request #2 - Trạng thái: OK
+[2026-07-22 22:29:57.444] Request #3 - Trạng thái: OK
