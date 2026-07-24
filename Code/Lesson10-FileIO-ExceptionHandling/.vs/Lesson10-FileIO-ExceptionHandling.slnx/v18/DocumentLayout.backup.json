@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson10-FileIO-ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{212B87A2-E138-495D-DB66-10D80A60CF54}|Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson10-fileio-exceptionhandling\\lesson10-fileio-exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212B87A2-E138-495D-DB66-10D80A60CF54}|Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling.csproj|solutionrelative:lesson10-fileio-exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212B87A2-E138-495D-DB66-10D80A60CF54}|Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson10-fileio-exceptionhandling\\lesson10-fileio-exceptionhandling\\deviceconnectexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212B87A2-E138-495D-DB66-10D80A60CF54}|Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling.csproj|solutionrelative:lesson10-fileio-exceptionhandling\\deviceconnectexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceConnectException.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling\\DeviceConnectException.cs",
+              "RelativeDocumentMoniker": "Lesson10-FileIO-ExceptionHandling\\DeviceConnectException.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling\\DeviceConnectException.cs",
+              "RelativeToolTip": "Lesson10-FileIO-ExceptionHandling\\DeviceConnectException.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvw8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:25:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson10-FileIO-ExceptionHandling\\Program.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "Lesson10-FileIO-ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvzIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:35:47.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

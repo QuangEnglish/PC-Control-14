@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\bin\Debug\net9.0\File-Text-IO.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\bin\Debug\net9.0\File-Text-IO.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\bin\Debug\net9.0\File-Text-IO.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\bin\Debug\net9.0\File-Text-IO.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\bin\Debug\net9.0\File-Text-IO.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\refint\File-Text-IO.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\File-Text-IO.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson10-FileIO-ExceptionHandling\File-Text-IO\obj\Debug\net9.0\ref\File-Text-IO.dll

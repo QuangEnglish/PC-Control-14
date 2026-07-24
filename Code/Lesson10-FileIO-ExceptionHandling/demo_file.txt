@@ -1,0 +1,10 @@
+Tên: Nguyễn Quang Đại
+Tuổi: 29
+Nơi ở: Hà Nội
+Ngày: 11/03/2026
+
+--- Log bổ sung ---
+Thêm dòng này lúc: 22:33:52
+[INFO] 2026-01-23 19:45:12 - User login thành công
+[ERROR] 2026-01-23 19:46:05 - Không tìm thấy sản phẩm ID=123
+[DEBUG] 2026-01-23 19:47:30 - Query database hoàn tất
