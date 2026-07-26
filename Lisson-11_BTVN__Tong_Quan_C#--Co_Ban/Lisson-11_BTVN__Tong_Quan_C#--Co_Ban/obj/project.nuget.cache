@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjwnySe839I=",
+  "success": true,
+  "projectFilePath": "D:\\HocC#\\BAI_TAP\\Lisson-11_BTVN__Tong_Quan_C#--Co_Ban\\Lisson-11_BTVN__Tong_Quan_C#--Co_Ban\\Lisson-11_BTVN__Tong_Quan_C#--Co_Ban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\epplus\\8.6.3\\epplus.8.6.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\epplus.interfaces\\8.6.2\\epplus.interfaces.8.6.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.18\\microsoft.extensions.configuration.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.18\\microsoft.extensions.configuration.abstractions.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.18\\microsoft.extensions.configuration.fileextensions.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.18\\microsoft.extensions.configuration.json.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.18\\microsoft.extensions.fileproviders.abstractions.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.18\\microsoft.extensions.fileproviders.physical.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.18\\microsoft.extensions.filesystemglobbing.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.18\\microsoft.extensions.primitives.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.18\\system.security.cryptography.pkcs.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.xml\\9.0.18\\system.security.cryptography.xml.9.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
