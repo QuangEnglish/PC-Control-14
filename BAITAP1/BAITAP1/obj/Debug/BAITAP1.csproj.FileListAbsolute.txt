@@ -1,7 +1,0 @@
-D:\file c\BAITAP1\BAITAP1\bin\Debug\BAITAP1.exe.config
-D:\file c\BAITAP1\BAITAP1\bin\Debug\BAITAP1.exe
-D:\file c\BAITAP1\BAITAP1\bin\Debug\BAITAP1.pdb
-D:\file c\BAITAP1\BAITAP1\obj\Debug\BAITAP1.csproj.AssemblyReference.cache
-D:\file c\BAITAP1\BAITAP1\obj\Debug\BAITAP1.csproj.CoreCompileInputs.cache
-D:\file c\BAITAP1\BAITAP1\obj\Debug\BAITAP1.exe
-D:\file c\BAITAP1\BAITAP1\obj\Debug\BAITAP1.pdb
