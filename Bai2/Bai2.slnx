@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Chuoi/Chuoi.csproj" />
+  <Project Path="Danh sach/Danh sach.csproj" Id="c07fc75a-ec84-469b-a035-b2c3d64a7a9e" />
+  <Project Path="Mang/Mang.csproj" />
+</Solution>

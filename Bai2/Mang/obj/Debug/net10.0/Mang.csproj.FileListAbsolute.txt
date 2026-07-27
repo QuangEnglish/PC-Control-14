@@ -1,0 +1,15 @@
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\bin\Debug\net10.0\Mang.exe
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\bin\Debug\net10.0\Mang.deps.json
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\bin\Debug\net10.0\Mang.runtimeconfig.json
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\bin\Debug\net10.0\Mang.dll
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\bin\Debug\net10.0\Mang.pdb
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.AssemblyInfoInputs.cache
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.AssemblyInfo.cs
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.sourcelink.json
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.dll
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\refint\Mang.dll
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.pdb
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\Mang.genruntimeconfig.cache
+C:\Users\THIS PC\Desktop\mvalab\Bai2\Mang\obj\Debug\net10.0\ref\Mang.dll
