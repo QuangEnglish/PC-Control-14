@@ -1,0 +1,30 @@
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\bai tap excel ket thuc khoa.exe
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\bai tap excel ket thuc khoa.deps.json
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\bai tap excel ket thuc khoa.runtimeconfig.json
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\bai tap excel ket thuc khoa.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\bai tap excel ket thuc khoa.pdb
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\EPPlus.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\System.Security.Cryptography.Xml.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.csproj.AssemblyReference.cache
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.AssemblyInfoInputs.cache
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.AssemblyInfo.cs
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.csproj.CoreCompileInputs.cache
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap .F962E60B.Up2Date
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\refint\bai tap excel ket thuc khoa.dll
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.pdb
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\bai tap excel ket thuc khoa.genruntimeconfig.cache
+D:\file c\bai tap excel ket thuc khoa\bai tap excel ket thuc khoa\obj\Debug\net10.0\ref\bai tap excel ket thuc khoa.dll
