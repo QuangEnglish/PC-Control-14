@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\bin\Debug\net9.0\NguyenDuykhanh_proj61.exe
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\bin\Debug\net9.0\NguyenDuykhanh_proj61.deps.json
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\bin\Debug\net9.0\NguyenDuykhanh_proj61.runtimeconfig.json
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\bin\Debug\net9.0\NguyenDuykhanh_proj61.dll
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\bin\Debug\net9.0\NguyenDuykhanh_proj61.pdb
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.AssemblyInfo.cs
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.sourcelink.json
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.dll
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\refint\NguyenDuykhanh_proj61.dll
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.pdb
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\NguyenDuykhanh_proj61.genruntimeconfig.cache
+D:\MAV\PC-Control-14\11Class_1\NguyenDuykhanh_proj61\NguyenDuykhanh_proj61\obj\Debug\net9.0\ref\NguyenDuykhanh_proj61.dll
