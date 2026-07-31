@@ -21,5 +21,15 @@ namespace Lesson12_OOP_P2
         {
             Console.WriteLine($"Xin chào, CCCD là: {CCCD}");
         }
+
+        public virtual void StartProcess()
+        {
+            Console.WriteLine("Khởi động quy trình chung");
+        }
+
+        public virtual void Stop()
+        {
+            Console.WriteLine("Bố cho con 1 ngôi nhà");
+        }
     }
 }

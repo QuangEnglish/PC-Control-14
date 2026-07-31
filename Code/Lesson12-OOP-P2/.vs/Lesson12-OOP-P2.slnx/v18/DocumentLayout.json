@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8579DE81-5414-4C2C-950F-33054CF208AF}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8579DE81-5414-4C2C-950F-33054CF208AF}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\abstractclass\\visioncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\abstractclass\\visioncourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8579DE81-5414-4C2C-950F-33054CF208AF}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8579DE81-5414-4C2C-950F-33054CF208AF}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\abstractclass\\pccourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\abstractclass\\pccourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8579DE81-5414-4C2C-950F-33054CF208AF}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8579DE81-5414-4C2C-950F-33054CF208AF}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\abstractclass\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\abstractclass\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\kh\u00F3a h\u1ECDc pc control - vision - mva lab\\gitclass\\pc-control-14\\code\\lesson12-oop-p2\\lesson12-oop-p2\\lesson12-oop-p2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\lesson12-oop-p2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lesson12-OOP-P2",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj",
+              "RelativeToolTip": "Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-31T16:04:28.958Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -34,39 +71,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCCourse.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\AbstractClass\\PCCourse.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\AbstractClass\\PCCourse.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\AbstractClass\\PCCourse.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\AbstractClass\\PCCourse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T16:41:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VisionCourse.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\AbstractClass\\VisionCourse.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\AbstractClass\\VisionCourse.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\AbstractClass\\VisionCourse.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\AbstractClass\\VisionCourse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T16:09:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\AbstractClass\\Course.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\AbstractClass\\Course.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\AbstractClass\\Course.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\AbstractClass\\Course.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T16:05:26.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baby.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Baby.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Baby.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Baby.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\Baby.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T15:48:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Teacher.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Teacher.cs",
+              "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Teacher.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\Teacher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T15:16:59.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Student.cs",
               "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Student.cs",
               "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Student.cs",
               "RelativeToolTip": "Lesson12-OOP-P2\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-29T16:26:22.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Person.cs",
               "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Person.cs",
               "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Person.cs",
               "RelativeToolTip": "Lesson12-OOP-P2\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-29T15:24:06.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Program.cs",
               "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Program.cs",
               "ToolTip": "D:\\Kh\u00F3a h\u1ECDc PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Program.cs",
               "RelativeToolTip": "Lesson12-OOP-P2\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwF8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-29T14:55:05.335Z",
               "EditorCaption": ""

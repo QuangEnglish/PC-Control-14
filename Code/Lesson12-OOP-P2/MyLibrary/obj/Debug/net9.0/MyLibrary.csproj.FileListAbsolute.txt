@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\bin\Debug\net9.0\MyLibrary.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\bin\Debug\net9.0\MyLibrary.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\bin\Debug\net9.0\MyLibrary.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\bin\Debug\net9.0\MyLibrary.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\bin\Debug\net9.0\MyLibrary.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\refint\MyLibrary.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\MyLibrary.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\MyLibrary\obj\Debug\net9.0\ref\MyLibrary.dll

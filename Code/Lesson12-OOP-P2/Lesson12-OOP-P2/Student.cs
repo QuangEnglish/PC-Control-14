@@ -98,10 +98,43 @@ namespace Lesson12_OOP_P2
         {
             Introduce();
         }
-        
 
+        public override void StartProcess()
+        {
+            //base.StartProcess();
+            Console.WriteLine("Khởi động quy trình riêng của Student");
+        }
 
+        public void DisplayV3()
+        {
+            base.StartProcess();
+            Console.WriteLine("hàm DisplayV3 không tham số");
+        }
 
+        public void DisplayV3(int x, int y)
+        {
+            base.StartProcess();
+            Console.WriteLine("hàm DisplayV3 có tham số");
+        }
+
+        public void DisplayV3(int x, double y)
+        {
+            base.StartProcess();
+            Console.WriteLine("hàm DisplayV3 có tham số double");
+        }
+
+        public sealed override void Stop()
+        {
+            Console.WriteLine("Con không muốn lấy");
+        }
+
+        public void Teach()
+        {
+            Console.WriteLine("Dạy C#");
+            Console.WriteLine("Dạy WinForms");
+            Console.WriteLine("Dạy Camera Vision");
+            Console.WriteLine("Điều khiển IO");
+        }
 
 
     }

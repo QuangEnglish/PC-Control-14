@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Lesson12-OOP-P2/Lesson12-OOP-P2.csproj" />
+  <Project Path="MyApp/MyApp.csproj" Id="16b686da-7fe7-461f-8223-78b32dc70892" />
+  <Project Path="MyLibrary/MyLibrary.csproj" Id="e0fcefb3-83da-4064-be25-1656b7f57801" />
 </Solution>
