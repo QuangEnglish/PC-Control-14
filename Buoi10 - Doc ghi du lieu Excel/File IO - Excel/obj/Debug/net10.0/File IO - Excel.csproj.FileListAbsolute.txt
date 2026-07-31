@@ -1,0 +1,31 @@
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.sourcelink.json
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.csproj.AssemblyReference.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\File IO - Excel.exe
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\File IO - Excel.deps.json
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\File IO - Excel.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\File IO - Excel.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\File IO - Excel.pdb
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\EPPlus.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\System.Security.Cryptography.Xml.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO .3D50344D.Up2Date
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\refint\File IO - Excel.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.pdb
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\File IO - Excel.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File IO - Excel\obj\Debug\net10.0\ref\File IO - Excel.dll

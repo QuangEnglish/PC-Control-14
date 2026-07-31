@@ -1,0 +1,15 @@
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\bin\Debug\net10.0\File Text-IO.exe
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\bin\Debug\net10.0\File Text-IO.deps.json
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\bin\Debug\net10.0\File Text-IO.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\bin\Debug\net10.0\File Text-IO.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\bin\Debug\net10.0\File Text-IO.pdb
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.sourcelink.json
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\refint\File Text-IO.dll
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.pdb
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\File Text-IO.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\Buoi10 - Doc ghi du lieu Excel\File Text-IO\obj\Debug\net10.0\ref\File Text-IO.dll

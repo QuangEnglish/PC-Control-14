@@ -1,0 +1,32 @@
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.csproj.AssemblyReference.cache
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.sourcelink.json
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.exe
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.deps.json
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.pdb
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\EPPlus.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\System.Security.Cryptography.Xml.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Q.528A0AA4.Up2Date
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\refint\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.dll
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.pdb
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel\obj\Debug\net10.0\ref\BTVN - Quan Li Diem So Hoc Sinh Tu File Excel.dll

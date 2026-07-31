@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26FE039-9669-464B-BB93-626D9B34EB0A}|File IO - Excel\\File IO - Excel.csproj|d:\\hoc_c#\\pc-control-14\\buoi10 - doc ghi du lieu excel\\file io - excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26FE039-9669-464B-BB93-626D9B34EB0A}|File IO - Excel\\File IO - Excel.csproj|solutionrelative:file io - excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8750E97D-0A51-46B3-98C3-7A80460600B0}|File Text-IO\\File Text-IO.csproj|d:\\hoc_c#\\pc-control-14\\buoi10 - doc ghi du lieu excel\\file text-io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8750E97D-0A51-46B3-98C3-7A80460600B0}|File Text-IO\\File Text-IO.csproj|solutionrelative:file text-io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23333B3F-14EE-46C3-99E0-D84771AF2AC8}|Buoi10 - Doc ghi du lieu Excel\\Buoi10 - Doc ghi du lieu Excel.csproj|d:\\hoc_c#\\pc-control-14\\buoi10 - doc ghi du lieu excel\\buoi10 - doc ghi du lieu excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23333B3F-14EE-46C3-99E0-D84771AF2AC8}|Buoi10 - Doc ghi du lieu Excel\\Buoi10 - Doc ghi du lieu Excel.csproj|solutionrelative:buoi10 - doc ghi du lieu excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\Program.cs",
+              "RelativeDocumentMoniker": "File IO - Excel\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\Program.cs",
+              "RelativeToolTip": "File IO - Excel\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:26:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File Text-IO\\Program.cs",
+              "RelativeDocumentMoniker": "File Text-IO\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File Text-IO\\Program.cs",
+              "RelativeToolTip": "File Text-IO\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:17:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\Buoi10 - Doc ghi du lieu Excel\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi10 - Doc ghi du lieu Excel\\Program.cs",
+              "ToolTip": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\Buoi10 - Doc ghi du lieu Excel\\Program.cs",
+              "RelativeToolTip": "Buoi10 - Doc ghi du lieu Excel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:11:30.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

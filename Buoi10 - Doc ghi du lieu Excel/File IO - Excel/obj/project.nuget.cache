@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUpLlcVM4c8=",
+  "success": true,
+  "projectFilePath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\epplus\\8.6.2\\epplus.8.6.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\epplus.interfaces\\8.6.2\\epplus.interfaces.8.6.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.7\\microsoft.extensions.configuration.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.7\\microsoft.extensions.configuration.fileextensions.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.7\\microsoft.extensions.configuration.json.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.7\\microsoft.extensions.fileproviders.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.7\\microsoft.extensions.fileproviders.physical.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.7\\microsoft.extensions.filesystemglobbing.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.7\\microsoft.extensions.primitives.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.7\\system.security.cryptography.pkcs.10.0.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.xml\\10.0.7\\system.security.cryptography.xml.10.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 10.0.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-23rf-6693-g89p",
+      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 10.0.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-8q5v-6pqq-x66h",
+      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 10.0.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-cvvh-rhrc-wg4q",
+      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 10.0.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-g8r8-53c2-pm3f",
+      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 10.0.7 has a known high severity vulnerability, https://github.com/advisories/GHSA-mmjf-rqrv-855v",
+      "projectPath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Hoc_C#\\PC-Control-14\\Buoi10 - Doc ghi du lieu Excel\\File IO - Excel\\File IO - Excel.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

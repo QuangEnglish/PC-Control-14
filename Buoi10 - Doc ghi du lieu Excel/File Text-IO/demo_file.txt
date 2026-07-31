@@ -1,0 +1,10 @@
+Tên: Nguyễn Quang
+Tuổi: 28
+Nơi ở: Hà Nội
+Ngày: 22/07/2026
+
+--- Log bổ sung ---
+Thêm dòng này lúc: 21:41:17
+[INFO] 2026-01-23 19:45:12 - User login thành công
+[ERROR] 2026-01-23 19:46:05 - Không tìm thấy sản phẩm ID=123
+[DEBUG] 2026-01-23 19:47:30 - Query database hoàn tất
