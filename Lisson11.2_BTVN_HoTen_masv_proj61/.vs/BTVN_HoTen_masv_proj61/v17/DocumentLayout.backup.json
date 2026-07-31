@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7444DFC-3188-4E53-B50F-48A7418A2454}|Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua.csproj|d:\\hocc#\\bai_tap\\btvn_hoten_masv_proj61\\lisson11.1_pham_vi_truy_cap--ke_thua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7444DFC-3188-4E53-B50F-48A7418A2454}|Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua.csproj|solutionrelative:lisson11.1_pham_vi_truy_cap--ke_thua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7444DFC-3188-4E53-B50F-48A7418A2454}|Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua.csproj|d:\\hocc#\\bai_tap\\btvn_hoten_masv_proj61\\lisson11.1_pham_vi_truy_cap--ke_thua\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7444DFC-3188-4E53-B50F-48A7418A2454}|Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua.csproj|solutionrelative:lisson11.1_pham_vi_truy_cap--ke_thua\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7444DFC-3188-4E53-B50F-48A7418A2454}|Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua.csproj|d:\\hocc#\\bai_tap\\btvn_hoten_masv_proj61\\lisson11.1_pham_vi_truy_cap--ke_thua\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7444DFC-3188-4E53-B50F-48A7418A2454}|Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua.csproj|solutionrelative:lisson11.1_pham_vi_truy_cap--ke_thua\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Student.cs",
+              "RelativeDocumentMoniker": "Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Student.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Student.cs",
+              "RelativeToolTip": "Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:31:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Person.cs",
+              "RelativeDocumentMoniker": "Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Person.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Person.cs",
+              "RelativeToolTip": "Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:30:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Program.cs",
+              "RelativeDocumentMoniker": "Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BAI_TAP\\BTVN_HoTen_masv_proj61\\Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Program.cs",
+              "RelativeToolTip": "Lisson11.1_Pham_Vi_Truy_Cap--Ke_Thua\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:30:14.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
