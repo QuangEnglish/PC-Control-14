@@ -1,0 +1,15 @@
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\bin\Debug\net9.0\PascalCase.exe
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\bin\Debug\net9.0\PascalCase.deps.json
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\bin\Debug\net9.0\PascalCase.runtimeconfig.json
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\bin\Debug\net9.0\PascalCase.dll
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\bin\Debug\net9.0\PascalCase.pdb
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.AssemblyInfoInputs.cache
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.AssemblyInfo.cs
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.csproj.CoreCompileInputs.cache
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.sourcelink.json
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.dll
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\refint\PascalCase.dll
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.pdb
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\PascalCase.genruntimeconfig.cache
+D:\MAV\PC-Control-14\12ThucHanhOOP\PascalCase\PascalCase\obj\Debug\net9.0\ref\PascalCase.dll
