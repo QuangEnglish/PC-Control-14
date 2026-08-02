@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lisson12_BTVN_OOP-DaHinh-TruuTuong/1.0.0": {
+        "runtime": {
+          "Lisson12_BTVN_OOP-DaHinh-TruuTuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lisson12_BTVN_OOP-DaHinh-TruuTuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

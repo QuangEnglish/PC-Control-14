@@ -1,0 +1,14 @@
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\bin\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.exe
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\bin\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.deps.json
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\bin\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.runtimeconfig.json
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\bin\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.dll
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\bin\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.pdb
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.AssemblyInfoInputs.cache
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.AssemblyInfo.cs
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj.CoreCompileInputs.cache
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.dll
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\refint\Lisson12_BTVN_OOP-DaHinh-TruuTuong.dll
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.pdb
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\Lisson12_BTVN_OOP-DaHinh-TruuTuong.genruntimeconfig.cache
+D:\HocC#\BAI_TAP\Lisson12_BTVN_OOP-DaHinh-TruuTuong\Lisson12_BTVN_OOP-DaHinh-TruuTuong\obj\Debug\net9.0\ref\Lisson12_BTVN_OOP-DaHinh-TruuTuong.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\hocc#\\file h\u1ECDc c#\\lesson12-oop-p2\\lesson12-oop-p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\hocc#\\file h\u1ECDc c#\\lesson12-oop-p2\\lesson12-oop-p2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|d:\\hocc#\\file h\u1ECDc c#\\lesson12-oop-p2\\lesson12-oop-p2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACE5A52-59EC-9D8D-F878-80A150F42235}|Lesson12-OOP-P2\\Lesson12-OOP-P2.csproj|solutionrelative:lesson12-oop-p2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Student.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Student.cs",
+              "ToolTip": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Student.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\Student.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:26:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Person.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Person.cs",
+              "ToolTip": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Person.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T15:24:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson12-OOP-P2\\Program.cs",
+              "ToolTip": "D:\\HocC#\\File H\u1ECDc C#\\Lesson12-OOP-P2\\Lesson12-OOP-P2\\Program.cs",
+              "RelativeToolTip": "Lesson12-OOP-P2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T14:55:05.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
