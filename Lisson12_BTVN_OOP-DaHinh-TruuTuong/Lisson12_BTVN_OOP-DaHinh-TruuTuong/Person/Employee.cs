@@ -10,15 +10,23 @@ namespace Lisson12_BTVN_OOP_DaHinh_TruuTuong
     abstract class Employee : Person
     {
         private double _salary;
-        private string _departmen;
+        private string _department;
         //private string department;
+        
+        public double Salary
+        {
+            get => _salary;
+            set => _salary = value;
+        }
+            
+        public string Department { get => _department; set => _department = value; }
 
         public Employee() { }
-        public Employee(string id, int age, string name, double salary, string departmen)
+        public Employee(string id, int age, string name, double salary, string department)
             : base (id, age, name)
         {
-            _salary = salary;
-            _departmen = departmen;
+            Salary = salary;
+            Department = department;
         }
 
         //protected Employee(string id, string name, int age, double salary, string department)
@@ -30,13 +38,7 @@ namespace Lisson12_BTVN_OOP_DaHinh_TruuTuong
         //    this.department = department;
         //}
 
-        public double Salary
-        {
-            get => _salary;
-            set => _salary = value;
-        }
-            
-        public string Departmen { get => _departmen; set => _departmen = value; }
+     
 
         public abstract void Work();
 
@@ -46,7 +48,7 @@ namespace Lisson12_BTVN_OOP_DaHinh_TruuTuong
             Console.WriteLine("Name: " + Name);
             Console.WriteLine("Age: " + Age);
             Console.WriteLine("Salary: " + Salary);
-            Console.WriteLine("Department: " + Departmen);
+            Console.WriteLine("Department: " + Department);
             
         }
     }

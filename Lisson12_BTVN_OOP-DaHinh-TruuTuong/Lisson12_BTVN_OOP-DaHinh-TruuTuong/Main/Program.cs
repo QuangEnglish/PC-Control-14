@@ -9,6 +9,8 @@
 
             //Developer developer = new Developer("125225", 25, "Nam", 3.0, "Co");
             //developer.ShowInfo();
+            
+           // Person test =new Person(12,"HAi",23);
 
             //Person developerV2 = new Developer();
             //developerV2.Name = "HaiNam";
@@ -98,19 +100,25 @@
                         Console.Write("\n Nhập ID cần xóa: ");
                         id = Console.ReadLine();
 
-                        Employee xoa = null;
-
-                        foreach (Employee e in employees)
-                        {
-                            if (e.Id == id)
-                            {
-                                xoa = e;
-                                break;
-                            }
-                        }
+                       // Employee xoa = null;
+                        Employee xoa = employees.FirstOrDefault(e => e.Id == id);
 
                         if (xoa != null)
+                        {
                             employees.Remove(xoa);
+                        }
+                        //
+                        // foreach (Employee e in employees)
+                        // {
+                        //     if (e.Id == id)
+                        //     {
+                        //         xoa = e;
+                        //         break;
+                        //     }
+                        // }
+
+                        // if (xoa != null)
+                        //     employees.Remove(xoa);
 
                         break;
 
@@ -139,7 +147,9 @@
                 Console.Write("Phòng ban: ");
                 string departmen = Console.ReadLine();
 
-                employees.Add(new Developer(id, age, name, salary, departmen));
+                Developer developer = new Developer(id, age, name, salary, departmen);
+
+                employees.Add(developer);
             }
 
             static void ThemTester(List<Employee> employees)

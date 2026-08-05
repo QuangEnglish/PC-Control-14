@@ -19,9 +19,9 @@ namespace Lisson12_BTVN_OOP_DaHinh_TruuTuong
 
         public Person(string id, int age, string name)
         {
-            _id = id;
-            _age = age;
-            _name = name;
+            Id = id;
+            Age = age;
+            Name = name;
         }
 
 

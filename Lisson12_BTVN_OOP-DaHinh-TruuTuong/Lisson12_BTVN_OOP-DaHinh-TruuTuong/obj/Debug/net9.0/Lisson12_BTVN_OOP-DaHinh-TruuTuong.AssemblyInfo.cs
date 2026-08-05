@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lisson12_BTVN_OOP-DaHinh-TruuTuong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc579ffaf1ea1b359bbbacc25a0e2279393883e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lisson12_BTVN_OOP-DaHinh-TruuTuong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lisson12_BTVN_OOP-DaHinh-TruuTuong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
