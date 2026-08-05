@@ -1,0 +1,14 @@
+D:\file c\BAI 4\BAI 4\bin\Debug\net10.0\BAI 4.exe
+D:\file c\BAI 4\BAI 4\bin\Debug\net10.0\BAI 4.deps.json
+D:\file c\BAI 4\BAI 4\bin\Debug\net10.0\BAI 4.runtimeconfig.json
+D:\file c\BAI 4\BAI 4\bin\Debug\net10.0\BAI 4.dll
+D:\file c\BAI 4\BAI 4\bin\Debug\net10.0\BAI 4.pdb
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.AssemblyInfoInputs.cache
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.AssemblyInfo.cs
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.csproj.CoreCompileInputs.cache
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.dll
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\refint\BAI 4.dll
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.pdb
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\BAI 4.genruntimeconfig.cache
+D:\file c\BAI 4\BAI 4\obj\Debug\net10.0\ref\BAI 4.dll
