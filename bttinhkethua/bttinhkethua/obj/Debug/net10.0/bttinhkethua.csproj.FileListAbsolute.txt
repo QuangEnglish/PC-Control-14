@@ -1,0 +1,14 @@
+D:\file c\bttinhkethua\bttinhkethua\bin\Debug\net10.0\bttinhkethua.exe
+D:\file c\bttinhkethua\bttinhkethua\bin\Debug\net10.0\bttinhkethua.deps.json
+D:\file c\bttinhkethua\bttinhkethua\bin\Debug\net10.0\bttinhkethua.runtimeconfig.json
+D:\file c\bttinhkethua\bttinhkethua\bin\Debug\net10.0\bttinhkethua.dll
+D:\file c\bttinhkethua\bttinhkethua\bin\Debug\net10.0\bttinhkethua.pdb
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.GeneratedMSBuildEditorConfig.editorconfig
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.AssemblyInfoInputs.cache
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.AssemblyInfo.cs
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.csproj.CoreCompileInputs.cache
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.dll
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\refint\bttinhkethua.dll
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.pdb
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\bttinhkethua.genruntimeconfig.cache
+D:\file c\bttinhkethua\bttinhkethua\obj\Debug\net10.0\ref\bttinhkethua.dll
