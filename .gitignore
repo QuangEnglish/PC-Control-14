@@ -1,0 +1,27 @@
+## .NET / C#
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.user
+*.suo
+*.DotSettings.user
+
+## JetBrains Rider / IntelliJ
+.idea/
+
+## Visual Studio
+.vs/
+*.rsuser
+*.sln.docstates
+
+## NuGet
+*.nupkg
+**/packages/
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
