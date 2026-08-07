@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\bin\Debug\net9.0\TestDemo.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\bin\Debug\net9.0\TestDemo.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\bin\Debug\net9.0\TestDemo.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\bin\Debug\net9.0\TestDemo.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\bin\Debug\net9.0\TestDemo.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\refint\TestDemo.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\TestDemo.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\TestDemo\TestDemo\obj\Debug\net9.0\ref\TestDemo.dll

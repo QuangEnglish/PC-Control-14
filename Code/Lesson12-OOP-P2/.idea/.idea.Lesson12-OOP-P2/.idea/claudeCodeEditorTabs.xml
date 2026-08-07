@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="7cdc2a45-d445-4303-90b6-9f507968445a" />
+    <option name="openSessionIds">
+      <list>
+        <option value="ce9af80d-5881-49dd-bae2-cd1724174bda" />
+        <option value="7cdc2a45-d445-4303-90b6-9f507968445a" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="7cdc2a45-d445-4303-90b6-9f507968445a" value="/sessions/267b8a8d-65c6-45ae-b10a-47007518d737" />
+        <entry key="ce9af80d-5881-49dd-bae2-cd1724174bda" value="/sessions/new" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="7cdc2a45-d445-4303-90b6-9f507968445a" value="tôi phải xử lý làm sao đống rác này" />
+        <entry key="ce9af80d-5881-49dd-bae2-cd1724174bda" value="Claude Code" />
+      </map>
+    </option>
+  </component>
+</project>
