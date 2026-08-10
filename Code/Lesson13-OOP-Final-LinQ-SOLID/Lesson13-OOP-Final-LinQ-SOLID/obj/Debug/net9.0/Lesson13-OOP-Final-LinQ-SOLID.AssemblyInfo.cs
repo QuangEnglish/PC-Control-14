@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson13-OOP-Final-LinQ-SOLID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+879677ae1ccd88da8fda08e0d64e30512fec8340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd3d41cd93f55856d5c811837d1c1bf63b9b3703")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson13-OOP-Final-LinQ-SOLID")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson13-OOP-Final-LinQ-SOLID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
