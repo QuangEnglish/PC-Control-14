@@ -1,0 +1,13 @@
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\BT_cuoi_khoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\BT_cuoi_khoa.csproj.CoreCompileInputs.cache
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\BT_cuoi_khoa.sourcelink.json
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\bin\Debug\net10.0\BT_cuoi_khoa.exe
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\bin\Debug\net10.0\BT_cuoi_khoa.deps.json
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\bin\Debug\net10.0\BT_cuoi_khoa.runtimeconfig.json
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\bin\Debug\net10.0\BT_cuoi_khoa.dll
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\bin\Debug\net10.0\BT_cuoi_khoa.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\BT_cuoi_khoa.dll
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\refint\BT_cuoi_khoa.dll
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\BT_cuoi_khoa.pdb
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\BT_cuoi_khoa.genruntimeconfig.cache
+D:\BaiTapC#_MVVA\PC-Control-14\BT_cuoi_khoa\Decompiled\obj\Debug\net10.0\ref\BT_cuoi_khoa.dll
