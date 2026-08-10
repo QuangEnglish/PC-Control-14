@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\",
+  "WorkspaceRootPath": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\bai_tap\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\pc-control-14\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|solutionrelative:lisson12_btvn_oop-dahinh-truutuong\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\bai_tap\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\pc-control-14\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|solutionrelative:lisson12_btvn_oop-dahinh-truutuong\\person\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\bai_tap\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\pc-control-14\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|solutionrelative:lisson12_btvn_oop-dahinh-truutuong\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\bai_tap\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\pc-control-14\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|solutionrelative:lisson12_btvn_oop-dahinh-truutuong\\person\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\bai_tap\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|d:\\hocc#\\pc-control-14\\lisson12_btvn_oop-dahinh-truutuong\\lisson12_btvn_oop-dahinh-truutuong\\person\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{976BC3E7-E467-401D-85AE-3E3CF5D50FA4}|Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong.csproj|solutionrelative:lisson12_btvn_oop-dahinh-truutuong\\person\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Main\\Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Main\\Program.cs",
-              "ToolTip": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Main\\Program.cs",
+              "ToolTip": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Main\\Program.cs",
               "RelativeToolTip": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Main\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-02T03:24:00.106Z",
               "IsPinned": true,
@@ -50,35 +50,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Employee.cs",
+              "DocumentMoniker": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Employee.cs",
               "RelativeDocumentMoniker": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Employee.cs",
-              "ToolTip": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Employee.cs",
+              "ToolTip": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Employee.cs",
               "RelativeToolTip": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Employee.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAA4wCoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T08:14:02.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T08:14:02.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Tester.cs",
-              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Tester.cs",
+              "DocumentMoniker": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Tester.cs",
               "RelativeDocumentMoniker": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Tester.cs",
-              "ToolTip": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Tester.cs",
+              "ToolTip": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Tester.cs",
               "RelativeToolTip": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Tester.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T03:29:51.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T03:29:51.234Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Developer.cs",
-              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Developer.cs",
+              "DocumentMoniker": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Developer.cs",
               "RelativeDocumentMoniker": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Developer.cs",
-              "ToolTip": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Developer.cs",
+              "ToolTip": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Developer.cs",
               "RelativeToolTip": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Developer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,14 +86,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Person.cs",
+              "DocumentMoniker": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Person.cs",
               "RelativeDocumentMoniker": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Person.cs",
-              "ToolTip": "D:\\HocC#\\BAI_TAP\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Person.cs",
+              "ToolTip": "D:\\HocC#\\PC-Control-14\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Person.cs",
               "RelativeToolTip": "Lisson12_BTVN_OOP-DaHinh-TruuTuong\\Person\\Person.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T02:59:35.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T02:59:35.925Z"
             }
           ]
         }

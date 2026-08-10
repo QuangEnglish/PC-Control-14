@@ -16,9 +16,9 @@
             //developerV2.Name = "HaiNam";
             //developerV2.Show();
 
-            //Tester tester = new Tester();
-            //tester.Work();
-            //tester.ShowInfo();
+            Tester tester = new Tester();
+            tester.Work();
+            tester.ShowInfo();
 
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
