@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson13_2 Hospital Staff Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99beccb77dcc1c429c47715cd35aa2b8222e674c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca3071c6e714c942743d058f798810a5df756880")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson13_2 Hospital Staff Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson13_2 Hospital Staff Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
