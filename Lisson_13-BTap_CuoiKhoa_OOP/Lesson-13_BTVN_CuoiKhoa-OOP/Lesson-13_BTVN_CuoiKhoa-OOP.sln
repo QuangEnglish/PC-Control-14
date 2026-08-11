@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson-13_BTVN_CuoiKhoa-OOP", "Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP.csproj", "{F44D9DB0-85F5-4DCF-A82D-54A60D3C1346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44D9DB0-85F5-4DCF-A82D-54A60D3C1346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44D9DB0-85F5-4DCF-A82D-54A60D3C1346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44D9DB0-85F5-4DCF-A82D-54A60D3C1346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44D9DB0-85F5-4DCF-A82D-54A60D3C1346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\bin\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.exe
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\bin\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.deps.json
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\bin\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.runtimeconfig.json
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\bin\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.dll
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\bin\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.pdb
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.AssemblyInfoInputs.cache
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.AssemblyInfo.cs
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.csproj.CoreCompileInputs.cache
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.sourcelink.json
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.dll
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\refint\Lesson-13_BTVN_CuoiKhoa-OOP.dll
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.pdb
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\Lesson-13_BTVN_CuoiKhoa-OOP.genruntimeconfig.cache
+D:\HocC#\PC-Control-14\Lisson_13-BTap_CuoiKhoa_OOP\Lesson-13_BTVN_CuoiKhoa-OOP\Lesson-13_BTVN_CuoiKhoa-OOP\obj\Debug\net9.0\ref\Lesson-13_BTVN_CuoiKhoa-OOP.dll
