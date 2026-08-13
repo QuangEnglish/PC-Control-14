@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MAV\\BTVN\\13\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "D:\\MAV\\PC-Control-14\\14ProjectOOP_T4\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "D:\\MAV\\BTVN\\13\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "D:\\MAV\\PC-Control-14\\14ProjectOOP_T4\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MAV\\BTVN\\13\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "D:\\MAV\\PC-Control-14\\14ProjectOOP_T4\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "D:\\MAV\\BTVN\\13\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "D:\\MAV\\PC-Control-14\\14ProjectOOP_T4\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\Khanh Dam\\.nuget\\packages\\",
-        "outputPath": "D:\\MAV\\BTVN\\13\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "D:\\MAV\\PC-Control-14\\14ProjectOOP_T4\\ConsoleApp2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
