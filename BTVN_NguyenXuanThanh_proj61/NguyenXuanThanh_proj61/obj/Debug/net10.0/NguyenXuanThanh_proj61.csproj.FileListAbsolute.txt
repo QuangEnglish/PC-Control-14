@@ -1,0 +1,15 @@
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\bin\Debug\net10.0\NguyenXuanThanh_proj61.exe
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\bin\Debug\net10.0\NguyenXuanThanh_proj61.deps.json
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\bin\Debug\net10.0\NguyenXuanThanh_proj61.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\bin\Debug\net10.0\NguyenXuanThanh_proj61.dll
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\bin\Debug\net10.0\NguyenXuanThanh_proj61.pdb
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.sourcelink.json
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.dll
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\refint\NguyenXuanThanh_proj61.dll
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.pdb
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\NguyenXuanThanh_proj61.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\NguyenXuanThanh_proj61\NguyenXuanThanh_proj61\obj\Debug\net10.0\ref\NguyenXuanThanh_proj61.dll
