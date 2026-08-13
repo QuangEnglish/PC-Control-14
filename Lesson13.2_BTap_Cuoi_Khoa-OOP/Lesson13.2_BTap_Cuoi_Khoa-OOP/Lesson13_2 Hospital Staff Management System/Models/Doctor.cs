@@ -62,7 +62,7 @@ public class Doctor : Staff
    {
        base.GetInfo();
        string dutyStatus = IsOnDuty ? "Đang trực" : "Nghỉ";
-      return $"Bác sĩ" + "[" + _specialty+ "]:"+ _patientCount/_maxPatients +"bệnh nhân ("+dutyStatus+")";
+      return $"Bác sĩ" + "[" + _specialty+ "]:"+ _patientCount+"/"+_maxPatients +"bệnh nhân ("+dutyStatus+")";
        
    }
 

@@ -8,4 +8,6 @@ public interface IWorkable
      bool CheckIn();    // - Nhân viên vào ca, trả về `bool`
      bool CheckOut();   // - Nhân viên ra ca, trả về `bool`
      void TakeLeave();  // - Xin nghỉ phép, trả về `void`
+     
+     
 }
