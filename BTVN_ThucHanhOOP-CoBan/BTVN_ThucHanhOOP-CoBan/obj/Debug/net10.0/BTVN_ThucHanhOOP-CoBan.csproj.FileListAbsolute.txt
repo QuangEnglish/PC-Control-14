@@ -1,0 +1,15 @@
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\bin\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.exe
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\bin\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.deps.json
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\bin\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.runtimeconfig.json
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\bin\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.dll
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\bin\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.pdb
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.sourcelink.json
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.dll
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\refint\BTVN_ThucHanhOOP-CoBan.dll
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.pdb
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\BTVN_ThucHanhOOP-CoBan.genruntimeconfig.cache
+D:\Hoc_C#\PC-Control-14\BTVN_ThucHanhOOP-CoBan\BTVN_ThucHanhOOP-CoBan\obj\Debug\net10.0\ref\BTVN_ThucHanhOOP-CoBan.dll
