@@ -1,0 +1,5 @@
+D:\Hoc_C#\PC-Control-14\BTVN 10.82026 - Hospital Staff Management System\BTVN 10.82026 - Hospital Staff Management System\obj\Debug\net9.0\BTVN 10.82026 - Hospital Staff Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_C#\PC-Control-14\BTVN 10.82026 - Hospital Staff Management System\BTVN 10.82026 - Hospital Staff Management System\obj\Debug\net9.0\BTVN 10.82026 - Hospital Staff Management System.AssemblyInfoInputs.cache
+D:\Hoc_C#\PC-Control-14\BTVN 10.82026 - Hospital Staff Management System\BTVN 10.82026 - Hospital Staff Management System\obj\Debug\net9.0\BTVN 10.82026 - Hospital Staff Management System.AssemblyInfo.cs
+D:\Hoc_C#\PC-Control-14\BTVN 10.82026 - Hospital Staff Management System\BTVN 10.82026 - Hospital Staff Management System\obj\Debug\net9.0\BTVN 10.82026 - Hospital Staff Management System.csproj.CoreCompileInputs.cache
+D:\Hoc_C#\PC-Control-14\BTVN 10.82026 - Hospital Staff Management System\BTVN 10.82026 - Hospital Staff Management System\obj\Debug\net9.0\BTVN 10.82026 - Hospital Staff Management System.sourcelink.json
