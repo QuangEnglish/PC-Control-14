@@ -1,0 +1,14 @@
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\bin\Debug\net10.0\HospitalStaffManagement.exe
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\bin\Debug\net10.0\HospitalStaffManagement.deps.json
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\bin\Debug\net10.0\HospitalStaffManagement.runtimeconfig.json
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\bin\Debug\net10.0\HospitalStaffManagement.dll
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\bin\Debug\net10.0\HospitalStaffManagement.pdb
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.AssemblyInfoInputs.cache
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.AssemblyInfo.cs
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.csproj.CoreCompileInputs.cache
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.dll
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\refint\HospitalStaffManagement.dll
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.pdb
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\HospitalStaffManagement.genruntimeconfig.cache
+D:\file c\HospitalStaffManagement\HospitalStaffManagement\obj\Debug\net10.0\ref\HospitalStaffManagement.dll
