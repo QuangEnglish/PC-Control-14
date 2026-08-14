@@ -85,8 +85,9 @@ public class Nurse : Staff
      
      // ChangeShift
      public void ChangeShift(string newShift)
+     
      {
-         if (newShift != "Sáng" && newShift != "Chiều" && newShift != "Đêm")
+         if (newShift != "Sang" && newShift != "Chieu" && newShift != "Dem")
          {
              throw new ArgumentException( "Ca trực chỉ có: Sáng, Chiều hoặc Đêm.");
          } 

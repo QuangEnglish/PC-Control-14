@@ -7,7 +7,7 @@ public class Doctor : Staff
 {
    private string _specialty; //: string - Chuyên khoa (Nội, Ngoại, Tim mạch, Thần kinh...)
    private int _patientCount; //: int - Số bệnh nhân đang phụ trách
-   private int _maxPatients; //: int - Số bệnh nhân tối đa có thể nhận
+   private int _maxPatients ; //: int - Số bệnh nhân tối đa có thể nhận
    private string _licenseNumber; //: string - Số giấy phép hành nghề
 
    // Properties
@@ -54,13 +54,13 @@ public class Doctor : Staff
       MaxPatients = maxPatients;
       LicenseNumber = licenseNumber;
       
-      _maxPatients = 0;
+      _patientCount = 0;
    }
    
    // Methods
    public override string GetRole()
    {
-       base.GetInfo();
+       //base.GetInfo();
        string dutyStatus = IsOnDuty ? "Đang trực" : "Nghỉ";
       return $"Bác sĩ" + "[" + _specialty+ "]:"+ _patientCount+"/"+_maxPatients +"bệnh nhân ("+dutyStatus+")";
        

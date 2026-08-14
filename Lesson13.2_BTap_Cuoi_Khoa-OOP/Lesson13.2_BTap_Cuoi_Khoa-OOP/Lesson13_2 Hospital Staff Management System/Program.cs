@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
         StaffManager manager = new StaffManager();
 
         // Tao du lieu mau
@@ -35,8 +36,8 @@ class Program
         manager.AddStaff(nurse);
         manager.AddStaff(pharmacist);
 
-        int choice;
-
+       int choice;
+       
         do
         {
             Console.WriteLine();
@@ -57,7 +58,10 @@ class Program
             Console.WriteLine("0. Thoát");
             Console.WriteLine("========================================");
             Console.Write("Chọn chức năng: ");
+            
             int.TryParse(Console.ReadLine(), out choice);
+           // int choice = Convert.ToInt32(Console.ReadLine());
+            
             switch (choice)
             {
                 case 1:
@@ -346,14 +350,20 @@ class Program
 
             else if (choice == 2)
             {
-                Console.WriteLine($">> Bệnh nhân đã được xuất viện.");
-                Console.WriteLine($">> Số bệnh nhân hiện tại: "
-                                  + $"{doctor.PatientCount}/{doctor.MaxPatients}");
+                bool result = doctor.DischargePatient();
+
+                if (result)
+                {
+                    Console.WriteLine($">> Bệnh nhân đã được xuất viện.");
+                    Console.WriteLine($">> Số bệnh nhân hiện tại: "
+                                      + $"{doctor.PatientCount}/{doctor.MaxPatients}");
+                }
+                else
+                {
+                    Console.WriteLine(">> Hiện tại không có bệnh nhân.");
+                }
             }
-            else
-            {
-                Console.WriteLine(">> Hiện tại không có bệnh nhân.");
-            }
+            
         }
 
 
@@ -371,7 +381,7 @@ class Program
                     return;
                 }
 
-                Console.Write("Nhập ca mới (Sáng/Chiều/Đêm): ");
+                Console.Write("Nhập ca mới (Sang/Chieu/Dem): ");
                 string newShift = Console.ReadLine();
 
                 try
