@@ -5,8 +5,11 @@ namespace DesignPattern.DependencyInjection;
 public class PowerSocket
 {
     private readonly IDevice _device;
+    
+    // Cách 1: inject thông qua Properties / Setter Injection
+    /*public IDevice Device { get; set; }*/
 
-    // Constructor Injection: thiet bi duoc inject tu ben ngoai
+    // Cách 2:  Constructor Injection: thiet bi duoc inject tu ben ngoai
     public PowerSocket(IDevice device)
     {
         _device = device;
@@ -16,5 +19,12 @@ public class PowerSocket
     {
         Console.WriteLine("O dien cap nguon...");
         _device.TurnOn();
+    }
+    
+    // Cách 3: method injection
+    public void ProcessPower(IDevice device)
+    {
+        Console.WriteLine("O dien cap nguon...");
+        device.TurnOn();
     }
 }

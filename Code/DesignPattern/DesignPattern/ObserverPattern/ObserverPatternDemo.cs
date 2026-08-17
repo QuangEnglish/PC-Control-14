@@ -4,6 +4,15 @@ public class ObserverPatternDemo
 {
     public static void Run()
     {
+        // Behavioral Design Pattern
+        // observer pattern: thông báo khi dữ liệu thay đổi
+        // Khi 1 object thay đổi trạng thái, nhiều object khác cần được thông báo tự động
+        
+        // kênh youtube: subject (publisher) (nguồn pht thông tin)
+        // người đăng ký: observers (subscriber) (người theo dõi)
+        
+        // phù hợp cho hệ thống event-driven
+        
         Console.WriteLine("====== OBSERVER PATTERN DEMO ======\n");
 
         Stock stock = new Stock();

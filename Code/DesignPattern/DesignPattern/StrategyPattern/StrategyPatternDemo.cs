@@ -4,12 +4,16 @@ public class StrategyPatternDemo
 {
     public static void Run()
     {
+        // Behavioral Design Pattern
+        
         Console.WriteLine("====== STRATEGY PATTERN DEMO ======\n");
 
         PaymentContext payment = new PaymentContext();
 
         // Chon strategy: Credit Card
         Console.WriteLine("--- Thanh toan bang Credit Card ---");
+        
+        
         payment.SetStrategy(new CreditCardPayment());
         payment.ExecutePayment(100);
 

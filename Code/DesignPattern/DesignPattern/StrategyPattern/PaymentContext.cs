@@ -9,9 +9,16 @@ public class PaymentContext
     {
         _strategy = strategy;
     }
-
+    
     public void ExecutePayment(int amount)
     {
         _strategy.Pay(amount);
     }
 }
+
+// PaymentContext : là 1 thg quản lý 
+// private IPaymentStrategy _strategy;    hình thức thanh toán
+// SetStrategy  truyền hình thức thanh toán = tiền mặt 
+// thì sau đó  hình thức thanh toán = thanh toan tiền mặt
+// tính đa hình
+// IPaymentStrategy strategy = new PayPalPayment();

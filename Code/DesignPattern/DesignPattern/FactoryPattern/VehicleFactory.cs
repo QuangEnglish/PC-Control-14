@@ -13,6 +13,9 @@ public class VehicleFactory
 
         if (type == "truck")
             return new Truck();
+        
+        if (type == "bus")
+            return new Bus();
 
         throw new Exception($"Vehicle type '{type}' not found");
     }

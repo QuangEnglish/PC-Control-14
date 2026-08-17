@@ -17,9 +17,9 @@ class Program
         /*BuilderPatternDemo.Run();*/
         
         // Demo Singleton Pattern
-        SingletonPatternDemo.Run();
+        /*SingletonPatternDemo.Run();
 
-        Console.WriteLine("\n");
+        Console.WriteLine("\n");*/
 
         // Demo Factory Pattern
         /*FactoryPatternDemo.Run();
@@ -38,5 +38,7 @@ class Program
 
         // Demo Dependency Injection
         DIPatternDemo.Run();*/
+        
+        ObserverPatternDemo.Run();
     }
 }
