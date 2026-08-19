@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\bin\Debug\net9.0\Lesson12-OOP-P2.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\bin\Debug\net9.0\Lesson12-OOP-P2.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\bin\Debug\net9.0\Lesson12-OOP-P2.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\bin\Debug\net9.0\Lesson12-OOP-P2.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\bin\Debug\net9.0\Lesson12-OOP-P2.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\refint\Lesson12-OOP-P2.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\Lesson12-OOP-P2.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson12-OOP-P2\Lesson12-OOP-P2\obj\Debug\net9.0\ref\Lesson12-OOP-P2.dll

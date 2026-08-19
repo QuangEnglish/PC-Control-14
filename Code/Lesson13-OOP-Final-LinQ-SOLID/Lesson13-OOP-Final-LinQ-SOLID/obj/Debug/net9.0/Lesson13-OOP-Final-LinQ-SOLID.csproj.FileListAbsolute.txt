@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\bin\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\bin\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\bin\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\bin\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\bin\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\refint\Lesson13-OOP-Final-LinQ-SOLID.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\Lesson13-OOP-Final-LinQ-SOLID.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson13-OOP-Final-LinQ-SOLID\Lesson13-OOP-Final-LinQ-SOLID\obj\Debug\net9.0\ref\Lesson13-OOP-Final-LinQ-SOLID.dll

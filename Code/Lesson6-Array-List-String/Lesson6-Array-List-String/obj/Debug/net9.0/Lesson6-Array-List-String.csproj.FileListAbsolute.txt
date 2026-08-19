@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\bin\Debug\net9.0\Lesson6-Array-List-String.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\bin\Debug\net9.0\Lesson6-Array-List-String.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\bin\Debug\net9.0\Lesson6-Array-List-String.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\bin\Debug\net9.0\Lesson6-Array-List-String.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\bin\Debug\net9.0\Lesson6-Array-List-String.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\refint\Lesson6-Array-List-String.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\Lesson6-Array-List-String.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson6-Array-List-String\Lesson6-Array-List-String\obj\Debug\net9.0\ref\Lesson6-Array-List-String.dll

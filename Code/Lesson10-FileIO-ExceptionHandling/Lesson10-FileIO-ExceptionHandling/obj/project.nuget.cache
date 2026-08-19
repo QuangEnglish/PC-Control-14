@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "SideoamBqy4=",
+  "success": true,
+  "projectFilePath": "D:\\Khóa học PC Control - Vision - MVA Lab\\GitClass\\PC-Control-14\\Code\\Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling\\Lesson10-FileIO-ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hquan\\.nuget\\packages\\epplus\\8.6.2\\epplus.8.6.2.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\epplus.interfaces\\8.6.2\\epplus.interfaces.8.6.2.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.15\\microsoft.extensions.configuration.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.15\\microsoft.extensions.configuration.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.15\\microsoft.extensions.configuration.fileextensions.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.15\\microsoft.extensions.configuration.json.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.15\\microsoft.extensions.fileproviders.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.15\\microsoft.extensions.fileproviders.physical.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.15\\microsoft.extensions.filesystemglobbing.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.15\\microsoft.extensions.primitives.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.15\\system.security.cryptography.pkcs.9.0.15.nupkg.sha512",
+    "C:\\Users\\hquan\\.nuget\\packages\\system.security.cryptography.xml\\9.0.15\\system.security.cryptography.xml.9.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

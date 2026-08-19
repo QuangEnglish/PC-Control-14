@@ -1,0 +1,15 @@
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\bin\Debug\net9.0\Lesson11-OOP-Start.exe
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\bin\Debug\net9.0\Lesson11-OOP-Start.deps.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\bin\Debug\net9.0\Lesson11-OOP-Start.runtimeconfig.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\bin\Debug\net9.0\Lesson11-OOP-Start.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\bin\Debug\net9.0\Lesson11-OOP-Start.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.AssemblyInfoInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.AssemblyInfo.cs
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.csproj.CoreCompileInputs.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.sourcelink.json
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\refint\Lesson11-OOP-Start.dll
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.pdb
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\Lesson11-OOP-Start.genruntimeconfig.cache
+D:\Khóa học PC Control - Vision - MVA Lab\GitClass\PC-Control-14\Code\Lesson11-OOP-Start\Lesson11-OOP-Start\obj\Debug\net9.0\ref\Lesson11-OOP-Start.dll

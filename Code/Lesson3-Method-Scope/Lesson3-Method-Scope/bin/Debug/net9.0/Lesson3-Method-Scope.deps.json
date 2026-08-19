@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson3-Method-Scope/1.0.0": {
+        "runtime": {
+          "Lesson3-Method-Scope.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson3-Method-Scope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

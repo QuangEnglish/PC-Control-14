@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson12-OOP-P2/1.0.0": {
+        "runtime": {
+          "Lesson12-OOP-P2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson12-OOP-P2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
