@@ -1,7 +1,7 @@
 namespace AsyncThreadingDemo;
 
 /// <summary>
-/// Phan 3: Task Parallel Library (TPL) - Hien dai hon Thread
+/// Phan 3: Task Parallel (pa rờ len) Library (TPL) - Hien dai hon Thread
 /// Thread = tu lai xe, Task = di Grab (tien, toi uu, it bug)
 /// </summary>
 static class Part3_TaskTPL
@@ -15,6 +15,12 @@ static class Part3_TaskTPL
         Demo1_TaskCoBan();
         Demo2_TaskCoGiaTri();
         Demo3_SoSanhThreadVsTask();
+        
+        // task -> bạn có 1 đơn đặt xe 
+        // thread pool -> quyet định xe nào đến đón bạn
+        
+        // thread   != task
+        
     }
 
     // --- Demo 1: Task don gian ---
@@ -42,6 +48,7 @@ static class Part3_TaskTPL
         Console.WriteLine("--- Demo 2: Task<T> - Co gia tri tra ve ---");
 
         // Task<int> = cong viec se tra ve 1 so nguyen
+        //  => {}
         Task<int> taskTinh = Task.Run(() =>
         {
             Console.WriteLine("  Dang tinh tong 1 -> 100...");

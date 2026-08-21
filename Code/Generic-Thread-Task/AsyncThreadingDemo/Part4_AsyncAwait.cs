@@ -12,6 +12,13 @@ static class Part4_AsyncAwait
         Console.WriteLine("╔══════════════════════════════════════════╗");
         Console.WriteLine("║  PHAN 4 - ASYNC / AWAIT CO BAN          ║");
         Console.WriteLine("╚══════════════════════════════════════════╝\n");
+        
+        // đồng bộ: Synchronous
+        // bất dong bo: Asynchronous
+        
+        // await: moi người nghĩ là chờ, nhưng bản chất là giao lại quyền điều phối
+        
+        
 
         await Demo1_AsyncCoBan();
         await Demo2_SoSanhSyncVsAsync();
@@ -72,8 +79,9 @@ static class Part4_AsyncAwait
 
     static async Task NauMonAnAsync(string tenMon, int thoiGianMs)
     {
-        Console.WriteLine($"    Bat dau nau: {tenMon}");
-        await Task.Delay(thoiGianMs); // KHONG block thread
+        Console.WriteLine($"    Bat dau nau: {tenMon}");   // Nhân viên gọi món ăn
+        // Thread.Sleep(thoiGianMs);   // Nhân viên đứng chờ bep thoiGianMs 
+        await Task.Delay(thoiGianMs); // KHONG block thread   // không cần 1 thread đứng im chờ 1 việc gì đó hoàn thành, trong thời gian đó m đi làm vệc khác đi
         Console.WriteLine($"    Xong: {tenMon} ({thoiGianMs}ms)");
     }
 

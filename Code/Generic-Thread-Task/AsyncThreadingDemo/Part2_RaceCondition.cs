@@ -22,7 +22,7 @@ static class Part2_RaceCondition
     static void Demo1_RaceCondition()
     {
         Console.WriteLine("--- Demo 1: Race Condition (KET QUA SAI!) ---");
-        Console.WriteLine("2 thread cung tang bien soLuong 100,000 lan.");
+        Console.WriteLine("2 thread cung tăng bien soLuong 100,000 lan.");
         Console.WriteLine("Ky vong: 200,000. Thuc te: ???\n");
 
         int soLuong = 0;
@@ -39,13 +39,18 @@ static class Part2_RaceCondition
                 soLuong++;
         });
 
-        t1.Start(); t2.Start();
-        t1.Join(); t2.Join();
+        t1.Start(); 
+        t2.Start();
+        t1.Join(); 
+        t2.Join();
 
         Console.WriteLine($"  Ky vong:  200,000");
         Console.WriteLine($"  Thuc te:  {soLuong:N0}");
-        Console.WriteLine($"  Bi mat:   {200_000 - soLuong:N0} lan tang!");
+        Console.WriteLine($"  Bi mất:   {200_000 - soLuong:N0} lan tang!");
         Console.WriteLine("  => Race condition: 2 thread 'dua nhau' doc/ghi cung 1 bien\n");
+        
+        // Deadlock: 2 hoặc nhiều thread đợi nhau giải phóng tài nguyen , không ai tiến được
+        
     }
 
     // --- Demo 2: Giai phap Lock ---
@@ -63,7 +68,7 @@ static class Part2_RaceCondition
             {
                 lock (_lock) // Chi 1 thread duoc vao block nay tai 1 thoi diem
                 {
-                    soLuong++;
+                    soLuong++;  // 3
                 }
             }
         });
@@ -74,13 +79,15 @@ static class Part2_RaceCondition
             {
                 lock (_lock)
                 {
-                    soLuong++;
+                    soLuong++;  // 3 -> 4 ( với đk thg thread 1 đang trạng thái mở lock cho cái số lượng)
                 }
             }
         });
 
-        t1.Start(); t2.Start();
-        t1.Join(); t2.Join();
+        t1.Start(); 
+        t2.Start();
+        t1.Join(); 
+        t2.Join();
 
         Console.WriteLine($"  Ket qua voi lock: {soLuong:N0} (DUNG TUYET DOI!)");
         Console.WriteLine("  => lock giong quay giao dich ngan hang: 1 nguoi/lan, cham nhung khong sai\n");
@@ -106,8 +113,10 @@ static class Part2_RaceCondition
                 Interlocked.Increment(ref soLuong);
         });
 
-        t1.Start(); t2.Start();
-        t1.Join(); t2.Join();
+        t1.Start(); 
+        t2.Start();
+        t1.Join(); 
+        t2.Join();
 
         Console.WriteLine($"  Ket qua voi Interlocked: {soLuong:N0} (DUNG TUYET DOI!)");
         Console.WriteLine("  => Interlocked nhanh hon lock vi khong can 'xep hang cho'\n");
