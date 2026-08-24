@@ -1,4 +1,5 @@
 # ĐA LUỒNG & BẤT ĐỒNG BỘ TRONG C#
+
 ## Thread / Task / async / await - Tài liệu giảng dạy chi tiết
 
 > **Triết lý cốt lõi:** Thread = tự lái xe | Task = gọi Grab | async/await = gọi shipper
@@ -50,6 +51,7 @@ Bạn (1 người) phải làm tuần tự:
 > **GV:** "Các bạn thấy không? Cùng làm 3 việc, nhưng cách làm thông minh chỉ mất 3 phút thay vì 6 phút. Tiết kiệm 50% thời gian! Trong thế giới phần mềm, sự chênh lệch này còn lớn hơn nhiều - có thể gấp 10 lần, 100 lần."
 
 **CPU tốc độ rất nhanh** (nano-giây), nhưng **I/O rất chậm** (mili-giây đến giây):
+
 - Đọc file từ ổ cứng: ~1-10ms
 - Gọi API qua mạng: ~100-3000ms
 - Truy vấn database: ~1-100ms
@@ -205,6 +207,7 @@ t=0s    t=1s    t=2s    t=3s
 > **GV:** "Nhìn biểu đồ này nhé các bạn. Ở giây thứ 0, Main Thread tạo Worker và bắt đầu chạy. Từ giây 0 đến giây 2, CẢ HAI thread đều chạy CÙNG LÚC - đây là đa luồng! Main làm việc khác trong khi Worker làm việc nặng. Đến lúc Join() thì Main nói 'tôi đợi cho bạn xong đã'. Khi Worker xong, Main tiếp tục."
 
 **Nhà hàng analogy:**
+
 ```
 Quản lý (Main Thread): "Anh X, chạy xuống kho lấy hàng đi!"
 Nhân viên X (Worker Thread): "Dạ!" [chạy xuống kho]
@@ -257,6 +260,7 @@ for (int i = 0; i < 3; i++)
 ```
 
 **Giải thích:**
+
 ```
 Vòng lặp i=0: index=0 (biến mới) -> Thread A nắm giữ index=0
 Vòng lặp i=1: index=1 (biến mới) -> Thread B nắm giữ index=1
@@ -337,6 +341,7 @@ NÊN dùng Thread khi:               KHÔNG NÊN dùng Thread khi:
 **Giải thích từng bước tại sao `soLuong++` không an toàn:**
 
 Lệnh `soLuong++` trong CPU thực ra là **3 bước**:
+
 ```
 Bước 1: ĐỌC   - Load giá trị soLuong từ RAM vào register
 Bước 2: TÍNH  - Tăng giá trị lên 1 (reg = reg + 1)
@@ -346,6 +351,7 @@ Bước 3: GHI   - Lưu giá trị từ register về RAM
 > **GV:** "Đây là điểm mấu chốt mà rất nhiều người không biết: `soLuong++` KHÔNG PHẢI là 1 bước! Các bạn nhìn code thấy 1 dòng, nhưng CPU thực hiện 3 bước. Và giữa 3 bước này, thread khác có thể CHEN VÀO. Giống như bạn đang viết số lên bảng trắng - bạn đọc '5', định viết '6', nhưng trong lúc bạn quay đi lấy bút thì người khác cũng đọc '5' và viết '6'. Kết quả là tăng 2 lần nhưng chỉ được 6 thay vì 7!"
 
 **Kịch bản race condition:**
+
 ```
 soLuong = 0 ban đầu
 
@@ -384,6 +390,7 @@ lock (_lock) // Chỉ 1 thread được vào cùng lúc
 > **GV:** "Một điều quan trọng: object `_lock` là CHÌA KHÓA PHÒNG. Tất cả thread phải dùng CÙNG MỘT chìa khóa. Nếu thread 1 dùng `lockA` và thread 2 dùng `lockB` thì vô nghĩa - vì 2 phòng khác nhau, không ai chặn ai cả!"
 
 **Hoạt động của Lock:**
+
 ```
 [Thread 1]            [Thread 2]           Lock Object
     |                     |                    |
@@ -400,6 +407,7 @@ lock (_lock) // Chỉ 1 thread được vào cùng lúc
 ```
 
 **Analogy: Phòng WC công ty**
+
 ```
 Phòng WC (lock object):
 - Chỉ có 1 chiếc khóa
@@ -421,6 +429,7 @@ Interlocked.Increment(ref soLuong); // Atomic operation
 > **GV:** "Nếu các bạn chỉ cần tăng, giảm, hoặc đổi giá trị của 1 biến SỐ NGUYÊN thì Interlocked là lựa chọn tốt hơn lock. Tại sao? Vì nó dùng trực tiếp lệnh CPU đặc biệt, không cần 'khóa phòng' như lock."
 
 **Tại sao Interlocked nhanh hơn?**
+
 ```
 Lock:
   1. Gọi hàm EnterCriticalSection (tốc độ OS)
@@ -437,6 +446,7 @@ Interlocked:
 > **GV:** "Tưởng tượng thế này: Lock giống như bạn phải đi vào phòng riêng, khóa cửa, làm việc, rồi mở cửa ra. Interlocked giống như bạn có siêu năng lực - bạn tăng số lên bằng TƯ TƯỞNG, trong 1 nano giây, không ai có thể chen vào. Tất nhiên, 'siêu năng lực' này chỉ hoạt động với các phép tính đơn giản - tăng, giảm, so sánh, hoán đổi."
 
 **Khi nào dùng cái nào?**
+
 ```
 +-------------------+------------------------+
 | Interlocked       | Lock                   |
@@ -578,6 +588,7 @@ int ketQua = taskTinh.Result; // Chờ và lấy kết quả
 ```
 
 **Biểu đồ:**
+
 ```
 Main Thread               Task (Thread Pool)
      |                           |
@@ -650,6 +661,7 @@ BẤT ĐỒNG BỘ - Như đặt cơm trên ứng dụng:
 > **GV:** "ĐÂY LÀ HIỂU LẦM LỚN NHẤT về async/await! Rất nhiều người nghĩ `await` nghĩa là 'chờ' - KHÔNG PHẢI! Dịch đúng hơn là 'ĐỢI NHƯNG KHÔNG CHIẾM THREAD'. Khi gặp await, thread hiện tại được TRẢ LẠI cho Thread Pool để làm việc khác. Khi kết quả sẵn sàng, một thread (có thể khác) sẽ tiếp tục từ chỗ đang chờ."
 
 Đây là hiểu lầm lớn nhất! `await` KHÔNG block thread. Nó:
+
 1. **Tạm dừng** hàm hiện tại tại điểm đó
 2. **Trả thread lại** cho Thread Pool để làm việc khác
 3. **Tiếp tục** khi kết quả sẵn sàng (có thể trên thread khác!)
@@ -727,6 +739,7 @@ Timeline:
 ```
 
 **Code so sánh:**
+
 ```csharp
 // ĐỒNG BỘ - mất 3300ms
 NauMonAnSync("Phở", 1000);     // Chờ 1s
@@ -769,11 +782,11 @@ Quy tắc 3: Trả về kiểu đúng
 ```
 
 > **GV:** "3 quy tắc này các bạn THUỘC LÒNG nhé:"
->
+> 
 > **GV:** "Quy tắc 1 - 'async all the way': Một khi bạn dùng await ở đâu, thì TỪ ĐÓ TRỞ LÊN phải là async hết. Giống như dây chuyền sản xuất - nếu 1 máy là tự động thì cả dây chuyền phải tự động. Không thể có 1 khúc tự động giữa 2 khúc thủ công."
->
+> 
 > **GV:** "Quy tắc 2 - KHÔNG BAO GIỜ dùng async void trừ khi là event handler. Mình sẽ giải thích chi tiết ở phần 8 tại sao nó nguy hiểm."
->
+> 
 > **GV:** "Quy tắc 3 - Kiểu trả về: async Task = không trả gì, async Task<int> = trả về số nguyên, async Task<string> = trả về chuỗi. Đơn giản thôi!"
 
 ### HttpClient và Async - Phổ biến nhất trong thực tế
@@ -786,12 +799,14 @@ string data = await client.GetStringAsync("https://api.example.com/data");
 ```
 
 **Không có async:**
+
 ```
 Thread: [GUI chặn... không phản hồi]---[Đợi mạng]---[Tiếp tục]
          Ứng dụng bị đóng băng! Người dùng tưởng bị crash.
 ```
 
 **Có async:**
+
 ```
 Thread: [GUI tiếp tục hoạt động]
         [Thanh progress bar chạy]
@@ -856,6 +871,7 @@ string[] results = await Task.WhenAll(t1, t2, t3);  // Chờ hết
 ```
 
 **Xử lý lỗi với WhenAll:**
+
 ```csharp
 try
 {
@@ -949,6 +965,7 @@ CancellationToken (CT):
 > **GV:** "Các bạn để ý có 2 đối tượng riêng biệt: SOURCE và TOKEN. Tại sao tách ra? Vì tính bảo mật! Người tạo CTS có quyền HỦY (gọi Cancel). Nhưng người nhận Token chỉ có quyền KIỂM TRA có bị hủy không - không thể tự ý hủy người khác. Giống như remote TV: người cầm remote (Source) có quyền tắt TV, nhưng người xem (Token) chỉ biết TV còn bật hay tắt."
 
 **Biểu đồ:**
+
 ```
    Bạn (người dùng)
         |
@@ -966,12 +983,14 @@ CancellationToken (CT):
 ### 3 cách hủy
 
 **Cách 1: Hủy thủ công**
+
 ```csharp
 var cts = new CancellationTokenSource();
 cts.Cancel(); // Hủy ngay lập tức
 ```
 
 **Cách 2: Tự động hủy sau thời gian**
+
 ```csharp
 var cts = new CancellationTokenSource();
 cts.CancelAfter(TimeSpan.FromSeconds(3)); // Tự động hủy sau 3 giây
@@ -981,6 +1000,7 @@ var cts = new CancellationTokenSource(TimeSpan.FromSeconds(3));
 ```
 
 **Cách 3: Kết hợp nhiều nguồn hủy**
+
 ```csharp
 var cts1 = new CancellationTokenSource(); // Timeout
 var cts2 = new CancellationTokenSource(); // Người dùng hủy
@@ -1125,6 +1145,7 @@ await Task.WhenAll(tasks);
 > **GV:** "Pattern này các bạn NHỚ KỸ nhé: WaitAsync - try - finally - Release. LUÔN ĐẶT Release trong finally để đảm bảo dù có lỗi thì vẫn giải phóng chỗ. Nếu quên Release thì task mới sẽ chờ MÃI MÃI - giống như người đi photo xong không mở cửa cho người khác vào!"
 
 **Biểu đồ timeline:**
+
 ```
 t=0s    t=1s    t=2s    t=3s    t=4s
 |-------|-------|-------|-------|
@@ -1157,6 +1178,7 @@ Pattern Producer - Consumer:
 ```
 
 **Biểu đồ:**
+
 ```
 t=0s    t=0.3s  t=0.6s  t=0.9s  t=1.2s  ...
 |       |       |       |       |
@@ -1172,6 +1194,7 @@ Channel: [B1][B2]  [B1][B2][B3]  [B2][B3][B4]  ...
 > **GV:** "Ở đây sản xuất mất 300ms/bánh, đóng gói mất 600ms/bánh. Sản xuất NHANH HƠN đóng gói gấp đôi. Nếu không có Channel thì sản xuất phải ĐỢI đóng gói xong mới làm tiếp - lãng phí! Có Channel thì sản xuất cứ làm, Channel chứa đỡ. Đóng gói từ từ lấy ra. Khi Channel đầy (5 món) thì sản xuất phải đợi - đây gọi là BACKPRESSURE - bảo vệ hệ thống không bị tràn bộ nhớ."
 
 **Kết quả:**
+
 - Sản xuất nhanh -> Channel sẽ đầy dần dần
 - Khi Channel đầy -> producer phải chờ (backpressure)
 - Producer xong trước -> consumer vẫn tiếp tục đọc hết
@@ -1210,6 +1233,7 @@ await Parallel.ForEachAsync(donHangs,
 > **GV:** "Các bạn thấy không? Chỉ 1 dòng code (await Parallel.ForEachAsync) thay vì viết SemaphoreSlim + WaitAsync + try/finally/Release. MaxDegreeOfParallelism = 4 nghĩa là tối đa 4 đơn hàng xử lý cùng lúc. 15 đơn hàng x 500ms = 7500ms nếu tuần tự, nhưng song song 4 thì chỉ mất khoảng 2000ms!"
 
 **So sánh với SemaphoreSlim:**
+
 ```
 +------------------------+---------------------------+
 | Parallel.ForEachAsync  | SemaphoreSlim             |
@@ -1277,6 +1301,7 @@ async Task AnToan()
 > **GV:** "Mình kể chuyện thật: có lần đồng nghiệp mình viết async void trong 1 background job. Code chạy tốt 3 tháng. Đến ngày đẹp trời, API trả lời lỗi -> exception ném ra từ async void -> app crash -> khách hàng mất dữ liệu -> cả đội debug 2 ngày mới tìm ra. Từ đó trở đi, đội mình có quy tắc: KHÔNG BAO GIỜ async void, trừ event handler."
 
 **Tại sao async void nguy hiểm?**
+
 ```
 async void:
   - Exception ném ra KHÔNG thể catch bằng try/catch thường
@@ -1307,6 +1332,7 @@ string data = await LayDuLieuAsync();   // Giải phóng thread
 > **GV:** "Đây là lỗi thứ 2 phổ biến nhất. Nhiều bạn nghĩ 'à, tôi không muốn dùng async, tôi dùng .Result cho nhanh'. VÀ RỒI ỨNG DỤNG BỊ TREO! Deadlock là khi 2 thứ chờ nhau mãi mãi - giống 2 người đứng trước cửa, không ai chịu nhường trước, cả 2 đứng đó đến cuối đời."
 
 **Tại sao gây deadlock?**
+
 ```
 [ASP.NET / WinForms - có SynchronizationContext]
 
@@ -1329,6 +1355,7 @@ void XuLy()
 > **GV:** "Tin vui là: trong Console App và ASP.NET Core, deadlock này ÍT XẢY RA HƠN vì không có SynchronizationContext. Nhưng ĐỪNG BAO GIỜ dựa vào điều này - luôn dùng await thay vì .Result. Đây là thói quen tốt."
 
 **Cách tránh:**
+
 ```
 1. Luôn dùng await (tốt nhất)
 2. Nếu bắt buộc phải sync, dùng:
@@ -1358,6 +1385,7 @@ _ = LayDuLieuAsync().ContinueWith(
 > **GV:** "Nhưng đôi khi bạn CỐ Ý muốn fire-and-forget - ví dụ gửi log, gửi analytics mà không cần chờ kết quả. Lúc đó dùng `_ = Task...` và thêm ContinueWith để bắt lỗi. Dấu gạch dưới `_` là cách nói với compiler 'tôi biết tôi đang làm gì, đừng warn nữa'."
 
 **Biểu đồ:**
+
 ```
 // Quên await
 Main:    [Tiếp tục ngay lập tức]--[Kết thúc]
@@ -1464,11 +1492,13 @@ private async void btnLoad_Click(object sender, EventArgs e)
 ```
 
 **Không có async:**
+
 ```
 [Người dùng bấm nút] -> [UI bị đóng băng] -> [Người dùng tưởng crash] -> [Alt+F4!]
 ```
 
 **Có async:**
+
 ```
 [Người dùng bấm nút] -> [Progress bar chạy] -> [Data hiển thị] -> [Hài lòng!]
 ```
@@ -1743,6 +1773,7 @@ class TinhAsync_StateMachine
 > **GV - LỜI KẾT:** "OK các bạn, hôm nay mình đã đi qua TOÀN BỘ kiến thức về đa luồng và bất đồng bộ trong C# - từ Thread cơ bản đến async/await, từ Race Condition đến CancellationToken, từ SemaphoreSlim đến Channel. Đây là kiến thức NỀN TẢNG mà bất kỳ lập trình viên C# nào cũng PHẢI biết."
 
 > **GV:** "Mình tổng kết bằng 3 điều các bạn cần NHỚ NHẤT:"
+> 
 > 1. **async/await là vũ khí chính** - dùng nó cho mọi I/O operation
 > 2. **Shared state = nguy hiểm** - luôn bảo vệ bằng lock/Interlocked
 > 3. **Không bao giờ .Result/.Wait()** - luôn await
