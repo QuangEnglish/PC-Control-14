@@ -1,0 +1,324 @@
+<Window x:Class="Caui_truc_thanh_phan_WPF.LayoutDemoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Muc 3 - Layout Controls Demo" Height="650" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <!-- Dung TabControl de chia 3 tab cho 3 loai Layout -->
+    <TabControl Margin="10" FontSize="13">
+
+        <!-- ============================================================
+             TAB 1: GRID - Bo cuc luoi
+             Grid chia cua so thanh cac hang (Row) va cot (Column)
+             Giong nhu bang Excel
+             ============================================================ -->
+        <TabItem Header="Grid - Bo cuc luoi">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="20">
+
+                    <TextBlock Text="GRID - Chia o luoi nhu bang Excel"
+                               FontSize="18" FontWeight="Bold"
+                               Foreground="#007BFF" Margin="0,0,0,10"/>
+
+                    <TextBlock TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#555">
+                        Grid chia giao dien thanh cac HANG (Row) va COT (Column).
+                        Moi control duoc dat vao 1 o cu the bang Grid.Row va Grid.Column.
+                        Giong nhu ban ke 1 cai bang roi dat do vat vao tung o.
+                    </TextBlock>
+
+                    <!-- === DEMO 1: Grid co ban voi cac kieu Width/Height === -->
+                    <TextBlock Text="Demo 1: Cac kieu kich thuoc (100px | * | 2*)"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Grid Height="120" ShowGridLines="True" Margin="0,0,0,20">
+                        <Grid.ColumnDefinitions>
+                            <!-- 100px: Kich thuoc co dinh -->
+                            <ColumnDefinition Width="100"/>
+                            <!-- *: Chiem 1 phan cua cho con lai -->
+                            <ColumnDefinition Width="*"/>
+                            <!-- 2*: Chiem 2 phan (gap doi cot *) -->
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- Dat control vao o bang Grid.Row va Grid.Column -->
+                        <Button Content="100px" Grid.Row="0" Grid.Column="0"
+                                Background="#e3f2fd" Margin="2"/>
+                        <Button Content="* (1 phan)" Grid.Row="0" Grid.Column="1"
+                                Background="#e8f5e9" Margin="2"/>
+                        <Button Content="2* (2 phan)" Grid.Row="0" Grid.Column="2"
+                                Background="#fff3e0" Margin="2"/>
+                        <TextBlock Text="Row=1, Col=0" Grid.Row="1" Grid.Column="0"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="* chiem het cho con lai" Grid.Row="1" Grid.Column="1"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Grid>
+
+                    <!-- === DEMO 2: RowSpan va ColumnSpan === -->
+                    <TextBlock Text="Demo 2: RowSpan va ColumnSpan (gop nhieu o)"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Grid Height="150" ShowGridLines="True" Margin="0,0,0,20">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="50"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- ColumnSpan="2": Gop 2 cot -->
+                        <Button Content="ColumnSpan=2 (gop 2 cot)"
+                                Grid.Row="0" Grid.Column="0"
+                                Grid.ColumnSpan="2"
+                                Background="LightBlue" Margin="2"/>
+
+                        <!-- RowSpan="2": Gop 2 hang -->
+                        <Button Content="RowSpan=2"
+                                Grid.Row="1" Grid.Column="2"
+                                Grid.RowSpan="2"
+                                Background="LightGreen" Margin="2"/>
+
+                        <!-- RowSpan + ColumnSpan: Gop 2 hang va 2 cot -->
+                        <Button Content="2x2 (RowSpan=2, ColSpan=2)"
+                                Grid.Row="1" Grid.Column="0"
+                                Grid.RowSpan="2" Grid.ColumnSpan="2"
+                                Background="LightCoral" Margin="2"/>
+                    </Grid>
+
+                    <!-- === DEMO 3: Form dang nhap dung Grid === -->
+                    <TextBlock Text="Demo 3: Form dang nhap (ung dung thuc te cua Grid)"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Border BorderBrush="#ddd" BorderThickness="1" Padding="15"
+                            CornerRadius="5" Background="#fafafa">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Content="Username:" Grid.Row="0" Grid.Column="0"
+                                   VerticalAlignment="Center"/>
+                            <TextBox x:Name="txtLoginUser" Grid.Row="0" Grid.Column="1"
+                                     Height="30" Margin="0,5"/>
+
+                            <Label Content="Password:" Grid.Row="1" Grid.Column="0"
+                                   VerticalAlignment="Center"/>
+                            <PasswordBox x:Name="txtLoginPass" Grid.Row="1" Grid.Column="1"
+                                         Height="30" Margin="0,5"/>
+
+                            <!-- ColumnSpan="2": Nut chiem ca 2 cot -->
+                            <Button Content="Dang nhap" Grid.Row="2" Grid.Column="0"
+                                    Grid.ColumnSpan="2"
+                                    Height="35" Margin="0,10,0,0"
+                                    Background="#007BFF" Foreground="White"
+                                    FontWeight="Bold"
+                                    Click="LoginDemo_Click"/>
+                        </Grid>
+                    </Border>
+
+                </StackPanel>
+            </ScrollViewer>
+        </TabItem>
+
+        <!-- ============================================================
+             TAB 2: STACKPANEL - Xep chong
+             StackPanel xep cac control theo hang doc hoac hang ngang
+             Giong nhu xep sach thanh chong
+             ============================================================ -->
+        <TabItem Header="StackPanel - Xep chong">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="20">
+
+                    <TextBlock Text="STACKPANEL - Xep chong cac control"
+                               FontSize="18" FontWeight="Bold"
+                               Foreground="#28a745" Margin="0,0,0,10"/>
+
+                    <TextBlock TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#555">
+                        StackPanel xep cac control theo 1 huong:
+                        - Vertical (mac dinh): Tu tren xuong duoi (nhu xep sach)
+                        - Horizontal: Tu trai sang phai (nhu xep do tren ke)
+                    </TextBlock>
+
+                    <!-- === DEMO 1: Xep doc (Vertical) === -->
+                    <TextBlock Text="Demo 1: Orientation=Vertical (mac dinh)"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Border BorderBrush="#ddd" BorderThickness="1" Padding="10"
+                            Margin="0,0,0,20">
+                        <StackPanel>
+                            <Button Content="Button 1 (tren cung)" Height="35"
+                                    Background="#e3f2fd" Margin="0,2"/>
+                            <Button Content="Button 2 (giua)" Height="35"
+                                    Background="#e8f5e9" Margin="0,2"/>
+                            <Button Content="Button 3 (duoi cung)" Height="35"
+                                    Background="#fff3e0" Margin="0,2"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- === DEMO 2: Xep ngang (Horizontal) === -->
+                    <TextBlock Text="Demo 2: Orientation=Horizontal"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Border BorderBrush="#ddd" BorderThickness="1" Padding="10"
+                            Margin="0,0,0,20">
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Trai" Width="100" Height="35"
+                                    Background="#e3f2fd" Margin="2,0"/>
+                            <Button Content="Giua" Width="100" Height="35"
+                                    Background="#e8f5e9" Margin="2,0"/>
+                            <Button Content="Phai" Width="100" Height="35"
+                                    Background="#fff3e0" Margin="2,0"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- === DEMO 3: Menu dieu huong ngang === -->
+                    <TextBlock Text="Demo 3: Menu dieu huong (ung dung thuc te)"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <StackPanel Orientation="Horizontal"
+                                Background="#2C3E50"
+                                Height="50">
+                        <Button Content="Trang chu"
+                                Width="120"
+                                Background="Transparent"
+                                Foreground="White"
+                                BorderThickness="0"
+                                FontSize="14"
+                                Cursor="Hand"/>
+                        <Button Content="San pham"
+                                Width="120"
+                                Background="Transparent"
+                                Foreground="White"
+                                BorderThickness="0"
+                                FontSize="14"
+                                Cursor="Hand"/>
+                        <Button Content="Gioi thieu"
+                                Width="120"
+                                Background="Transparent"
+                                Foreground="White"
+                                BorderThickness="0"
+                                FontSize="14"
+                                Cursor="Hand"/>
+                        <Button Content="Lien he"
+                                Width="120"
+                                Background="Transparent"
+                                Foreground="White"
+                                BorderThickness="0"
+                                FontSize="14"
+                                Cursor="Hand"/>
+                    </StackPanel>
+
+                    <!-- === DEMO 4: Form dang ky don gian === -->
+                    <TextBlock Text="Demo 4: Form dang ky doc don gian"
+                               FontWeight="Bold" Margin="0,20,0,5"/>
+
+                    <Border BorderBrush="#ddd" BorderThickness="1" Padding="20"
+                            Background="#fafafa" CornerRadius="5">
+                        <StackPanel>
+                            <Label Content="DANG KY TAI KHOAN"
+                                   FontSize="18" FontWeight="Bold"
+                                   Margin="0,0,0,15"/>
+
+                            <Label Content="Ho ten:"/>
+                            <TextBox Height="30" Margin="0,0,0,10"/>
+
+                            <Label Content="Email:"/>
+                            <TextBox Height="30" Margin="0,0,0,10"/>
+
+                            <Label Content="Mat khau:"/>
+                            <PasswordBox Height="30" Margin="0,0,0,15"/>
+
+                            <Button Content="Dang ky"
+                                    Height="38"
+                                    Background="#28a745"
+                                    Foreground="White"
+                                    FontSize="14" FontWeight="Bold"/>
+                        </StackPanel>
+                    </Border>
+
+                </StackPanel>
+            </ScrollViewer>
+        </TabItem>
+
+        <!-- ============================================================
+             TAB 3: DOCKPANEL - Dan vao canh
+             DockPanel dan control vao 4 canh: Top, Bottom, Left, Right
+             Control cuoi cung chiem het phan con lai
+             ============================================================ -->
+        <TabItem Header="DockPanel - Dan vao canh">
+            <StackPanel Margin="20">
+
+                <TextBlock Text="DOCKPANEL - Dan control vao cac canh"
+                           FontSize="18" FontWeight="Bold"
+                           Foreground="#dc3545" Margin="0,0,0,10"/>
+
+                <TextBlock TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#555">
+                    DockPanel dan control vao 4 canh: Top, Bottom, Left, Right.
+                    Control khai bao CUOI CUNG se chiem HET phan con lai (Fill).
+                    Giong nhu bo tri phong: tu dan tuong, ban o giua.
+                    (Trang chinh MainWindow cung dung DockPanel!)
+                </TextBlock>
+
+                <!-- Demo DockPanel -->
+                <Border BorderBrush="#ddd" BorderThickness="1" Height="350">
+                    <DockPanel>
+                        <!-- Top -->
+                        <Border DockPanel.Dock="Top" Background="LightBlue" Height="50">
+                            <TextBlock Text="TOP (DockPanel.Dock=Top)"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       FontWeight="Bold"/>
+                        </Border>
+
+                        <!-- Bottom -->
+                        <Border DockPanel.Dock="Bottom" Background="LightGreen" Height="50">
+                            <TextBlock Text="BOTTOM (DockPanel.Dock=Bottom)"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       FontWeight="Bold"/>
+                        </Border>
+
+                        <!-- Left -->
+                        <Border DockPanel.Dock="Left" Background="LightCoral" Width="120">
+                            <TextBlock Text="LEFT" VerticalAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       FontWeight="Bold"/>
+                        </Border>
+
+                        <!-- Right -->
+                        <Border DockPanel.Dock="Right" Background="LightYellow" Width="120">
+                            <TextBlock Text="RIGHT" VerticalAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       FontWeight="Bold"/>
+                        </Border>
+
+                        <!-- Control cuoi cung => Fill het phan con lai -->
+                        <Border Background="#f0f0f0">
+                            <TextBlock Text="CENTER (Fill - chiem het cho con lai)"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center"
+                                       FontWeight="Bold"
+                                       TextWrapping="Wrap"
+                                       TextAlignment="Center"/>
+                        </Border>
+                    </DockPanel>
+                </Border>
+
+            </StackPanel>
+        </TabItem>
+
+    </TabControl>
+</Window>

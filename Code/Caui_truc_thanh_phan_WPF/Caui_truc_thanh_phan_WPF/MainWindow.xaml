@@ -1,0 +1,142 @@
+<Window x:Class="Caui_truc_thanh_phan_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF - Cau truc va Thanh phan" Height="550" Width="850"
+        WindowStartupLocation="CenterScreen">
+
+    <!-- ============================================================
+         DEMO: DockPanel Layout
+         - DockPanel.Dock="Top"    => Dan vao canh tren
+         - DockPanel.Dock="Bottom" => Dan vao canh duoi
+         - DockPanel.Dock="Left"   => Dan vao canh trai
+         - Control cuoi cung       => Chiem het phan con lai (Center)
+         ============================================================ -->
+    <DockPanel>
+
+        <!-- HEADER: Dan vao canh tren (Top) -->
+        <Border DockPanel.Dock="Top"
+                Background="#007BFF"
+                Height="70"
+                BorderThickness="0,0,0,2"
+                BorderBrush="#0056b3">
+            <StackPanel VerticalAlignment="Center" Margin="20,0">
+                <TextBlock Text="CAU TRUC VA THANH PHAN WPF"
+                           Foreground="White"
+                           FontSize="22"
+                           FontWeight="Bold"/>
+                <TextBlock Text="Bai giang WPF - Layout Controls va Controls co ban"
+                           Foreground="#E0E0E0"
+                           FontSize="12"/>
+            </StackPanel>
+        </Border>
+
+        <!-- FOOTER: Dan vao canh duoi (Bottom) -->
+        <Border DockPanel.Dock="Bottom"
+                Background="#343a40"
+                Height="35">
+            <TextBlock Text="MVA Lab - Buoi 22 - WPF Cau truc thanh phan"
+                       Foreground="White"
+                       FontSize="11"
+                       VerticalAlignment="Center"
+                       Margin="20,0"/>
+        </Border>
+
+        <!-- SIDEBAR: Dan vao canh trai (Left) -->
+        <Border DockPanel.Dock="Left"
+                Background="#F8F9FA"
+                Width="240"
+                BorderThickness="0,0,1,0"
+                BorderBrush="#dee2e6">
+            <StackPanel Margin="15">
+                <Label Content="MENU BAI GIANG"
+                       FontSize="14"
+                       FontWeight="Bold"
+                       Foreground="#495057"
+                       Margin="0,10,0,15"/>
+
+                <!-- Cac nut dieu huong den tung bai -->
+                <Button Content="Layout Demo (Grid/Stack/Dock)"
+                        Height="40"
+                        Margin="0,3"
+                        Background="White"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="OpenLayoutDemo_Click"/>
+
+                <Button Content="Controls Demo (Btn/Txt/Cbo)"
+                        Height="40"
+                        Margin="0,3"
+                        Background="White"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="OpenControlsDemo_Click"/>
+
+                <Label Content="BAI TAP"
+                       FontSize="14"
+                       FontWeight="Bold"
+                       Foreground="#495057"
+                       Margin="0,20,0,10"/>
+
+                <Button Content="Bai 1: May tinh BMI"
+                        Height="40"
+                        Margin="0,3"
+                        Background="#e8f5e9"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="OpenBai1_Click"/>
+
+                <Button Content="Bai 2: Form Dang ky"
+                        Height="40"
+                        Margin="0,3"
+                        Background="#fff3e0"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="OpenBai2_Click"/>
+
+                <Button Content="Bai 3: Quan ly Sinh vien"
+                        Height="40"
+                        Margin="0,3"
+                        Background="#fce4ec"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="OpenBai3_Click"/>
+            </StackPanel>
+        </Border>
+
+        <!-- CONTENT: Phan con lai o giua (Center - Fill) -->
+        <Border Background="White" Padding="30">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="CHAO MUNG DEN VOI WPF!"
+                           FontSize="28"
+                           FontWeight="Bold"
+                           Foreground="#212529"
+                           HorizontalAlignment="Center"
+                           Margin="0,0,0,15"/>
+                <TextBlock Text="Hay chon mot muc o menu ben trai de bat dau hoc."
+                           FontSize="14"
+                           Foreground="#6c757d"
+                           HorizontalAlignment="Center"
+                           TextWrapping="Wrap"
+                           Margin="0,0,0,30"/>
+
+                <TextBlock Text="Cau truc trang nay minh hoa DockPanel:"
+                           FontSize="13"
+                           Foreground="#495057"
+                           HorizontalAlignment="Center"
+                           Margin="0,0,0,10"/>
+                <TextBlock FontSize="12" Foreground="#6c757d"
+                           HorizontalAlignment="Center"
+                           TextAlignment="Center"
+                           LineHeight="22">
+                    <Run Text="- Header (Top): Thanh tieu de xanh phia tren"/>
+                    <LineBreak/>
+                    <Run Text="- Footer (Bottom): Thanh thong tin phia duoi"/>
+                    <LineBreak/>
+                    <Run Text="- Sidebar (Left): Menu dieu huong ben trai"/>
+                    <LineBreak/>
+                    <Run Text="- Content (Center): Khu vuc noi dung chinh nay"/>
+                </TextBlock>
+            </StackPanel>
+        </Border>
+    </DockPanel>
+</Window>
