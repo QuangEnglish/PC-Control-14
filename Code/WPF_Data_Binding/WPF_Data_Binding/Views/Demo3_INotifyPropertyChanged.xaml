@@ -1,0 +1,153 @@
+<Window x:Class="WPF_Data_Binding.Views.Demo3_INotifyPropertyChanged"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Demo 3: INotifyPropertyChanged - Cap nhat tu dong"
+        Height="700" Width="650"
+        WindowStartupLocation="CenterScreen"
+        Background="#FAFAFA">
+
+    <!--
+        INotifyPropertyChanged la gi?
+        - La interface giup UI TU DONG cap nhat khi du lieu thay doi
+        - Khi class implement INotifyPropertyChanged va goi OnPropertyChanged()
+          → UI nhan duoc thong bao → UI cap nhat hien thi
+
+        So voi Demo 2 (StudentBasic):
+        - Demo 2: thay doi property → UI KHONG cap nhat (phai gan DataContext moi)
+        - Demo 3: thay doi property → UI TU DONG cap nhat (nho INotifyPropertyChanged)
+
+        TwoWay Binding:
+        - Khi go vao TextBox → property trong Student tu dong cap nhat (Target → Source)
+        - Khi thay doi property trong code → TextBox tu dong cap nhat (Source → Target)
+
+        UpdateSourceTrigger=PropertyChanged:
+        - Mac dinh TextBox chi cap nhat khi mat focus (roi khoi TextBox)
+        - PropertyChanged: cap nhat NGAY KHI GO tung ky tu
+    -->
+
+    <Grid Margin="25">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Card hien thi thong tin (tu dong cap nhat) -->
+        <Border Grid.Row="0"
+                Background="#E3F2FD"
+                BorderBrush="#2196F3"
+                BorderThickness="2"
+                Padding="20"
+                CornerRadius="5"
+                Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="THONG TIN SINH VIEN (Live Update)"
+                           FontSize="18" FontWeight="Bold"
+                           Foreground="#1976D2"
+                           Margin="0,0,0,10"/>
+
+                <!--
+                    Cac TextBlock nay se TU DONG cap nhat khi:
+                    1. Go vao TextBox o form ben duoi (TwoWay binding)
+                    2. Thay doi property trong code C# (vi Student co INPC)
+                -->
+                <TextBlock FontSize="14">
+                    <Run Text="Ho ten: "/>
+                    <Run Text="{Binding Name}" FontWeight="Bold"/>
+                </TextBlock>
+                <TextBlock FontSize="14" Margin="0,5,0,0">
+                    <Run Text="Tuoi: "/>
+                    <Run Text="{Binding Age}"/>
+                </TextBlock>
+                <TextBlock FontSize="14" Margin="0,5,0,0">
+                    <Run Text="Lop: "/>
+                    <Run Text="{Binding Class}"/>
+                </TextBlock>
+                <TextBlock FontSize="14" Margin="0,5,0,0">
+                    <Run Text="Diem TB: "/>
+                    <Run Text="{Binding GPA, StringFormat='{}{0:F2}'}"
+                         FontWeight="Bold" Foreground="#4CAF50"/>
+                </TextBlock>
+            </StackPanel>
+        </Border>
+
+        <!-- Form chinh sua (TwoWay binding) -->
+        <Border Grid.Row="1"
+                Background="White"
+                BorderBrush="#E0E0E0"
+                BorderThickness="1"
+                Padding="20"
+                CornerRadius="5"
+                Margin="0,0,0,20">
+            <StackPanel>
+                <TextBlock Text="CHINH SUA THONG TIN"
+                           FontSize="16" FontWeight="Bold"
+                           Margin="0,0,0,15"/>
+
+                <!--
+                    TwoWay Binding + UpdateSourceTrigger=PropertyChanged:
+
+                    {Binding Name, UpdateSourceTrigger=PropertyChanged}
+                    - TwoWay (mac dinh cua TextBox): du lieu chay 2 chieu
+                      + Source → Target: Student.Name thay doi → TextBox hien thi
+                      + Target → Source: Go vao TextBox → Student.Name cap nhat
+                    - UpdateSourceTrigger=PropertyChanged: cap nhat ngay khi go
+                      (Mac dinh la LostFocus - chi cap nhat khi roi khoi TextBox)
+                -->
+
+                <Label Content="Ho ten:"/>
+                <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"
+                         Height="30" Margin="0,0,0,10" Padding="5,0"
+                         FontSize="14"/>
+
+                <Label Content="Tuoi:"/>
+                <TextBox Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}"
+                         Height="30" Margin="0,0,0,10" Padding="5,0"
+                         FontSize="14"/>
+
+                <Label Content="Lop:"/>
+                <TextBox Text="{Binding Class, UpdateSourceTrigger=PropertyChanged}"
+                         Height="30" Margin="0,0,0,10" Padding="5,0"
+                         FontSize="14"/>
+
+                <Label Content="Diem TB:"/>
+                <TextBox Text="{Binding GPA, UpdateSourceTrigger=PropertyChanged}"
+                         Height="30" Margin="0,0,0,15" Padding="5,0"
+                         FontSize="14"/>
+
+                <TextBlock Text="Go vao TextBox → Card tren tu dong cap nhat ngay lap tuc!"
+                           Foreground="Gray" FontSize="12" FontStyle="Italic"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Buttons thao tac -->
+        <!--
+            Khi click button → thay doi property trong code C#
+            → OnPropertyChanged() duoc goi → UI tu dong cap nhat
+            Day la diem khac biet voi Demo 2 (StudentBasic)
+        -->
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <Button Content="Tang diem +0.5"
+                    Width="130" Height="35"
+                    Margin="0,0,10,0"
+                    Background="#4CAF50" Foreground="White"
+                    FontWeight="SemiBold"
+                    Click="IncreaseGPA_Click"/>
+
+            <Button Content="Giam tuoi -1"
+                    Width="130" Height="35"
+                    Margin="0,0,10,0"
+                    Background="#FF9800" Foreground="White"
+                    FontWeight="SemiBold"
+                    Click="DecreaseAge_Click"/>
+
+            <Button Content="Reset"
+                    Width="130" Height="35"
+                    Background="#F44336" Foreground="White"
+                    FontWeight="SemiBold"
+                    Click="Reset_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

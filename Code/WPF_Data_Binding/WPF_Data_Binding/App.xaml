@@ -1,0 +1,90 @@
+<Application x:Class="WPF_Data_Binding.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:local="clr-namespace:WPF_Data_Binding"
+             StartupUri="MainWindow.xaml">
+
+    <!--
+        APPLICATION RESOURCES
+        - Khai bao o day = dung duoc o TAT CA Window trong app
+        - Day la noi ly tuong de dat he thong mau, font, spacing chuan
+
+        Cach su dung:
+        - Trong bat ky XAML nao: {StaticResource AppHeaderBackground}
+        - WPF tu dong tim tu Control → Window → Application
+
+        Best Practices:
+        1. Dat mau chu dao cua app vao App.xaml
+        2. Dat ten co y nghia (PrimaryColor, khong phai Color1)
+        3. Nhom resources theo category
+        4. Uu tien StaticResource (nhanh hon)
+    -->
+    <Application.Resources>
+
+        <!-- ==================== APP BRAND COLORS ==================== -->
+        <!-- Mau chu dao cua app - dung cho header, button chinh, accent -->
+        <SolidColorBrush x:Key="AppHeaderBackground" Color="#1565C0"/>
+        <SolidColorBrush x:Key="AppAccentColor" Color="#FF4081"/>
+        <SolidColorBrush x:Key="AppTextColor" Color="#37474F"/>
+
+        <!-- ==================== BRAND COLORS ==================== -->
+        <SolidColorBrush x:Key="BrandPrimary" Color="#1E88E5"/>
+        <SolidColorBrush x:Key="BrandPrimaryDark" Color="#1565C0"/>
+        <SolidColorBrush x:Key="BrandPrimaryLight" Color="#64B5F6"/>
+        <SolidColorBrush x:Key="BrandSecondary" Color="#424242"/>
+        <SolidColorBrush x:Key="BrandAccent" Color="#FF4081"/>
+
+        <!-- ==================== UI COLORS ==================== -->
+        <!-- Backgrounds -->
+        <SolidColorBrush x:Key="BackgroundPrimary" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="BackgroundSecondary" Color="#F5F5F5"/>
+        <SolidColorBrush x:Key="BackgroundTertiary" Color="#EEEEEE"/>
+
+        <!-- Surfaces -->
+        <SolidColorBrush x:Key="SurfaceColor" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="CardBackground" Color="#FAFAFA"/>
+
+        <!-- Borders -->
+        <SolidColorBrush x:Key="BorderLight" Color="#E0E0E0"/>
+        <SolidColorBrush x:Key="BorderMedium" Color="#BDBDBD"/>
+
+        <!-- ==================== STATUS COLORS ==================== -->
+        <SolidColorBrush x:Key="StatusSuccess" Color="#4CAF50"/>
+        <SolidColorBrush x:Key="StatusWarning" Color="#FF9800"/>
+        <SolidColorBrush x:Key="StatusError" Color="#F44336"/>
+        <SolidColorBrush x:Key="StatusInfo" Color="#2196F3"/>
+
+        <!-- ==================== TYPOGRAPHY ==================== -->
+        <FontFamily x:Key="FontMain">Segoe UI</FontFamily>
+
+        <sys:Double x:Key="FontSizeTitle">24</sys:Double>
+        <sys:Double x:Key="FontSizeHeading">20</sys:Double>
+        <sys:Double x:Key="FontSizeSubheading">16</sys:Double>
+        <sys:Double x:Key="FontSizeBody">14</sys:Double>
+        <sys:Double x:Key="FontSizeCaption">12</sys:Double>
+
+        <!-- ==================== SPACING ==================== -->
+        <Thickness x:Key="MarginL">24</Thickness>
+        <Thickness x:Key="MarginM">16</Thickness>
+        <Thickness x:Key="MarginS">12</Thickness>
+        <Thickness x:Key="MarginXS">8</Thickness>
+
+        <Thickness x:Key="PaddingL">20</Thickness>
+        <Thickness x:Key="PaddingM">15</Thickness>
+        <Thickness x:Key="PaddingS">10</Thickness>
+
+        <!-- ==================== SIZING ==================== -->
+        <sys:Double x:Key="ButtonHeightLarge">45</sys:Double>
+        <sys:Double x:Key="ButtonHeightMedium">35</sys:Double>
+        <sys:Double x:Key="InputHeight">35</sys:Double>
+        <sys:Double x:Key="HeaderHeight">60</sys:Double>
+
+        <!-- ==================== EFFECTS ==================== -->
+        <DropShadowEffect x:Key="ShadowSmall"
+                         ShadowDepth="1" BlurRadius="3" Opacity="0.2"/>
+        <DropShadowEffect x:Key="ShadowMedium"
+                         ShadowDepth="2" BlurRadius="6" Opacity="0.25"/>
+
+    </Application.Resources>
+</Application>
