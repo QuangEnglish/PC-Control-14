@@ -1,0 +1,227 @@
+<Window x:Class="Caui_truc_thanh_phan_WPF.ControlsDemoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Muc 4 - Controls Co Ban Demo" Height="650" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <TabControl Margin="10" FontSize="13">
+
+        <!-- ============================================================
+             TAB 1: BUTTON - Nut bam
+             Button la control de nguoi dung nhan va kich hoat hanh dong.
+             Thuoc tinh quan trong: Content, Click, Background, IsEnabled
+             ============================================================ -->
+        <TabItem Header="Button - Nut bam">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="20">
+
+                    <TextBlock Text="BUTTON - Nut bam"
+                               FontSize="18" FontWeight="Bold"
+                               Foreground="#007BFF" Margin="0,0,0,10"/>
+
+                    <TextBlock TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#555">
+                        Button la control co ban nhat. Nguoi dung nhan vao de thuc hien 1 hanh dong.
+                        Su kien chinh: Click - duoc goi khi nguoi dung nhan nut.
+                    </TextBlock>
+
+                    <!-- Demo cac loai Button -->
+                    <TextBlock Text="Demo 1: Cac kieu Button" FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                        <!-- Button don gian -->
+                        <Button Content="Button don gian"
+                                Width="140" Height="40" Margin="5"/>
+
+                        <!-- Button co style -->
+                        <Button Content="Button dep"
+                                Width="140" Height="40" Margin="5"
+                                Background="#007BFF" Foreground="White"
+                                FontWeight="Bold" Cursor="Hand"/>
+
+                        <!-- Button bi disable (khong nhan duoc) -->
+                        <Button Content="Disabled"
+                                Width="140" Height="40" Margin="5"
+                                IsEnabled="False" Opacity="0.5"/>
+                    </StackPanel>
+
+                    <!-- Demo nhom nut hanh dong -->
+                    <TextBlock Text="Demo 2: Nhom nut hanh dong" FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                        <Button Content="Luu"
+                                Width="120" Height="40" Margin="5"
+                                Background="#28a745" Foreground="White"
+                                Click="Save_Click"/>
+                        <Button Content="Huy"
+                                Width="120" Height="40" Margin="5"
+                                Background="#dc3545" Foreground="White"
+                                Click="Cancel_Click"/>
+                        <Button Content="Lam moi"
+                                Width="120" Height="40" Margin="5"
+                                Background="#17a2b8" Foreground="White"
+                                Click="Refresh_Click"/>
+                    </StackPanel>
+
+                    <!-- Hien thi ket qua click -->
+                    <TextBlock Text="Demo 3: Nhan nut va xem ket qua"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <Button Content="Hien thi thong bao"
+                                Width="180" Height="40" Margin="5"
+                                Background="#6f42c1" Foreground="White"
+                                Click="ShowMessage_Click"/>
+
+                        <Button x:Name="btnChangeText"
+                                Content="Nhan de doi text"
+                                Width="180" Height="40" Margin="5"
+                                Background="#fd7e14" Foreground="White"
+                                Click="ChangeText_Click"/>
+                    </StackPanel>
+
+                    <Label x:Name="lblButtonResult"
+                           Content="Ket qua se hien o day..."
+                           FontSize="14" Foreground="Gray"
+                           Margin="0,10,0,0"/>
+
+                </StackPanel>
+            </ScrollViewer>
+        </TabItem>
+
+        <!-- ============================================================
+             TAB 2: TEXTBOX - O nhap van ban
+             TextBox cho nguoi dung nhap van ban.
+             Thuoc tinh quan trong: Text, MaxLength, IsReadOnly,
+             TextWrapping, AcceptsReturn
+             ============================================================ -->
+        <TabItem Header="TextBox - O nhap">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="20">
+
+                    <TextBlock Text="TEXTBOX - O nhap van ban"
+                               FontSize="18" FontWeight="Bold"
+                               Foreground="#28a745" Margin="0,0,0,10"/>
+
+                    <TextBlock TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#555">
+                        TextBox cho phep nguoi dung nhap van ban.
+                        Lay gia tri bang: txtName.Text (trong code C#).
+                        Gan gia tri bang: txtName.Text = "Nguyen Van A";
+                    </TextBlock>
+
+                    <!-- Demo cac loai TextBox -->
+                    <TextBlock Text="Demo 1: Cac kieu TextBox" FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Label Content="TextBox don gian:"/>
+                    <TextBox Width="300" Height="30" HorizontalAlignment="Left" Margin="0,0,0,10"/>
+
+                    <Label Content="TextBox chi doc (IsReadOnly=True):"/>
+                    <TextBox Text="Khong sua duoc noi dung nay"
+                             IsReadOnly="True"
+                             Background="#F0F0F0"
+                             Width="300" Height="30"
+                             HorizontalAlignment="Left" Margin="0,0,0,10"/>
+
+                    <Label Content="TextBox gioi han 10 ky tu (MaxLength=10):"/>
+                    <TextBox MaxLength="10" Width="300" Height="30"
+                             HorizontalAlignment="Left" Margin="0,0,0,10"/>
+
+                    <Label Content="TextBox nhieu dong (TextWrapping=Wrap, AcceptsReturn=True):"/>
+                    <TextBox Width="400" Height="80"
+                             TextWrapping="Wrap"
+                             AcceptsReturn="True"
+                             VerticalScrollBarVisibility="Auto"
+                             Padding="5"
+                             HorizontalAlignment="Left" Margin="0,0,0,15"/>
+
+                    <!-- Demo lay/gan gia tri -->
+                    <TextBlock Text="Demo 2: Lay va Gan gia tri tu Code"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Label Content="Nhap ten cua ban:"/>
+                    <TextBox x:Name="txtDemoName" Width="300" Height="30"
+                             HorizontalAlignment="Left" Margin="0,5,0,10"/>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="Lay ten (Get)"
+                                Width="130" Height="35" Margin="0,0,10,0"
+                                Background="#007BFF" Foreground="White"
+                                Click="GetName_Click"/>
+                        <Button Content="Gan ten (Set)"
+                                Width="130" Height="35"
+                                Background="#28a745" Foreground="White"
+                                Click="SetName_Click"/>
+                    </StackPanel>
+
+                </StackPanel>
+            </ScrollViewer>
+        </TabItem>
+
+        <!-- ============================================================
+             TAB 3: COMBOBOX - Hop danh sach tha xuong
+             ComboBox cho phep nguoi dung chon 1 muc tu danh sach.
+             Giong nhu chon tinh/thanh pho khi dien dia chi.
+             ============================================================ -->
+        <TabItem Header="ComboBox - Danh sach">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="20">
+
+                    <TextBlock Text="COMBOBOX - Hop danh sach tha xuong"
+                               FontSize="18" FontWeight="Bold"
+                               Foreground="#dc3545" Margin="0,0,0,10"/>
+
+                    <TextBlock TextWrapping="Wrap" Margin="0,0,0,15" Foreground="#555">
+                        ComboBox cho nguoi dung chon 1 muc tu danh sach.
+                        Co 2 cach them items: Truc tiep trong XAML hoac tu Code C#.
+                        Lay gia tri: cbo.SelectedItem hoac cbo.SelectedIndex.
+                    </TextBlock>
+
+                    <!-- Demo 1: ComboBox co dinh trong XAML -->
+                    <TextBlock Text="Demo 1: Items co dinh trong XAML"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Label Content="Chon gioi tinh:"/>
+                    <ComboBox x:Name="cboGenderDemo" Width="250" Height="30"
+                              HorizontalAlignment="Left" Margin="0,0,0,10">
+                        <ComboBoxItem Content="Nam" IsSelected="True"/>
+                        <ComboBoxItem Content="Nu"/>
+                        <ComboBoxItem Content="Khac"/>
+                    </ComboBox>
+
+                    <!-- Demo 2: ComboBox load tu Code -->
+                    <TextBlock Text="Demo 2: Items load tu Code C#"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Label Content="Chon thanh pho:"/>
+                    <ComboBox x:Name="cboCityDemo" Width="250" Height="30"
+                              HorizontalAlignment="Left" Margin="0,0,0,10"/>
+
+                    <!-- Demo 3: Lay gia tri da chon -->
+                    <TextBlock Text="Demo 3: Lay gia tri da chon"
+                               FontWeight="Bold" Margin="0,10,0,5"/>
+
+                    <Label Content="Chon ngon ngu lap trinh:"/>
+                    <ComboBox x:Name="cboLanguage" Width="250" Height="30"
+                              HorizontalAlignment="Left" Margin="0,0,0,10">
+                        <ComboBoxItem Content="C#"/>
+                        <ComboBoxItem Content="Java"/>
+                        <ComboBoxItem Content="Python"/>
+                        <ComboBoxItem Content="JavaScript"/>
+                    </ComboBox>
+
+                    <Button Content="Xem lua chon"
+                            Width="150" Height="35"
+                            HorizontalAlignment="Left"
+                            Background="#007BFF" Foreground="White"
+                            Click="ShowComboSelection_Click"/>
+
+                    <Label x:Name="lblComboResult"
+                           Content="Ket qua..."
+                           FontSize="14" Foreground="Gray"
+                           Margin="0,10,0,0"/>
+
+                </StackPanel>
+            </ScrollViewer>
+        </TabItem>
+
+    </TabControl>
+</Window>

@@ -1,0 +1,196 @@
+<Window x:Class="Caui_truc_thanh_phan_WPF.Bai3_QuanLySinhVien"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bai tap 3 - Quan ly Sinh vien" Height="600" Width="950"
+        WindowStartupLocation="CenterScreen">
+
+    <!-- ============================================================
+         BAI TAP 3: UNG DUNG QUAN LY SINH VIEN (3 diem)
+
+         Yeu cau:
+         - Dung DOCKPANEL lam layout tong
+         - Header (Top): Tieu de ung dung
+         - Sidebar (Left): Menu chuc nang
+         - Content (Center): Form nhap + Danh sach sinh vien
+
+         Chuc nang:
+         - Nhap: Ma SV, Ho ten, Lop, Diem TB
+         - Button: Them, Sua, Xoa, Lam moi
+         - Hien thi danh sach sinh vien da them (ListBox)
+         ============================================================ -->
+
+    <DockPanel>
+
+        <!-- === HEADER: Dan vao canh tren === -->
+        <Border DockPanel.Dock="Top"
+                Background="#007BFF"
+                Height="60">
+            <TextBlock Text="HE THONG QUAN LY SINH VIEN"
+                       Foreground="White"
+                       FontSize="22" FontWeight="Bold"
+                       VerticalAlignment="Center"
+                       Margin="20,0"/>
+        </Border>
+
+        <!-- === FOOTER: Dan vao canh duoi === -->
+        <Border DockPanel.Dock="Bottom"
+                Background="#343a40"
+                Height="30">
+            <TextBlock Text="Bai tap 3 - Cau truc thanh phan WPF"
+                       Foreground="#adb5bd"
+                       FontSize="11"
+                       VerticalAlignment="Center"
+                       Margin="20,0"/>
+        </Border>
+
+        <!-- === SIDEBAR: Dan vao canh trai === -->
+        <Border DockPanel.Dock="Left"
+                Background="#F8F9FA"
+                Width="180"
+                BorderThickness="0,0,1,0"
+                BorderBrush="#dee2e6">
+            <StackPanel Margin="10">
+                <Label Content="CHUC NANG"
+                       FontSize="13" FontWeight="Bold"
+                       Foreground="#495057"
+                       Margin="0,10,0,10"/>
+
+                <Button Content="Them sinh vien"
+                        Height="35" Margin="0,3"
+                        Background="White"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="BtnAdd_Click"/>
+
+                <Button Content="Sua thong tin"
+                        Height="35" Margin="0,3"
+                        Background="White"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="BtnEdit_Click"/>
+
+                <Button Content="Xoa sinh vien"
+                        Height="35" Margin="0,3"
+                        Background="White"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="BtnDelete_Click"/>
+
+                <Button Content="Lam moi form"
+                        Height="35" Margin="0,3"
+                        Background="White"
+                        HorizontalContentAlignment="Left"
+                        Padding="10,0,0,0"
+                        Click="BtnClear_Click"/>
+
+                <!-- Hien thi so luong sinh vien -->
+                <Label x:Name="lblCount"
+                       Content="Tong: 0 sinh vien"
+                       FontSize="12"
+                       Foreground="#6c757d"
+                       Margin="0,15,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- === CONTENT: Phan con lai (Center) === -->
+        <!-- Dung Grid chia thanh 2 phan: Form nhap (trai) | Danh sach (phai) -->
+        <Grid Margin="15">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>   <!-- Cot trai: Form nhap -->
+                <ColumnDefinition Width="*"/>     <!-- Cot phai: Danh sach -->
+            </Grid.ColumnDefinitions>
+
+            <!-- === COT TRAI: Form nhap thong tin === -->
+            <Border Grid.Column="0"
+                    BorderBrush="#ddd" BorderThickness="1"
+                    CornerRadius="5" Padding="15"
+                    Background="White" Margin="0,0,10,0">
+                <StackPanel>
+                    <TextBlock Text="THONG TIN SINH VIEN"
+                               FontSize="15" FontWeight="Bold"
+                               Foreground="#333"
+                               Margin="0,0,0,15"/>
+
+                    <Label Content="Ma sinh vien:" FontSize="12"/>
+                    <TextBox x:Name="txtMaSV" Height="30" FontSize="12"
+                             Padding="5,0" Margin="0,3,0,10"
+                             MaxLength="20"/>
+
+                    <Label Content="Ho va ten:" FontSize="12"/>
+                    <TextBox x:Name="txtHoTen" Height="30" FontSize="12"
+                             Padding="5,0" Margin="0,3,0,10"
+                             MaxLength="100"/>
+
+                    <Label Content="Lop:" FontSize="12"/>
+                    <TextBox x:Name="txtLop" Height="30" FontSize="12"
+                             Padding="5,0" Margin="0,3,0,10"
+                             MaxLength="20"/>
+
+                    <Label Content="Diem trung binh:" FontSize="12"/>
+                    <TextBox x:Name="txtDiem" Height="30" FontSize="12"
+                             Padding="5,0" Margin="0,3,0,15"
+                             MaxLength="5"/>
+
+                    <!-- Nhom nut hanh dong -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Button Content="THEM"
+                                Grid.Row="0" Grid.Column="0"
+                                Height="35" Margin="0,0,3,5"
+                                Background="#28a745" Foreground="White"
+                                FontWeight="Bold"
+                                Click="BtnAdd_Click"/>
+
+                        <Button Content="SUA"
+                                Grid.Row="0" Grid.Column="1"
+                                Height="35" Margin="3,0,0,5"
+                                Background="#ffc107" Foreground="Black"
+                                FontWeight="Bold"
+                                Click="BtnEdit_Click"/>
+
+                        <Button Content="XOA"
+                                Grid.Row="1" Grid.Column="0"
+                                Height="35" Margin="0,0,3,0"
+                                Background="#dc3545" Foreground="White"
+                                FontWeight="Bold"
+                                Click="BtnDelete_Click"/>
+
+                        <Button Content="LAM MOI"
+                                Grid.Row="1" Grid.Column="1"
+                                Height="35" Margin="3,0,0,0"
+                                Background="#6c757d" Foreground="White"
+                                FontWeight="Bold"
+                                Click="BtnClear_Click"/>
+                    </Grid>
+                </StackPanel>
+            </Border>
+
+            <!-- === COT PHAI: Danh sach sinh vien === -->
+            <Border Grid.Column="1"
+                    BorderBrush="#ddd" BorderThickness="1"
+                    CornerRadius="5" Padding="15"
+                    Background="White">
+                <StackPanel>
+                    <TextBlock Text="DANH SACH SINH VIEN"
+                               FontSize="15" FontWeight="Bold"
+                               Foreground="#333"
+                               Margin="0,0,0,10"/>
+
+                    <!-- ListBox hien thi danh sach sinh vien -->
+                    <ListBox x:Name="lstSinhVien"
+                             Height="350"
+                             FontSize="12"
+                             SelectionChanged="LstSinhVien_SelectionChanged"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </DockPanel>
+</Window>

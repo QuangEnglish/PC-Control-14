@@ -1,0 +1,108 @@
+<Window x:Class="Caui_truc_thanh_phan_WPF.Bai1_BMI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bai tap 1 - May tinh BMI" Height="450" Width="500"
+        WindowStartupLocation="CenterScreen">
+
+    <!-- ============================================================
+         BAI TAP 1: MAY TINH BMI (3 diem)
+
+         Yeu cau:
+         - Dung GRID de bo cuc (2 cot: Label | TextBox)
+         - 2 TextBox: Chieu cao (cm) va Can nang (kg)
+         - 1 Button "Tinh BMI"
+         - 1 Label hien thi ket qua
+
+         Cong thuc: BMI = Can nang (kg) / (Chieu cao (m))^2
+
+         Phan loai BMI:
+         - < 18.5: Gay
+         - 18.5 - 24.9: Binh thuong
+         - 25 - 29.9: Thua can
+         - >= 30: Beo phi
+         ============================================================ -->
+
+    <Border Padding="20" Background="#f8f9fa">
+        <Grid>
+            <!-- Dinh nghia 5 hang -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>  <!-- Hang 0: Tieu de -->
+                <RowDefinition Height="Auto"/>  <!-- Hang 1: Chieu cao -->
+                <RowDefinition Height="Auto"/>  <!-- Hang 2: Can nang -->
+                <RowDefinition Height="Auto"/>  <!-- Hang 3: Nut tinh -->
+                <RowDefinition Height="Auto"/>  <!-- Hang 4: Ket qua -->
+            </Grid.RowDefinitions>
+
+            <!-- Dinh nghia 2 cot -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="130"/>  <!-- Cot 0: Label -->
+                <ColumnDefinition Width="*"/>    <!-- Cot 1: TextBox (chiem het) -->
+            </Grid.ColumnDefinitions>
+
+            <!-- === HANG 0: Tieu de (chiem ca 2 cot) === -->
+            <TextBlock Text="MAY TINH CHI SO BMI"
+                       Grid.Row="0" Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                       FontSize="22" FontWeight="Bold"
+                       Foreground="#007BFF"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,25"/>
+
+            <!-- === HANG 1: Nhap chieu cao === -->
+            <Label Content="Chieu cao (cm):"
+                   Grid.Row="1" Grid.Column="0"
+                   VerticalAlignment="Center"
+                   FontSize="14"/>
+            <TextBox x:Name="txtHeight"
+                     Grid.Row="1" Grid.Column="1"
+                     Height="35" FontSize="14"
+                     Padding="5,0"
+                     Margin="0,5"/>
+
+            <!-- === HANG 2: Nhap can nang === -->
+            <Label Content="Can nang (kg):"
+                   Grid.Row="2" Grid.Column="0"
+                   VerticalAlignment="Center"
+                   FontSize="14"/>
+            <TextBox x:Name="txtWeight"
+                     Grid.Row="2" Grid.Column="1"
+                     Height="35" FontSize="14"
+                     Padding="5,0"
+                     Margin="0,5"/>
+
+            <!-- === HANG 3: Nut Tinh BMI (chiem 2 cot) === -->
+            <Button Content="TINH BMI"
+                    Grid.Row="3" Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    Height="45"
+                    Margin="0,15,0,10"
+                    Background="#007BFF" Foreground="White"
+                    FontSize="16" FontWeight="Bold"
+                    Cursor="Hand"
+                    Click="Calculate_Click"/>
+
+            <!-- === HANG 4: Hien thi ket qua === -->
+            <Border Grid.Row="4" Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    Background="White"
+                    BorderBrush="#ddd"
+                    BorderThickness="1"
+                    CornerRadius="5"
+                    Padding="15"
+                    Margin="0,5,0,0">
+                <StackPanel>
+                    <Label x:Name="lblBMIValue"
+                           Content="BMI: ---"
+                           FontSize="20" FontWeight="Bold"
+                           HorizontalAlignment="Center"
+                           Foreground="#333"/>
+                    <Label x:Name="lblBMICategory"
+                           Content="Nhap thong tin va nhan Tinh BMI"
+                           FontSize="14"
+                           HorizontalAlignment="Center"
+                           Foreground="Gray"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

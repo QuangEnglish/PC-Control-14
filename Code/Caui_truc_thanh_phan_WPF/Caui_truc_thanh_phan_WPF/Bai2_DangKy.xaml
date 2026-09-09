@@ -1,0 +1,95 @@
+<Window x:Class="Caui_truc_thanh_phan_WPF.Bai2_DangKy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bai tap 2 - Form Dang ky voi Validation" Height="600" Width="500"
+        WindowStartupLocation="CenterScreen">
+
+    <!-- ============================================================
+         BAI TAP 2: FORM DANG KY VOI VALIDATION (4 diem)
+
+         Yeu cau:
+         - Dung StackPanel hoac Grid
+         - TextBox: Ho ten, Email, So dien thoai
+         - PasswordBox: Mat khau
+         - ComboBox: Gioi tinh (Nam/Nu/Khac)
+         - CheckBox: Dong y dieu khoan
+         - Button: "Dang ky" va "Huy"
+
+         Validate:
+         - Tat ca truong da nhap du chua
+         - Email co chua "@" khong
+         - Mat khau co it nhat 6 ky tu khong
+         - CheckBox da duoc tick chua
+         ============================================================ -->
+
+    <Border Padding="25" Background="#f8f9fa">
+        <StackPanel>
+
+            <!-- Tieu de -->
+            <TextBlock Text="DANG KY TAI KHOAN"
+                       FontSize="22" FontWeight="Bold"
+                       Foreground="#007BFF"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,25"/>
+
+            <!-- Ho ten -->
+            <Label Content="Ho ten:" FontSize="13"/>
+            <TextBox x:Name="txtName" Height="32" FontSize="13"
+                     Padding="5,0" Margin="0,3,0,12"
+                     MaxLength="100"/>
+
+            <!-- Email -->
+            <Label Content="Email:" FontSize="13"/>
+            <TextBox x:Name="txtEmail" Height="32" FontSize="13"
+                     Padding="5,0" Margin="0,3,0,12"
+                     MaxLength="100"/>
+
+            <!-- So dien thoai -->
+            <Label Content="So dien thoai:" FontSize="13"/>
+            <TextBox x:Name="txtPhone" Height="32" FontSize="13"
+                     Padding="5,0" Margin="0,3,0,12"
+                     MaxLength="15"/>
+
+            <!-- Mat khau -->
+            <Label Content="Mat khau (toi thieu 6 ky tu):" FontSize="13"/>
+            <PasswordBox x:Name="txtPassword" Height="32" FontSize="13"
+                         Padding="5,0" Margin="0,3,0,12"
+                         MaxLength="50"/>
+
+            <!-- Gioi tinh (ComboBox) -->
+            <Label Content="Gioi tinh:" FontSize="13"/>
+            <ComboBox x:Name="cboGender" Height="32" FontSize="13"
+                      Margin="0,3,0,12">
+                <ComboBoxItem Content="Nam" IsSelected="True"/>
+                <ComboBoxItem Content="Nu"/>
+                <ComboBoxItem Content="Khac"/>
+            </ComboBox>
+
+            <!-- CheckBox dong y dieu khoan -->
+            <CheckBox x:Name="chkAgree"
+                      Content="Toi dong y voi dieu khoan su dung"
+                      FontSize="13"
+                      Margin="0,5,0,20"/>
+
+            <!-- Nhom nut: Dang ky va Huy -->
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center">
+                <Button Content="DANG KY"
+                        Width="140" Height="42"
+                        Background="#28a745" Foreground="White"
+                        FontSize="14" FontWeight="Bold"
+                        Margin="0,0,15,0"
+                        Cursor="Hand"
+                        Click="Register_Click"/>
+
+                <Button Content="HUY"
+                        Width="140" Height="42"
+                        Background="#6c757d" Foreground="White"
+                        FontSize="14" FontWeight="Bold"
+                        Cursor="Hand"
+                        Click="Cancel_Click"/>
+            </StackPanel>
+
+        </StackPanel>
+    </Border>
+</Window>
