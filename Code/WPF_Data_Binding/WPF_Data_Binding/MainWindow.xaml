@@ -1,0 +1,245 @@
+<Window x:Class="WPF_Data_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="WPF Data Binding and Resources - Demo Hub"
+        Height="650" Width="700"
+        WindowStartupLocation="CenterScreen"
+        Background="{StaticResource BackgroundSecondary}">
+
+    <!--
+        MainWindow: Menu dieu huong den cac Demo
+        Moi demo minh hoa 1 khai niem trong bai giang:
+        1. ElementName Binding
+        2. DataContext
+        3. INotifyPropertyChanged
+        4. ObservableCollection
+        5. Resources (Static vs Dynamic)
+    -->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- HEADER - Dung Resource tu App.xaml -->
+        <Border Grid.Row="0"
+                Background="{StaticResource BrandPrimaryDark}"
+                Padding="25,20"
+                Effect="{StaticResource ShadowMedium}">
+            <StackPanel>
+                <TextBlock Text="WPF DATA BINDING &amp; RESOURCES"
+                           Foreground="White"
+                           FontSize="{StaticResource FontSizeTitle}"
+                           FontFamily="{StaticResource FontMain}"
+                           FontWeight="Bold"/>
+                <TextBlock Text="Buoi 3: Cac demo minh hoa kien thuc Data Binding va Resources"
+                           Foreground="White" Opacity="0.8"
+                           FontSize="{StaticResource FontSizeCaption}"
+                           Margin="0,5,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- CONTENT - Cac nut demo -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="25">
+
+                <!-- ===== PHAN 1: DATA BINDING ===== -->
+                <TextBlock Text="PHAN 1: DATA BINDING"
+                           FontSize="{StaticResource FontSizeHeading}"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource BrandPrimary}"
+                           Margin="0,0,0,15"/>
+
+                <!-- Demo 1: ElementName Binding -->
+                <Border Background="White" Padding="20" Margin="0,0,0,12"
+                        BorderBrush="{StaticResource BorderLight}" BorderThickness="1"
+                        CornerRadius="5" Cursor="Hand"
+                        MouseLeftButtonDown="Demo1_Click">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Width="50" Height="50"
+                                Background="#E3F2FD" CornerRadius="25"
+                                Margin="0,0,15,0">
+                            <TextBlock Text="1" FontSize="22" FontWeight="Bold"
+                                       Foreground="#1E88E5"
+                                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                            <TextBlock Text="ElementName Binding"
+                                       FontSize="16" FontWeight="SemiBold"/>
+                            <TextBlock Text="Bind giua cac Control: Slider, CheckBox, ComboBox"
+                                       FontSize="12" Foreground="Gray" Margin="0,3,0,0"/>
+                        </StackPanel>
+
+                        <TextBlock Grid.Column="2" Text=">"
+                                   FontSize="20" Foreground="Gray"
+                                   VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- Demo 2: DataContext -->
+                <Border Background="White" Padding="20" Margin="0,0,0,12"
+                        BorderBrush="{StaticResource BorderLight}" BorderThickness="1"
+                        CornerRadius="5" Cursor="Hand"
+                        MouseLeftButtonDown="Demo2_Click">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Width="50" Height="50"
+                                Background="#FFF3E0" CornerRadius="25"
+                                Margin="0,0,15,0">
+                            <TextBlock Text="2" FontSize="22" FontWeight="Bold"
+                                       Foreground="#FF9800"
+                                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                            <TextBlock Text="DataContext (khong co INPC)"
+                                       FontSize="16" FontWeight="SemiBold"/>
+                            <TextBlock Text="Nguon du lieu mac dinh - Thay doi property nhung UI KHONG cap nhat"
+                                       FontSize="12" Foreground="Gray" Margin="0,3,0,0"/>
+                        </StackPanel>
+
+                        <TextBlock Grid.Column="2" Text=">"
+                                   FontSize="20" Foreground="Gray"
+                                   VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- Demo 3: INotifyPropertyChanged -->
+                <Border Background="White" Padding="20" Margin="0,0,0,12"
+                        BorderBrush="{StaticResource BorderLight}" BorderThickness="1"
+                        CornerRadius="5" Cursor="Hand"
+                        MouseLeftButtonDown="Demo3_Click">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Width="50" Height="50"
+                                Background="#E8F5E9" CornerRadius="25"
+                                Margin="0,0,15,0">
+                            <TextBlock Text="3" FontSize="22" FontWeight="Bold"
+                                       Foreground="#4CAF50"
+                                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                            <TextBlock Text="INotifyPropertyChanged"
+                                       FontSize="16" FontWeight="SemiBold"/>
+                            <TextBlock Text="UI tu dong cap nhat khi du lieu thay doi - TwoWay Binding"
+                                       FontSize="12" Foreground="Gray" Margin="0,3,0,0"/>
+                        </StackPanel>
+
+                        <TextBlock Grid.Column="2" Text=">"
+                                   FontSize="20" Foreground="Gray"
+                                   VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- Demo 4: ObservableCollection -->
+                <Border Background="White" Padding="20" Margin="0,0,0,12"
+                        BorderBrush="{StaticResource BorderLight}" BorderThickness="1"
+                        CornerRadius="5" Cursor="Hand"
+                        MouseLeftButtonDown="Demo4_Click">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Width="50" Height="50"
+                                Background="#F3E5F5" CornerRadius="25"
+                                Margin="0,0,15,0">
+                            <TextBlock Text="4" FontSize="22" FontWeight="Bold"
+                                       Foreground="#9C27B0"
+                                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                            <TextBlock Text="ObservableCollection"
+                                       FontSize="16" FontWeight="SemiBold"/>
+                            <TextBlock Text="Danh sach tu dong cap nhat khi Them/Xoa - Quan ly sinh vien"
+                                       FontSize="12" Foreground="Gray" Margin="0,3,0,0"/>
+                        </StackPanel>
+
+                        <TextBlock Grid.Column="2" Text=">"
+                                   FontSize="20" Foreground="Gray"
+                                   VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+                <!-- ===== PHAN 2: RESOURCES ===== -->
+                <TextBlock Text="PHAN 2: RESOURCES"
+                           FontSize="{StaticResource FontSizeHeading}"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource BrandPrimary}"
+                           Margin="0,15,0,15"/>
+
+                <!-- Demo 5: Resources -->
+                <Border Background="White" Padding="20" Margin="0,0,0,12"
+                        BorderBrush="{StaticResource BorderLight}" BorderThickness="1"
+                        CornerRadius="5" Cursor="Hand"
+                        MouseLeftButtonDown="Demo5_Click">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" Width="50" Height="50"
+                                Background="#FCE4EC" CornerRadius="25"
+                                Margin="0,0,15,0">
+                            <TextBlock Text="5" FontSize="22" FontWeight="Bold"
+                                       Foreground="#E91E63"
+                                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                            <TextBlock Text="StaticResource vs DynamicResource"
+                                       FontSize="16" FontWeight="SemiBold"/>
+                            <TextBlock Text="He thong mau sac, cap do Resources, thay doi theme dong"
+                                       FontSize="12" Foreground="Gray" Margin="0,3,0,0"/>
+                        </StackPanel>
+
+                        <TextBlock Grid.Column="2" Text=">"
+                                   FontSize="20" Foreground="Gray"
+                                   VerticalAlignment="Center"/>
+                    </Grid>
+                </Border>
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- FOOTER -->
+        <Border Grid.Row="2"
+                Background="{StaticResource BackgroundTertiary}"
+                BorderBrush="{StaticResource BorderLight}"
+                BorderThickness="0,1,0,0"
+                Padding="{StaticResource PaddingS}">
+            <TextBlock Text="WPF Data Binding &amp; Resources - Buoi 3"
+                      Foreground="{StaticResource BrandSecondary}"
+                      FontSize="{StaticResource FontSizeCaption}"
+                      HorizontalAlignment="Center"/>
+        </Border>
+    </Grid>
+</Window>

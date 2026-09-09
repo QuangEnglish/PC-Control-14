@@ -1,0 +1,332 @@
+<Window x:Class="WPF_Data_Binding.Views.Demo5_Resources"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Demo 5: Resources - StaticResource vs DynamicResource"
+        Height="750" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#FAFAFA">
+
+    <!--
+        RESOURCES la gi?
+        - La noi luu tru cac tai nguyen dung chung: mau sac, font, kich thuoc...
+        - Thay vi viet "Background='#007BFF'" o nhieu cho, khai bao 1 lan trong Resources
+        - Khi muon doi mau, chi sua 1 cho trong Resources → tat ca deu doi theo
+
+        3 CAP DO RESOURCES:
+        1. Application Resources (App.xaml) → toan app
+        2. Window Resources (Window.Resources) → trong 1 Window
+        3. Control Resources (Grid.Resources, StackPanel.Resources) → cuc local
+
+        QUY TAC TIM KIEM: tu trong ra ngoai
+        Control → Control cha → Window → Application
+        Neu trung key → uu tien cap gan nhat
+
+        StaticResource vs DynamicResource:
+        - StaticResource: load 1 lan luc khoi tao, KHONG doi khi runtime
+        - DynamicResource: co the doi khi runtime (dung cho theme dong)
+        - StaticResource nhanh hon → dung 90% truong hop
+    -->
+
+    <!-- ========== WINDOW RESOURCES ========== -->
+    <!--
+        Khai bao Resources cho Window nay
+        Cac control ben trong co the dung {StaticResource Key} hoac {DynamicResource Key}
+    -->
+    <Window.Resources>
+        <!-- Mau sac -->
+        <SolidColorBrush x:Key="PrimaryColor" Color="#1E88E5"/>
+        <SolidColorBrush x:Key="SecondaryColor" Color="#424242"/>
+        <SolidColorBrush x:Key="SuccessColor" Color="#4CAF50"/>
+        <SolidColorBrush x:Key="DangerColor" Color="#F44336"/>
+        <SolidColorBrush x:Key="WarningColor" Color="#FF9800"/>
+        <SolidColorBrush x:Key="InfoColor" Color="#2196F3"/>
+        <SolidColorBrush x:Key="TextPrimary" Color="#212121"/>
+        <SolidColorBrush x:Key="TextSecondary" Color="#757575"/>
+        <SolidColorBrush x:Key="BorderColor" Color="#E0E0E0"/>
+
+        <!-- Mau co the thay doi runtime (dung DynamicResource) -->
+        <SolidColorBrush x:Key="ThemeColor" Color="#1E88E5"/>
+
+        <!-- Font sizes -->
+        <!--
+            Phai them namespace sys: xmlns:sys="clr-namespace:System;assembly=mscorlib"
+            De dung cac kieu du lieu .NET trong XAML (Double, Int, String...)
+        -->
+        <sys:Double x:Key="TitleFontSize">24</sys:Double>
+        <sys:Double x:Key="HeadingFontSize">18</sys:Double>
+        <sys:Double x:Key="BodyFontSize">14</sys:Double>
+        <sys:Double x:Key="CaptionFontSize">12</sys:Double>
+
+        <!-- Font family -->
+        <FontFamily x:Key="MainFont">Segoe UI</FontFamily>
+
+        <!-- Spacing -->
+        <Thickness x:Key="CardMargin">0,0,0,15</Thickness>
+        <Thickness x:Key="CardPadding">20</Thickness>
+        <Thickness x:Key="SmallMargin">0,0,0,8</Thickness>
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="25">
+
+            <!-- ============================== -->
+            <!-- PHAN 1: SU DUNG RESOURCES -->
+            <!-- ============================== -->
+            <Border Background="White"
+                    Padding="{StaticResource CardPadding}"
+                    Margin="{StaticResource CardMargin}"
+                    BorderBrush="{StaticResource BorderColor}"
+                    BorderThickness="1" CornerRadius="5">
+                <StackPanel>
+                    <!--
+                        {StaticResource TitleFontSize}: lay gia tri 24 tu Resources
+                        {StaticResource PrimaryColor}: lay mau #1E88E5 tu Resources
+                        {StaticResource MainFont}: lay font "Segoe UI" tu Resources
+
+                        Loi ich: Doi mau/font chi sua 1 cho trong Resources
+                    -->
+                    <TextBlock Text="PHAN 1: Su dung Resources co ban"
+                               FontSize="{StaticResource TitleFontSize}"
+                               FontFamily="{StaticResource MainFont}"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource PrimaryColor}"
+                               Margin="{StaticResource SmallMargin}"/>
+
+                    <TextBlock Text="Tat ca mau sac, font size, margin deu lay tu Window.Resources"
+                               FontSize="{StaticResource BodyFontSize}"
+                               Foreground="{StaticResource TextSecondary}"
+                               Margin="0,0,0,15"/>
+
+                    <!-- Cac button dung mau tu Resources -->
+                    <!--
+                        Thay vi viet Background="#4CAF50" o moi button,
+                        dung Background="{StaticResource SuccessColor}"
+                        → Doi mau chi sua 1 cho trong Resources
+                    -->
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="Primary"
+                                Background="{StaticResource PrimaryColor}"
+                                Foreground="White" Height="35" Padding="15,0"
+                                Margin="0,0,8,0" BorderThickness="0" Cursor="Hand"/>
+
+                        <Button Content="Success"
+                                Background="{StaticResource SuccessColor}"
+                                Foreground="White" Height="35" Padding="15,0"
+                                Margin="0,0,8,0" BorderThickness="0" Cursor="Hand"/>
+
+                        <Button Content="Warning"
+                                Background="{StaticResource WarningColor}"
+                                Foreground="White" Height="35" Padding="15,0"
+                                Margin="0,0,8,0" BorderThickness="0" Cursor="Hand"/>
+
+                        <Button Content="Danger"
+                                Background="{StaticResource DangerColor}"
+                                Foreground="White" Height="35" Padding="15,0"
+                                Margin="0,0,8,0" BorderThickness="0" Cursor="Hand"/>
+
+                        <Button Content="Info"
+                                Background="{StaticResource InfoColor}"
+                                Foreground="White" Height="35" Padding="15,0"
+                                BorderThickness="0" Cursor="Hand"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+
+            <!-- ============================== -->
+            <!-- PHAN 2: SO SANH STATIC vs DYNAMIC -->
+            <!-- ============================== -->
+            <!--
+                DIEM THEN CHOT CUA DEMO NAY:
+                - Button "Static" dung StaticResource → load 1 lan, KHONG DOI
+                - Button "Dynamic" dung DynamicResource → co the DOI khi runtime
+                - Khi click "Doi mau ngau nhien":
+                  + Thay doi Resources["ThemeColor"] bang code C#
+                  + Button Static giu nguyen mau cu
+                  + Button Dynamic tu dong doi sang mau moi
+            -->
+            <Border Background="White"
+                    Padding="{StaticResource CardPadding}"
+                    Margin="{StaticResource CardMargin}"
+                    BorderBrush="{StaticResource BorderColor}"
+                    BorderThickness="1" CornerRadius="5">
+                <StackPanel>
+                    <TextBlock Text="PHAN 2: StaticResource vs DynamicResource"
+                               FontSize="{StaticResource HeadingFontSize}"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource PrimaryColor}"
+                               Margin="0,0,0,15"/>
+
+                    <Grid Margin="0,0,0,15">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- StaticResource: load 1 lan, KHONG doi khi runtime -->
+                        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                            <TextBlock Text="StaticResource"
+                                       FontSize="14" FontWeight="Bold"
+                                       HorizontalAlignment="Center"
+                                       Margin="0,0,0,10"/>
+                            <Button Content="Static - KHONG doi mau"
+                                    Height="50"
+                                    Background="{StaticResource ThemeColor}"
+                                    Foreground="White"
+                                    FontSize="14" FontWeight="SemiBold"
+                                    BorderThickness="0"/>
+                            <TextBlock Text="Load 1 lan luc khoi tao"
+                                       Foreground="Gray" FontSize="11"
+                                       HorizontalAlignment="Center"
+                                       Margin="0,5,0,0"/>
+                        </StackPanel>
+
+                        <!-- DynamicResource: co the doi khi runtime -->
+                        <StackPanel Grid.Column="1" Margin="10,0,0,0">
+                            <TextBlock Text="DynamicResource"
+                                       FontSize="14" FontWeight="Bold"
+                                       HorizontalAlignment="Center"
+                                       Margin="0,0,0,10"/>
+                            <Button Content="Dynamic - CO DOI mau"
+                                    Height="50"
+                                    Background="{DynamicResource ThemeColor}"
+                                    Foreground="White"
+                                    FontSize="14" FontWeight="SemiBold"
+                                    BorderThickness="0"/>
+                            <TextBlock Text="Tu dong cap nhat khi Resource doi"
+                                       Foreground="Gray" FontSize="11"
+                                       HorizontalAlignment="Center"
+                                       Margin="0,5,0,0"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Button doi mau -->
+                    <Button Content="Doi mau ngau nhien (chi Dynamic doi)"
+                            Height="40" Width="350"
+                            Background="#9C27B0" Foreground="White"
+                            FontSize="14" FontWeight="SemiBold"
+                            BorderThickness="0" Cursor="Hand"
+                            Click="ChangeThemeColor_Click"/>
+                </StackPanel>
+            </Border>
+
+            <!-- ============================== -->
+            <!-- PHAN 3: CAP DO RESOURCES -->
+            <!-- ============================== -->
+            <!--
+                Minh hoa quy tac ghi de (override):
+                - Window Resources dinh nghia HighlightColor = Xanh
+                - Grid Resources ghi de HighlightColor = Do
+                - Control o trong Grid se dung mau Do (uu tien cap gan nhat)
+                - Control o ngoai Grid se dung mau Xanh (Window level)
+            -->
+            <Border Background="White"
+                    Padding="{StaticResource CardPadding}"
+                    Margin="{StaticResource CardMargin}"
+                    BorderBrush="{StaticResource BorderColor}"
+                    BorderThickness="1" CornerRadius="5">
+                <StackPanel>
+                    <TextBlock Text="PHAN 3: Cap do Resources (Scope)"
+                               FontSize="{StaticResource HeadingFontSize}"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource PrimaryColor}"
+                               Margin="0,0,0,15"/>
+
+                    <TextBlock Text="Resource co the duoc ghi de o cap thap hon:"
+                               FontSize="{StaticResource BodyFontSize}"
+                               Margin="0,0,0,15"/>
+
+                    <!-- Window level: PrimaryColor = #1E88E5 (xanh duong) -->
+                    <TextBlock Text="Window Level: PrimaryColor = Xanh duong (#1E88E5)"
+                               FontSize="13" Margin="0,0,0,5"
+                               Foreground="{StaticResource PrimaryColor}"
+                               FontWeight="Bold"/>
+
+                    <!--
+                        Grid nay dinh nghia Resources RIENG
+                        Ghi de PrimaryColor = Xanh la (#4CAF50)
+                        → Control ben trong Grid dung mau xanh la
+                        → Control ben ngoai Grid van dung mau xanh duong
+                    -->
+                    <Grid Margin="0,10,0,10">
+                        <Grid.Resources>
+                            <!-- Ghi de PrimaryColor tai cap Grid -->
+                            <SolidColorBrush x:Key="PrimaryColor" Color="#4CAF50"/>
+                        </Grid.Resources>
+
+                        <Border Background="#E8F5E9" Padding="15" CornerRadius="5">
+                            <StackPanel>
+                                <TextBlock Text="Ben trong Grid: PrimaryColor = Xanh la (#4CAF50)"
+                                           FontSize="13"
+                                           Foreground="{StaticResource PrimaryColor}"
+                                           FontWeight="Bold"/>
+                                <TextBlock Text="Grid.Resources ghi de PrimaryColor thanh mau xanh la"
+                                           FontSize="12" Foreground="Gray" Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+
+                    <!-- Ngoai Grid: van dung PrimaryColor cua Window = xanh duong -->
+                    <TextBlock Text="Ben ngoai Grid: van dung PrimaryColor = Xanh duong"
+                               FontSize="13"
+                               Foreground="{StaticResource PrimaryColor}"
+                               FontWeight="Bold"/>
+
+                    <TextBlock Text="→ Quy tac: WPF tim Resource tu trong ra ngoai, uu tien cap gan nhat"
+                               FontSize="12" Foreground="Gray" Margin="0,10,0,0"
+                               FontStyle="Italic"/>
+                </StackPanel>
+            </Border>
+
+            <!-- ============================== -->
+            <!-- PHAN 4: MINH HOA APP.XAML RESOURCES -->
+            <!-- ============================== -->
+            <!--
+                Cac Resource duoc khai bao trong App.xaml (Application Resources)
+                co the dung o BAT KY Window nao trong app
+                Day la noi ly tuong de dat:
+                - Mau chu dao cua app
+                - Font chinh
+                - Spacing chuan
+            -->
+            <Border Background="White"
+                    Padding="{StaticResource CardPadding}"
+                    BorderBrush="{StaticResource BorderColor}"
+                    BorderThickness="1" CornerRadius="5">
+                <StackPanel>
+                    <TextBlock Text="PHAN 4: Resources tu App.xaml"
+                               FontSize="{StaticResource HeadingFontSize}"
+                               FontWeight="Bold"
+                               Foreground="{StaticResource PrimaryColor}"
+                               Margin="0,0,0,15"/>
+
+                    <!--
+                        Cac Resource nay lay tu App.xaml (Application level)
+                        Co the dung o BAT KY Window nao trong app
+                    -->
+                    <TextBlock Text="Header dung AppHeaderBackground tu App.xaml"
+                               FontSize="16" FontWeight="Bold"
+                               Foreground="White"
+                               Padding="15,10"
+                               Background="{StaticResource AppHeaderBackground}"/>
+
+                    <TextBlock Text="Text dung AppTextColor tu App.xaml"
+                               FontSize="{StaticResource BodyFontSize}"
+                               Foreground="{StaticResource AppTextColor}"
+                               Margin="0,10,0,0"/>
+
+                    <Button Content="Button dung AppAccentColor tu App.xaml"
+                            Background="{StaticResource AppAccentColor}"
+                            Foreground="White" Height="35"
+                            Margin="0,10,0,0"
+                            BorderThickness="0" Cursor="Hand"/>
+
+                    <TextBlock Text="Cac Resource nay duoc khai bao trong App.xaml va dung chung cho toan bo app"
+                               FontSize="12" Foreground="Gray" Margin="0,10,0,0"
+                               FontStyle="Italic"/>
+                </StackPanel>
+            </Border>
+
+        </StackPanel>
+    </ScrollViewer>
+</Window>

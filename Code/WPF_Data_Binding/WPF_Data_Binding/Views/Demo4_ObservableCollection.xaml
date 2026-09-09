@@ -1,0 +1,229 @@
+<Window x:Class="WPF_Data_Binding.Views.Demo4_ObservableCollection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Demo 4: ObservableCollection - Danh sach tu dong cap nhat"
+        Height="700" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="#FAFAFA">
+
+    <!--
+        ObservableCollection<T> la gi?
+        - La collection dac biet, TU DONG thong bao UI khi THEM/XOA/THAY DOI phan tu
+        - Khac voi List<T>: List KHONG thong bao → UI KHONG cap nhat khi Add/Remove
+        - ObservableCollection implement INotifyCollectionChanged
+
+        So sanh:
+        - List<T> + Add() → UI KHONG cap nhat
+        - ObservableCollection<T> + Add() → UI TU DONG cap nhat
+
+        Luu y:
+        - ObservableCollection chi thong bao khi Add/Remove/Clear (thay doi DANH SACH)
+        - De thong bao khi thay doi PROPERTY cua tung item → item phai co INotifyPropertyChanged
+        - Trong demo nay, Student co INPC → khi tick CheckBox → property cap nhat
+    -->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- ========== FORM THEM SINH VIEN ========== -->
+        <Border Grid.Row="0"
+                Background="#F5F5F5"
+                Padding="20"
+                BorderBrush="#E0E0E0"
+                BorderThickness="0,0,0,1">
+            <StackPanel>
+                <TextBlock Text="THEM SINH VIEN MOI"
+                           FontSize="18" FontWeight="Bold"
+                           Margin="0,0,0,15"/>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="100"/>
+                        <ColumnDefinition Width="100"/>
+                        <ColumnDefinition Width="120"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- TextBox nhap ten -->
+                    <TextBox x:Name="txtName"
+                             Grid.Column="0"
+                             Height="35" Margin="0,0,10,0"
+                             VerticalContentAlignment="Center"
+                             Padding="10,0" FontSize="14"/>
+
+                    <!-- TextBox nhap tuoi -->
+                    <TextBox x:Name="txtAge"
+                             Grid.Column="1"
+                             Height="35" Margin="0,0,10,0"
+                             VerticalContentAlignment="Center"
+                             Padding="10,0" FontSize="14"/>
+
+                    <!-- TextBox nhap GPA -->
+                    <TextBox x:Name="txtGPA"
+                             Grid.Column="2"
+                             Height="35" Margin="0,0,10,0"
+                             VerticalContentAlignment="Center"
+                             Padding="10,0" FontSize="14"/>
+
+                    <!--
+                        Khi click "Them":
+                        1. Tao Student moi tu du lieu nhap
+                        2. Goi students.Add(newStudent)
+                        3. ObservableCollection thong bao UI
+                        4. ListBox TU DONG hien thi item moi
+                    -->
+                    <Button Content="Them"
+                            Grid.Column="3"
+                            Height="35"
+                            Background="#4CAF50" Foreground="White"
+                            FontSize="14" FontWeight="SemiBold"
+                            BorderThickness="0" Cursor="Hand"
+                            Click="Add_Click"/>
+                </Grid>
+
+                <!-- Label huong dan -->
+                <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                    <TextBlock Text="Ho ten" Width="250" Foreground="Gray" FontSize="12"/>
+                    <TextBlock Text="Tuoi" Width="100" Foreground="Gray" FontSize="12"/>
+                    <TextBlock Text="GPA (0-4)" Width="100" Foreground="Gray" FontSize="12"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- ========== DANH SACH SINH VIEN ========== -->
+        <!--
+            ListBox.ItemsSource bind voi ObservableCollection
+            - ItemsSource="{Binding}": lay du lieu tu DataContext (ObservableCollection)
+            - Khi collection thay doi (Add/Remove/Clear) → ListBox tu dong cap nhat
+
+            DataTemplate:
+            - Dinh nghia cach hien thi MOI ITEM trong ListBox
+            - DataContext cua moi item la 1 Student object
+            - {Binding Name} = Student.Name cua item hien tai
+            - {Binding Age} = Student.Age cua item hien tai
+        -->
+        <ListBox Grid.Row="1"
+                 x:Name="lstStudents"
+                 ItemsSource="{Binding}"
+                 Background="White"
+                 BorderThickness="0"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListBox.ItemTemplate>
+                <!--
+                    DataTemplate dinh nghia layout cho MOI ITEM:
+                    - Moi item = 1 Border chua Grid 4 cot
+                    - Cot 0: Ten sinh vien
+                    - Cot 1: Tuoi
+                    - Cot 2: GPA (trong badge mau xanh)
+                    - Cot 3: Button Xoa
+                -->
+                <DataTemplate>
+                    <Border BorderBrush="#E0E0E0"
+                            BorderThickness="0,0,0,1"
+                            Padding="15,10"
+                            Background="White">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="120"/>
+                                <ColumnDefinition Width="80"/>
+                            </Grid.ColumnDefinitions>
+
+                            <!-- Ten sinh vien -->
+                            <!-- {Binding Name}: lay tu Student.Name cua item nay -->
+                            <TextBlock Grid.Column="0"
+                                      Text="{Binding Name}"
+                                      FontSize="14" FontWeight="SemiBold"
+                                      VerticalAlignment="Center"/>
+
+                            <!-- Tuoi -->
+                            <StackPanel Grid.Column="1"
+                                       Orientation="Horizontal"
+                                       VerticalAlignment="Center">
+                                <TextBlock Text="{Binding Age}"
+                                          FontSize="14" Margin="0,0,5,0"/>
+                                <TextBlock Text="tuoi"
+                                          FontSize="12" Foreground="Gray"/>
+                            </StackPanel>
+
+                            <!-- GPA badge -->
+                            <!--
+                                StringFormat='GPA: {0:F2}': format hien thi
+                                - GPA: prefix
+                                - {0:F2}: gia tri voi 2 chu so thap phan
+                                Vi du: GPA = 3.5 → "GPA: 3.50"
+                            -->
+                            <Border Grid.Column="2"
+                                   Background="#E8F5E9"
+                                   CornerRadius="3"
+                                   Padding="8,4"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center">
+                                <TextBlock Text="{Binding GPA, StringFormat='GPA: {0:F2}'}"
+                                          FontSize="13" FontWeight="Bold"
+                                          Foreground="#2E7D32"/>
+                            </Border>
+
+                            <!-- Button Xoa -->
+                            <!--
+                                Tag="{Binding}":
+                                - Luu reference den Student object cua item nay vao Tag
+                                - Khi click, lay Student tu Tag de biet xoa ai
+                                - Tag la thuoc tinh "tui do" cua moi FrameworkElement
+                            -->
+                            <Button Grid.Column="3"
+                                   Content="Xoa"
+                                   Background="#F44336" Foreground="White"
+                                   BorderThickness="0"
+                                   Padding="10,5" Cursor="Hand"
+                                   Click="Delete_Click"
+                                   Tag="{Binding}"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <!-- ========== THONG KE ========== -->
+        <Border Grid.Row="2"
+                Background="#1976D2"
+                Padding="15"
+                BorderBrush="#1565C0"
+                BorderThickness="0,1,0,0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!--
+                    {Binding Count}: lay so luong phan tu trong ObservableCollection
+                    Tu dong cap nhat khi Add/Remove/Clear
+                -->
+                <StackPanel Grid.Column="0" Orientation="Horizontal">
+                    <TextBlock Text="Tong so sinh vien: "
+                              Foreground="White" FontSize="14" FontWeight="SemiBold"/>
+                    <TextBlock x:Name="txtCount"
+                              Foreground="White" FontSize="14" FontWeight="Bold"/>
+                </StackPanel>
+
+                <!--
+                    Khi click "Xoa tat ca":
+                    students.Clear() → ObservableCollection thong bao
+                    → ListBox tu dong xoa het items
+                -->
+                <Button Grid.Column="1"
+                       Content="Xoa tat ca"
+                       Background="#D32F2F" Foreground="White"
+                       BorderThickness="0"
+                       Padding="15,8" Cursor="Hand"
+                       Click="ClearAll_Click"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
