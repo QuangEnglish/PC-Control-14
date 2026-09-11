@@ -1,0 +1,698 @@
+<Window x:Class="WPF_Styles_Templates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Styles_Templates"
+        mc:Ignorable="d"
+        Title="Buoi 3: Styles and Templates Demo"
+        Height="700" Width="900"
+        Background="#F5F5F5"
+        WindowStartupLocation="CenterScreen">
+
+    <!-- ================================================================ -->
+    <!-- MAINWINDOW.XAML - Demo tat ca khai niem trong bai giang          -->
+    <!-- Dung TabControl de chia thanh cac phan rieng biet                -->
+    <!-- Moi tab tuong ung voi 1 phan kien thuc                          -->
+    <!-- ================================================================ -->
+
+    <!-- ================================================================ -->
+    <!-- WINDOW.RESOURCES: Cac Style/Template CHI dung trong Window nay   -->
+    <!-- Khac voi App.xaml (dung toan app), day chi co pham vi Window     -->
+    <!-- ================================================================ -->
+    <Window.Resources>
+
+        <!-- ============================================================ -->
+        <!-- STYLE CHO TEXTBOX VOI TRIGGER (Focus thay doi border)        -->
+        <!-- ============================================================ -->
+        <!-- GIAI THICH TRIGGER:                                          -->
+        <!-- Trigger = "Khi dieu kien xay ra -> tu dong thay doi style"   -->
+        <!-- O day: Khi TextBox duoc focus (IsFocused=True)               -->
+        <!--        -> Border doi tu xam sang xanh, day hon               -->
+        <!-- Giong nhu den giao thong: xe di qua -> den tu dong doi mau   -->
+        <Style x:Key="ModernTextBox" TargetType="TextBox">
+            <!-- Trang thai mac dinh -->
+            <Setter Property="Height" Value="38"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="BorderBrush" Value="{StaticResource BorderColor}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,5,0,10"/>
+
+            <!-- TRIGGERS: Dieu kien thay doi style -->
+            <Style.Triggers>
+                <!-- Khi TextBox duoc focus -> border xanh, day 2px -->
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="BorderBrush" Value="{StaticResource PrimaryColor}"/>
+                    <Setter Property="BorderThickness" Value="2"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+
+        <!-- ============================================================ -->
+        <!-- CONTROLTEMPLATE: Button bo tron (Round Button)               -->
+        <!-- ============================================================ -->
+        <!-- GIAI THICH CONTROLTEMPLATE:                                   -->
+        <!-- - Style chi thay doi THUOC TINH (mau, font, padding...)      -->
+        <!-- - ControlTemplate thay doi TOAN BO CAU TRUC ben trong        -->
+        <!--                                                              -->
+        <!-- Vi du thuc te:                                               -->
+        <!--   Style = Son lai tuong, thay noi that (giu nguyen nha)      -->
+        <!--   Template = Pha bo, xay lai nha theo thiet ke moi           -->
+        <!--                                                              -->
+        <!-- Thanh phan quan trong:                                       -->
+        <!--   TemplateBinding = Lay gia tri tu control cha               -->
+        <!--     VD: {TemplateBinding Background} lay Background cua Button -->
+        <!--   ContentPresenter = Hien thi Content cua control            -->
+        <!--     VD: Button Content="Hello" -> ContentPresenter hien "Hello" -->
+        <Style x:Key="RoundButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource PrimaryColor}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Padding" Value="25,10"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <!-- Template thay doi cau truc Button -->
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <!-- Border voi CornerRadius de bo tron -->
+                        <!-- TemplateBinding: lay gia tri tu Button cha -->
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="20"
+                                Padding="{TemplateBinding Padding}">
+                            <!-- ContentPresenter: hien thi Content cua Button -->
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+
+                        <!-- Trigger TRONG Template -->
+                        <!-- Dung TargetName="border" de chi dinh doi Border nao -->
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource PrimaryDark}"/>
+                                <Setter TargetName="border" Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect ShadowDepth="3" BlurRadius="10" Opacity="0.3"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource PrimaryVeryDark}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+        <!-- ============================================================ -->
+        <!-- CONTROLTEMPLATE: Button voi Icon (Icon Button)               -->
+        <!-- ============================================================ -->
+        <!-- Template nay them icon (emoji) truoc Content cua Button      -->
+        <!-- Cau truc: [Icon] [Content]  xep ngang bang StackPanel        -->
+        <Style x:Key="IconSaveButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource SuccessColor}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="5"
+                                Padding="15,8">
+                            <!-- StackPanel Horizontal: xep icon va text ngang hang -->
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="&#x2713;"
+                                           FontSize="16" FontWeight="Bold"
+                                           Foreground="White" Margin="0,0,8,0"
+                                           VerticalAlignment="Center"/>
+                                <ContentPresenter VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource SuccessDark}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource SuccessVeryDark}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="IconDeleteButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource DangerColor}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="5"
+                                Padding="15,8">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="&#x2717;"
+                                           FontSize="16" FontWeight="Bold"
+                                           Foreground="White" Margin="0,0,8,0"
+                                           VerticalAlignment="Center"/>
+                                <ContentPresenter VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource DangerDark}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="{StaticResource DangerVeryDark}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+        <!-- ============================================================ -->
+        <!-- CONTROLTEMPLATE: Toggle Switch (tu CheckBox)                 -->
+        <!-- ============================================================ -->
+        <!-- GIAI THICH:                                                  -->
+        <!-- CheckBox mac dinh thi co hinh vuong tick/untick              -->
+        <!-- ControlTemplate cho phep ta THAY DOI HOAN TOAN giao dien    -->
+        <!-- -> Bien CheckBox thanh cong tac ON/OFF giong iOS/Android     -->
+        <!--                                                              -->
+        <!-- Cau truc:                                                    -->
+        <!--   - track (Border): thanh ngang lam nen                      -->
+        <!--   - thumb (Ellipse): nut tron truot trai/phai                -->
+        <!--                                                              -->
+        <!-- Trigger IsChecked=True:                                      -->
+        <!--   - track doi mau tu xam -> xanh la                         -->
+        <!--   - thumb truot tu trai -> phai                              -->
+        <Style x:Key="ToggleSwitch" TargetType="CheckBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="CheckBox">
+                        <Grid>
+                            <!-- Track: thanh ngang nen -->
+                            <Border Width="50" Height="26"
+                                    Background="#BDBDBD"
+                                    CornerRadius="13"
+                                    x:Name="track"/>
+                            <!-- Thumb: nut tron truot -->
+                            <Ellipse Width="22" Height="22"
+                                     Fill="White"
+                                     HorizontalAlignment="Left"
+                                     Margin="2,0,0,0"
+                                     x:Name="thumb">
+                                <Ellipse.Effect>
+                                    <DropShadowEffect ShadowDepth="1" BlurRadius="3" Opacity="0.3"/>
+                                </Ellipse.Effect>
+                            </Ellipse>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <!-- Khi CheckBox duoc check (ON) -->
+                            <Trigger Property="IsChecked" Value="True">
+                                <Setter TargetName="track" Property="Background" Value="{StaticResource SuccessColor}"/>
+                                <Setter TargetName="thumb" Property="HorizontalAlignment" Value="Right"/>
+                                <Setter TargetName="thumb" Property="Margin" Value="0,0,2,0"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+        <!-- ============================================================ -->
+        <!-- DATATEMPLATE: Hien thi Contact trong ListBox                 -->
+        <!-- ============================================================ -->
+        <!-- GIAI THICH DATATEMPLATE:                                     -->
+        <!-- - DataTemplate dinh nghia CACH HIEN THI 1 item trong list    -->
+        <!-- - Giong template card danh ba: moi nguoi co avatar, ten,...  -->
+        <!--   hien thi theo CUNG 1 FORMAT                                -->
+        <!--                                                              -->
+        <!-- {Binding Name} = lay gia tri property Name tu object Contact -->
+        <!-- Moi item trong ListBox tuong ung voi 1 Contact object        -->
+        <DataTemplate x:Key="ContactTemplate">
+            <Border BorderBrush="#E0E0E0"
+                    BorderThickness="0,0,0,1"
+                    Padding="15,10"
+                    Cursor="Hand">
+                <!-- Background dat trong Style de Trigger hover hoat dong -->
+                <!-- Neu dat Background="White" truc tiep tren Border (local value) -->
+                <!-- thi local value CO DO UU TIEN CAO HON Style Trigger -> hover khong chay -->
+                <Border.Style>
+                    <Style TargetType="Border">
+                        <Setter Property="Background" Value="White"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#F5F5F5"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Border.Style>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Avatar tron: hien thi chu cai dau cua ten -->
+                    <Border Grid.Column="0"
+                            Width="50" Height="50"
+                            CornerRadius="25"
+                            Background="{StaticResource PrimaryColor}">
+                        <Border.Effect>
+                            <DropShadowEffect ShadowDepth="2" BlurRadius="5" Opacity="0.3"/>
+                        </Border.Effect>
+                        <!-- {Binding Initial} lay tu property Initial cua Contact -->
+                        <TextBlock Text="{Binding Initial}"
+                                   Foreground="White"
+                                   FontSize="24" FontWeight="Bold"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"/>
+                    </Border>
+
+                    <!-- Thong tin lien he -->
+                    <StackPanel Grid.Column="1"
+                                Margin="15,0,0,0"
+                                VerticalAlignment="Center">
+                        <TextBlock Text="{Binding Name}"
+                                   FontSize="16" FontWeight="SemiBold"/>
+                        <TextBlock Text="{Binding Phone}"
+                                   Foreground="#757575" FontSize="13"
+                                   Margin="0,3,0,0"/>
+                        <TextBlock Text="{Binding Email}"
+                                   Foreground="#9E9E9E" FontSize="12"
+                                   Margin="0,2,0,0"/>
+                    </StackPanel>
+
+                    <!-- Nut goi dien -->
+                    <Button Grid.Column="2"
+                            Content="&#x260E;"
+                            FontSize="24"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Width="40" Height="40"
+                            Cursor="Hand"
+                            VerticalAlignment="Center"/>
+                </Grid>
+            </Border>
+        </DataTemplate>
+
+
+        <!-- ============================================================ -->
+        <!-- DATATEMPLATE: Card san pham (Product Card)                   -->
+        <!-- ============================================================ -->
+        <!-- Template phuc tap hon: card co shadow, nhieu phan            -->
+        <!-- Mo phong giao dien e-commerce nhu Shopee, Tiki               -->
+        <DataTemplate x:Key="ProductCard">
+            <Border Background="White"
+                    BorderBrush="#E0E0E0"
+                    BorderThickness="1"
+                    CornerRadius="8"
+                    Margin="10"
+                    Width="200" Height="280">
+                <Border.Effect>
+                    <DropShadowEffect ShadowDepth="2" BlurRadius="8" Opacity="0.15"/>
+                </Border.Effect>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="120"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Phan hinh anh (placeholder) -->
+                    <Border Grid.Row="0"
+                            Background="#F5F5F5"
+                            CornerRadius="8,8,0,0">
+                        <TextBlock Text="&#x2610;"
+                                   FontSize="50"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"/>
+                    </Border>
+
+                    <!-- Thong tin san pham -->
+                    <StackPanel Grid.Row="1" Margin="12">
+                        <!-- Ten san pham -->
+                        <TextBlock Text="{Binding Name}"
+                                   FontSize="14" FontWeight="Bold"
+                                   TextTrimming="CharacterEllipsis"
+                                   Margin="0,0,0,5"/>
+                        <!-- Gia: StringFormat dinh dang so -->
+                        <TextBlock Text="{Binding Price, StringFormat='{}{0:N0} VND'}"
+                                   Foreground="#F44336"
+                                   FontSize="16" FontWeight="Bold"
+                                   Margin="0,0,0,5"/>
+                        <!-- Rating -->
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                            <TextBlock Text="*" FontSize="13" Foreground="#FFC107"/>
+                            <TextBlock Text="{Binding Rating, StringFormat='{}{0:F1}'}"
+                                       FontSize="13" Margin="3,0,0,0"/>
+                        </StackPanel>
+                        <!-- Ton kho -->
+                        <TextBlock Foreground="#757575" FontSize="12">
+                            <Run Text="Con:"/>
+                            <Run Text="{Binding Stock, Mode=OneWay}"/>
+                            <Run Text="san pham"/>
+                        </TextBlock>
+                        <!-- Nut them vao gio -->
+                        <Button Content="Them vao gio"
+                                Style="{StaticResource SuccessButton}"
+                                HorizontalAlignment="Stretch"
+                                Margin="0,8,0,0"
+                                Padding="10,5"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </DataTemplate>
+
+    </Window.Resources>
+
+
+    <!-- ================================================================ -->
+    <!-- GIAO DIEN CHINH: TabControl chia cac phan demo                   -->
+    <!-- ================================================================ -->
+    <Grid>
+        <TabControl Margin="10" FontSize="13">
+
+            <!-- ======================================================== -->
+            <!-- TAB 1: STYLES CO BAN + BASEDON + TRIGGER                 -->
+            <!-- ======================================================== -->
+            <TabItem Header="1. Styles + Triggers">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="20">
+
+                        <!-- PHAN 1A: He thong Button voi BasedOn -->
+                        <TextBlock Text="HE THONG BUTTON (BasedOn - Ke thua Style)"
+                                   FontSize="20" FontWeight="Bold"
+                                   Foreground="{StaticResource PrimaryColor}"
+                                   Margin="0,0,0,5"/>
+                        <TextBlock Text="Tat ca button deu ke thua tu BaseButton (FontSize, Padding, Margin...)"
+                                   Foreground="{StaticResource TextSecondary}"
+                                   Margin="0,0,0,10"/>
+                        <TextBlock Text="Chi khac mau sac. Hover de thay Trigger thay doi mau!"
+                                   Foreground="{StaticResource TextSecondary}"
+                                   Margin="0,0,0,15"/>
+
+                        <!-- Cac button demo - moi button dung 1 style khac nhau -->
+                        <WrapPanel>
+                            <Button Content="Primary Button" Style="{StaticResource PrimaryButton}"/>
+                            <Button Content="Success Button" Style="{StaticResource SuccessButton}"/>
+                            <Button Content="Danger Button" Style="{StaticResource DangerButton}"/>
+                            <Button Content="Warning Button" Style="{StaticResource WarningButton}"/>
+                            <!-- Button disabled de demo Trigger IsEnabled=False -->
+                            <Button Content="Disabled Button" Style="{StaticResource PrimaryButton}" IsEnabled="False"/>
+                        </WrapPanel>
+
+                        <Separator Margin="0,20"/>
+
+                        <!-- PHAN 1B: Style mac dinh (khong co x:Key) -->
+                        <TextBlock Text="STYLE MAC DINH (Khong co x:Key)"
+                                   FontSize="20" FontWeight="Bold"
+                                   Foreground="{StaticResource PrimaryColor}"
+                                   Margin="0,0,0,5"/>
+                        <TextBlock Text="Label duoi day TU DONG co style (FontSize=14, Bold, mau dam) vi trong App.xaml co Style TargetType='Label' KHONG co x:Key"
+                                   Foreground="{StaticResource TextSecondary}"
+                                   TextWrapping="Wrap"
+                                   Margin="0,0,0,15"/>
+
+                        <!-- Cac Label nay TU DONG co style tu App.xaml -->
+                        <Label Content="Label 1 - Tu dong co style (khong can chi dinh)"/>
+                        <Label Content="Label 2 - Cung tu dong co style"/>
+                        <Label Content="Label 3 - Tat ca Label giong nhau"/>
+
+                        <Separator Margin="0,20"/>
+
+                        <!-- PHAN 1C: TextBox voi Trigger Focus -->
+                        <TextBlock Text="TEXTBOX VOI TRIGGER (Focus thay doi border)"
+                                   FontSize="20" FontWeight="Bold"
+                                   Foreground="{StaticResource PrimaryColor}"
+                                   Margin="0,0,0,5"/>
+                        <TextBlock Text="Click vao TextBox de thay border doi tu xam -> xanh duong!"
+                                   Foreground="{StaticResource TextSecondary}"
+                                   Margin="0,0,0,15"/>
+
+                        <StackPanel Width="350" HorizontalAlignment="Left">
+                            <Label Content="Ho ten:"/>
+                            <TextBox Style="{StaticResource ModernTextBox}"/>
+                            <Label Content="Email:"/>
+                            <TextBox Style="{StaticResource ModernTextBox}"/>
+                            <Label Content="So dien thoai:"/>
+                            <TextBox Style="{StaticResource ModernTextBox}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+
+            <!-- ======================================================== -->
+            <!-- TAB 2: CONTROLTEMPLATE                                   -->
+            <!-- ======================================================== -->
+            <TabItem Header="2. ControlTemplate">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="20">
+
+                        <!-- Round Button -->
+                        <TextBlock Text="ROUND BUTTON (Bo tron bang CornerRadius)"
+                                   FontSize="20" FontWeight="Bold"
+                                   Foreground="{StaticResource PrimaryColor}"
+                                   Margin="0,0,0,5"/>
+                        <TextBlock Text="Button mac dinh co goc vuong. ControlTemplate cho phep tao Border voi CornerRadius de bo tron."
+                                   Foreground="{StaticResource TextSecondary}"
+                                   TextWrapping="Wrap"
+                                   Margin="0,0,0,15"/>
+
+                        <WrapPanel>
+                            <Button Content="Round Button" Style="{StaticResource RoundButton}"/>
+                            <Button Content="Click Me!" Style="{StaticResource RoundButton}"
+                                    Background="{StaticResource SuccessColor}"/>
+                            <Button Content="Styled!" Style="{StaticResource RoundButton}"
+                                    Background="{StaticResource WarningColor}"/>
+                        </WrapPanel>
+
+                        <Separator Margin="0,20"/>
+
+                        <!-- Icon Button -->
+                        <TextBlock Text="ICON BUTTON (Them icon truoc Content)"
+                                   FontSize="20" FontWeight="Bold"
+                                   Foreground="{StaticResource PrimaryColor}"
+                                   Margin="0,0,0,5"/>
+                        <TextBlock Text="Template co StackPanel chua Icon + ContentPresenter xep ngang."
+                                   Foreground="{StaticResource TextSecondary}"
+                                   Margin="0,0,0,15"/>
+
+                        <WrapPanel>
+                            <Button Content="Luu lai" Style="{StaticResource IconSaveButton}"/>
+                            <Button Content="Xoa bo" Style="{StaticResource IconDeleteButton}"/>
+                        </WrapPanel>
+
+                        <Separator Margin="0,20"/>
+
+                        <!-- Toggle Switch -->
+                        <TextBlock Text="TOGGLE SWITCH (CheckBox -> Cong tac ON/OFF)"
+                                   FontSize="20" FontWeight="Bold"
+                                   Foreground="{StaticResource PrimaryColor}"
+                                   Margin="0,0,0,5"/>
+                        <TextBlock Text="CheckBox mac dinh: hinh vuong tick. ControlTemplate bien no thanh cong tac truot giong iOS/Android."
+                                   Foreground="{StaticResource TextSecondary}"
+                                   TextWrapping="Wrap"
+                                   Margin="0,0,0,15"/>
+
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5">
+                                <CheckBox Style="{StaticResource ToggleSwitch}"/>
+                                <TextBlock Text="  Wi-Fi" VerticalAlignment="Center" FontSize="14"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5">
+                                <CheckBox Style="{StaticResource ToggleSwitch}" IsChecked="True"/>
+                                <TextBlock Text="  Bluetooth (ON)" VerticalAlignment="Center" FontSize="14"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5">
+                                <CheckBox Style="{StaticResource ToggleSwitch}"/>
+                                <TextBlock Text="  Dark Mode" VerticalAlignment="Center" FontSize="14"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+
+            <!-- ======================================================== -->
+            <!-- TAB 3: DATATEMPLATE - Danh ba lien he                    -->
+            <!-- ======================================================== -->
+            <TabItem Header="3. DataTemplate - Danh ba">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Header -->
+                    <Border Grid.Row="0"
+                            Background="{StaticResource PrimaryColor}"
+                            Padding="20">
+                        <Grid>
+                            <TextBlock Text="&#x260E; DANH BA LIEN HE"
+                                       Foreground="White"
+                                       FontSize="22" FontWeight="Bold"
+                                       VerticalAlignment="Center"/>
+                            <Button Content="+ Them moi"
+                                    HorizontalAlignment="Right"
+                                    Background="{StaticResource AccentColor}"
+                                    Foreground="White"
+                                    BorderThickness="0"
+                                    Padding="15,8"
+                                    Cursor="Hand"/>
+                        </Grid>
+                    </Border>
+
+                    <!-- Danh sach Contact dung DataTemplate -->
+                    <!-- ItemTemplate="{StaticResource ContactTemplate}" -->
+                    <!-- = Moi Contact object se duoc hien thi theo ContactTemplate -->
+                    <ListBox Grid.Row="1"
+                             x:Name="ContactListBox"
+                             ItemTemplate="{StaticResource ContactTemplate}"
+                             Background="#FAFAFA"
+                             BorderThickness="0"
+                             ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                             HorizontalContentAlignment="Stretch"/>
+                </Grid>
+            </TabItem>
+
+
+            <!-- ======================================================== -->
+            <!-- TAB 4: DATATEMPLATE + ITEMSPANELTEMPLATE - San pham       -->
+            <!-- ======================================================== -->
+            <TabItem Header="4. DataTemplate + ItemsPanel">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Header -->
+                    <Border Grid.Row="0"
+                            Background="{StaticResource SuccessColor}"
+                            Padding="20">
+                        <TextBlock Text="&#x2605; CUA HANG ONLINE"
+                                   Foreground="White"
+                                   FontSize="22" FontWeight="Bold"/>
+                    </Border>
+
+                    <!-- Danh sach Product dung DataTemplate + WrapPanel -->
+                    <!-- ItemsPanelTemplate thay doi CACH SAP XEP items   -->
+                    <!-- Mac dinh ListBox xep DOC (StackPanel Vertical)   -->
+                    <!-- Doi thanh WrapPanel: xep NGANG, tu dong xuong dong -->
+                    <ListBox Grid.Row="1"
+                             x:Name="ProductListBox"
+                             ItemTemplate="{StaticResource ProductCard}"
+                             Background="#FAFAFA"
+                             BorderThickness="0"
+                             ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                        <!-- ITEMSPANELTEMPLATE: Thay doi layout -->
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <!-- WrapPanel: xep ngang, tu dong xuong dong khi het cho -->
+                                <WrapPanel HorizontalAlignment="Center"/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+
+
+            <!-- ======================================================== -->
+            <!-- TAB 5: FORM DANG NHAP (Ket hop Style + Template)         -->
+            <!-- ======================================================== -->
+            <TabItem Header="5. Form Dang Nhap">
+                <Grid Background="#F0F2F5">
+                    <!-- Card dang nhap nam giua man hinh -->
+                    <Border Background="White"
+                            CornerRadius="12"
+                            Width="400"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Padding="40,30">
+                        <Border.Effect>
+                            <DropShadowEffect ShadowDepth="3" BlurRadius="15" Opacity="0.15"/>
+                        </Border.Effect>
+
+                        <StackPanel>
+                            <!-- Logo / Title -->
+                            <TextBlock Text="DANG NHAP"
+                                       FontSize="28" FontWeight="Bold"
+                                       HorizontalAlignment="Center"
+                                       Foreground="{StaticResource PrimaryColor}"
+                                       Margin="0,0,0,5"/>
+                            <TextBlock Text="Chao mung ban tro lai!"
+                                       FontSize="14"
+                                       HorizontalAlignment="Center"
+                                       Foreground="{StaticResource TextSecondary}"
+                                       Margin="0,0,0,25"/>
+
+                            <!-- Form fields su dung Style co Trigger -->
+                            <Label Content="Email:"/>
+                            <TextBox Style="{StaticResource ModernTextBox}"
+                                     Text="demo@example.com"/>
+
+                            <Label Content="Mat khau:"/>
+                            <PasswordBox Height="38" Padding="10,0"
+                                         FontSize="14"
+                                         BorderBrush="{StaticResource BorderColor}"
+                                         BorderThickness="1"
+                                         Margin="0,5,0,10"/>
+
+                            <!-- Ghi nho dang nhap - dung ToggleSwitch -->
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,15">
+                                <CheckBox Style="{StaticResource ToggleSwitch}"/>
+                                <TextBlock Text="  Ghi nho dang nhap"
+                                           VerticalAlignment="Center" FontSize="13"/>
+                            </StackPanel>
+
+                            <!-- Buttons dung styles tu App.xaml -->
+                            <Button Content="Dang nhap"
+                                    Style="{StaticResource PrimaryButton}"
+                                    HorizontalAlignment="Stretch"
+                                    Height="40"
+                                    FontSize="16"/>
+
+                            <StackPanel Orientation="Horizontal"
+                                        HorizontalAlignment="Center"
+                                        Margin="0,15,0,0">
+                                <Button Content="Dang ky"
+                                        Style="{StaticResource SuccessButton}"
+                                        Padding="15,8"/>
+                                <Button Content="Quen mat khau"
+                                        Background="Transparent"
+                                        Foreground="{StaticResource PrimaryColor}"
+                                        BorderThickness="0"
+                                        Cursor="Hand"
+                                        FontSize="13"
+                                        Margin="10,0,0,0"
+                                        VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

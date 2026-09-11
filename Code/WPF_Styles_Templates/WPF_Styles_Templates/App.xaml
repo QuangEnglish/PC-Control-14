@@ -1,0 +1,188 @@
+<Application x:Class="WPF_Styles_Templates.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Styles_Templates"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <!-- ============================================================== -->
+        <!-- PHAN 1: DINH NGHIA MAU SAC (SolidColorBrush)                  -->
+        <!-- ============================================================== -->
+        <!-- Muc dich: Tap trung tat ca mau sac vao 1 cho.                 -->
+        <!-- Khi can doi mau, chi sua 1 cho thay vi tim khap project.      -->
+        <!-- Giong nhu "bang mau" cua designer - thong nhat toan app.      -->
+
+        <!-- Mau chinh (Primary) - Xanh duong -->
+        <SolidColorBrush x:Key="PrimaryColor" Color="#1E88E5"/>
+        <SolidColorBrush x:Key="PrimaryDark" Color="#1565C0"/>
+        <SolidColorBrush x:Key="PrimaryVeryDark" Color="#0D47A1"/>
+        <SolidColorBrush x:Key="PrimaryLight" Color="#E3F2FD"/>
+
+        <!-- Mau trang thai (Semantic Colors) -->
+        <SolidColorBrush x:Key="SuccessColor" Color="#4CAF50"/>
+        <SolidColorBrush x:Key="SuccessDark" Color="#388E3C"/>
+        <SolidColorBrush x:Key="SuccessVeryDark" Color="#2E7D32"/>
+
+        <SolidColorBrush x:Key="DangerColor" Color="#F44336"/>
+        <SolidColorBrush x:Key="DangerDark" Color="#D32F2F"/>
+        <SolidColorBrush x:Key="DangerVeryDark" Color="#B71C1C"/>
+
+        <SolidColorBrush x:Key="WarningColor" Color="#FF9800"/>
+        <SolidColorBrush x:Key="WarningDark" Color="#F57C00"/>
+        <SolidColorBrush x:Key="WarningVeryDark" Color="#E65100"/>
+
+        <!-- Mau text va border -->
+        <SolidColorBrush x:Key="TextPrimary" Color="#212121"/>
+        <SolidColorBrush x:Key="TextSecondary" Color="#757575"/>
+        <SolidColorBrush x:Key="TextDisabled" Color="#9E9E9E"/>
+        <SolidColorBrush x:Key="BorderColor" Color="#E0E0E0"/>
+        <SolidColorBrush x:Key="DisabledBg" Color="#E0E0E0"/>
+        <SolidColorBrush x:Key="AccentColor" Color="#FF4081"/>
+
+
+        <!-- ============================================================== -->
+        <!-- PHAN 2: STYLE HE THONG BUTTON (BasedOn - Ke thua Style)       -->
+        <!-- ============================================================== -->
+        <!-- GIAI THICH BasedOn:                                            -->
+        <!-- - BaseButton chua cac thuoc tinh CHUNG cho tat ca button       -->
+        <!--   (FontSize, Padding, Margin, Cursor...)                       -->
+        <!-- - PrimaryButton, SuccessButton... KE THUA tu BaseButton        -->
+        <!--   va CHI THEM mau sac rieng.                                   -->
+        <!-- - Khi muon doi Padding chung -> chi sua BaseButton 1 cho!      -->
+        <!--                                                                -->
+        <!-- Hinh dung nhu "dress code" cong ty:                            -->
+        <!--   BaseButton = "Ao so mi, quan tay" (chung cho tat ca)         -->
+        <!--   PrimaryButton = BaseButton + "Ca vat xanh"                   -->
+        <!--   DangerButton  = BaseButton + "Ca vat do"                     -->
+
+        <!-- STYLE GOC (Base) - Chua thuoc tinh chung -->
+        <Style x:Key="BaseButton" TargetType="Button">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Padding" Value="20,10"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+
+        <!-- PRIMARY BUTTON - Ke thua BaseButton + mau xanh duong -->
+        <!-- BasedOn="{StaticResource BaseButton}" = lay tat ca Setter tu BaseButton -->
+        <Style x:Key="PrimaryButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+            <Setter Property="Background" Value="{StaticResource PrimaryColor}"/>
+            <Style.Triggers>
+                <!-- Trigger: Khi di chuot vao (hover) -> doi mau dam hon -->
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="{StaticResource PrimaryDark}"/>
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect ShadowDepth="3" BlurRadius="8" Opacity="0.3"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <!-- Trigger: Khi nhan chuot (pressed) -> mau rat dam -->
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="{StaticResource PrimaryVeryDark}"/>
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect ShadowDepth="1" BlurRadius="3" Opacity="0.4"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <!-- Trigger: Khi bi vo hieu hoa (disabled) -> mau xam -->
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="{StaticResource DisabledBg}"/>
+                    <Setter Property="Foreground" Value="{StaticResource TextDisabled}"/>
+                    <Setter Property="Cursor" Value="Arrow"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- SUCCESS BUTTON - Ke thua BaseButton + mau xanh la -->
+        <Style x:Key="SuccessButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+            <Setter Property="Background" Value="{StaticResource SuccessColor}"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="{StaticResource SuccessDark}"/>
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect ShadowDepth="3" BlurRadius="8" Opacity="0.3"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="{StaticResource SuccessVeryDark}"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="{StaticResource DisabledBg}"/>
+                    <Setter Property="Foreground" Value="{StaticResource TextDisabled}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- DANGER BUTTON - Ke thua BaseButton + mau do -->
+        <Style x:Key="DangerButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+            <Setter Property="Background" Value="{StaticResource DangerColor}"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="{StaticResource DangerDark}"/>
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect ShadowDepth="3" BlurRadius="8" Opacity="0.3"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="{StaticResource DangerVeryDark}"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="{StaticResource DisabledBg}"/>
+                    <Setter Property="Foreground" Value="{StaticResource TextDisabled}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- WARNING BUTTON - Ke thua BaseButton + mau cam -->
+        <Style x:Key="WarningButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+            <Setter Property="Background" Value="{StaticResource WarningColor}"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="{StaticResource WarningDark}"/>
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect ShadowDepth="3" BlurRadius="8" Opacity="0.3"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="{StaticResource WarningVeryDark}"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="{StaticResource DisabledBg}"/>
+                    <Setter Property="Foreground" Value="{StaticResource TextDisabled}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+
+        <!-- ============================================================== -->
+        <!-- PHAN 3: STYLE MAC DINH (Khong co x:Key)                       -->
+        <!-- ============================================================== -->
+        <!-- GIAI THICH:                                                    -->
+        <!-- Khi Style KHONG co x:Key, no se TU DONG ap dung cho           -->
+        <!-- TAT CA control cung TargetType trong pham vi do.               -->
+        <!-- Vi du: Style TargetType="Label" khong co x:Key                 -->
+        <!--        -> Tat ca Label trong app deu co style nay.             -->
+        <!-- Khong can viet Style="{StaticResource ...}" tren tung Label.   -->
+
+        <!-- Style mac dinh cho Label - Ap dung cho TAT CA Label -->
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="{StaticResource TextPrimary}"/>
+            <Setter Property="Padding" Value="0,5"/>
+        </Style>
+
+    </Application.Resources>
+</Application>
